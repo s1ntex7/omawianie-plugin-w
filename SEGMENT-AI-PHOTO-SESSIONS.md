@@ -1144,6 +1144,366 @@ studio photography that's colorful and stylish, face in sharp focus.
 
 ---
 
+## 🎯 ROZSZERZONA BAZA - PROMPTY 81-160 (ASPIRATIONAL EDITION)
+
+**Dodatkowe 80 promptów - mega estetyczne i aspiracyjne!**
+
+---
+
+### STYL 11: EDITORIAL MAGAZINE 📖
+
+**Zastosowanie:** Vogue vibes, Harper's Bazaar, high fashion editorial
+
+---
+
+#### 11.1 Vogue Style
+
+**Prompt 81:**
+```
+A photorealistic close-up portrait of a woman in avant-garde high fashion headpiece with dramatic sculptural elements, striking editorial gaze. Set against pure white infinity background. The scene is illuminated by high-contrast editorial lighting creating bold graphic shadows, producing a powerful Vogue-cover atmosphere. Captured with an 85mm portrait lens with dramatic composition, emphasizing high-fashion editorial photography that's iconic and striking, face in sharp focus.
+```
+
+**Prompt 82:**
+```
+A photorealistic bust shot of a woman in couture designer gown with architectural neckline, hair styled in dramatic updo. Set against minimal grey backdrop. The scene is illuminated by soft beauty lighting creating flawless editorial atmosphere, producing a sophisticated Harper's Bazaar mood. Captured with an 85mm portrait lens, emphasizing luxury fashion editorial that's elegant and aspirational, face in sharp focus.
+```
+
+**Prompt 83:**
+```
+A photorealistic portrait of a woman in bold monochromatic editorial styling - all red or all black ensemble, dramatic makeup. Set against matching colored background. The scene is illuminated by studio lighting with colored gels creating artistic editorial atmosphere, producing a contemporary Vogue Italia vibe. Captured with an 85mm portrait lens, emphasizing bold editorial fashion that's daring and beautiful, face in sharp focus.
+```
+
+**Prompt 84:**
+```
+A photorealistic close-up of a woman with wet-look slicked hair and dewy editorial makeup, wearing metallic or reflective fabric. Set against dark dramatic background. The scene is illuminated by directional key light creating glossy editorial atmosphere, producing a modern fashion magazine mood. Captured with an 85mm portrait lens, emphasizing editorial beauty photography that's striking and polished, face in sharp focus.
+```
+
+**Prompt 85:**
+```
+A photorealistic bust shot of a woman in oversized luxury coat or blazer with strong shoulders, minimal jewelry, powerful stance. Set in minimalist editorial environment. The scene is illuminated by clean directional lighting creating sophisticated atmosphere, producing a power fashion editorial vibe. Captured with an 85mm portrait lens, emphasizing contemporary editorial style that's strong and elegant, face in sharp focus.
+```
+
+---
+
+#### 11.2 Street Editorial
+
+**Prompt 86:**
+```
+A photorealistic portrait of a woman in designer street style editorial - mixing high fashion with urban elements. Set on city street with architectural lines and modern buildings blurred behind. The scene is illuminated by natural urban daylight creating contemporary editorial atmosphere, producing a street fashion magazine mood. Captured with an 85mm portrait lens, emphasizing street style editorial that's trendy and sophisticated, face in sharp focus.
+```
+
+**Prompt 87:**
+```
+A photorealistic close-up of a woman in editorial sunglasses and designer accessories, fashion-forward styling. Set against urban concrete or industrial backdrop. The scene is illuminated by overcast natural light creating moody editorial atmosphere, producing a cool fashion moment. Captured with an 85mm portrait lens, emphasizing accessories editorial photography that's stylish and modern, face in sharp focus.
+```
+
+**Prompt 88:**
+```
+A photorealistic bust shot of a woman in luxury athleisure editorial - high-end sportswear styled fashionably. Set in urban minimalist location with clean lines blurred behind. The scene is illuminated by bright natural light creating fresh contemporary atmosphere, producing a modern lifestyle editorial vibe. Captured with an 85mm portrait lens, emphasizing athleisure editorial that's chic and aspirational, face in sharp focus.
+```
+
+**Prompt 89:**
+```
+A photorealistic portrait of a woman in statement coat walking confidently, fashion editorial movement captured. Set on city street with motion blur in background. The scene is illuminated by golden hour creating editorial magic hour atmosphere, producing a dynamic fashion moment. Captured with an 85mm portrait lens with slight motion, emphasizing street editorial photography that's energetic and stylish, face in sharp focus.
+```
+
+**Prompt 90:**
+```
+A photorealistic close-up of a woman with editorial hat or headwear styling, dramatic fashion accessory. Set against modern urban background blurred softly. The scene is illuminated by natural directional light creating sophisticated editorial atmosphere, producing a fashion accessory moment. Captured with an 85mm portrait lens, emphasizing editorial headwear photography that's striking and elegant, face in sharp focus.
+```
+
+---
+
+### STYL 12: LUXURY LIFESTYLE 🛥️
+
+**Zastosowanie:** Yacht, luxury cars, exotic hotels, aspirational living
+
+---
+
+#### 12.1 Yacht & Ocean
+
+**Prompt 91:**
+```
+A photorealistic portrait of a woman on luxury yacht deck, flowing white linen dress billowing in sea breeze. Set with ocean and horizon blurred behind. The scene is illuminated by golden hour sunlight reflecting off water, creating a luxurious coastal atmosphere. Captured with an 85mm portrait lens, emphasizing luxury yacht lifestyle that's elegant and aspirational, face in sharp focus.
+```
+
+**Prompt 92:**
+```
+A photorealistic close-up of a woman in designer swimwear and oversized sunglasses on yacht, champagne glass near face. Set with blue ocean and sky blurred behind. The scene is illuminated by bright summer sunlight creating vibrant luxury atmosphere, producing an exclusive yacht club vibe. Captured with an 85mm portrait lens, emphasizing luxury vacation photography that's glamorous and desirable, face in sharp focus.
+```
+
+**Prompt 93:**
+```
+A photorealistic bust shot of a woman at bow of yacht, hair flowing in wind, elegant resort wear. Set with ocean spray and horizon blurred dramatically. The scene is illuminated by natural maritime light creating free luxurious atmosphere, producing an adventurous luxury mood. Captured with an 85mm portrait lens, emphasizing yacht lifestyle photography that's dynamic and beautiful, face in sharp focus.
+```
+
+---
+
+#### 12.2 Luxury Cars & Travel
+
+**Prompt 94:**
+```
+A photorealistic portrait of a woman in elegant outfit beside luxury sports car, sophisticated traveler vibe. Set in exotic location with palm trees or modern architecture blurred behind. The scene is illuminated by golden hour creating glamorous atmosphere, producing a luxury lifestyle moment. Captured with an 85mm portrait lens, emphasizing luxury car lifestyle that's aspirational and chic, face in sharp focus.
+```
+
+**Prompt 95:**
+```
+A photorealistic close-up of a woman in backseat of luxury car, city lights bokeh visible through window. Set in evening urban setting with ambient city glow. The scene is illuminated by soft interior luxury car lighting mixed with city lights, creating an elegant nightlife atmosphere. Captured with an 85mm portrait lens, emphasizing luxury urban lifestyle that's sophisticated and modern, face in sharp focus.
+```
+
+---
+
+#### 12.3 Five-Star Hotels
+
+**Prompt 96:**
+```
+A photorealistic bust shot of a woman in silk robe on luxury hotel balcony, morning coffee in hand. Set with exotic city skyline or ocean view blurred behind. The scene is illuminated by soft morning light filtering through, creating a peaceful luxury morning atmosphere. Captured with an 85mm portrait lens, emphasizing luxury hotel lifestyle that's serene and aspirational, face in sharp focus.
+```
+
+**Prompt 97:**
+```
+A photorealistic portrait of a woman in elegant evening dress in five-star hotel lobby, marble and chandeliers blurred behind. The scene is illuminated by warm ambient luxury lighting creating opulent atmosphere, producing a sophisticated traveler vibe. Captured with an 85mm portrait lens, emphasizing luxury hospitality lifestyle that's elegant and glamorous, face in sharp focus.
+```
+
+**Prompt 98:**
+```
+A photorealistic close-up of a woman in plush hotel robe at spa, serene peaceful expression. Set in luxury spa environment with soft textures blurred around. The scene is illuminated by soft ambient spa lighting creating tranquil atmosphere, producing a wellness luxury mood. Captured with an 85mm portrait lens, emphasizing luxury spa lifestyle that's peaceful and indulgent, face in sharp focus.
+```
+
+---
+
+### STYL 13: BOHO DESERT/FESTIVAL 🌵
+
+**Zastosowanie:** Free spirit, desert vibes, festival aesthetic
+
+---
+
+#### 13.1 Desert Wanderer
+
+**Prompt 99:**
+```
+A photorealistic portrait of a woman in flowing bohemian dress with long free hair, standing in desert landscape. Set among sand dunes and desert plants blurred behind. The scene is illuminated by golden hour desert light creating warm ethereal atmosphere, producing a free-spirited wanderer vibe. Captured with an 85mm portrait lens, emphasizing boho desert photography that's dreamy and adventurous, face in sharp focus.
+```
+
+**Prompt 100:**
+```
+A photorealistic close-up of a woman with natural makeup and wind-blown hair, wearing earthy tones and layered jewelry. Set in desert or arid landscape with warm tones blurred around. The scene is illuminated by soft desert sunlight creating hazy golden atmosphere, producing a bohemian nomad mood. Captured with an 85mm portrait lens with warm tones, emphasizing desert boho style that's natural and beautiful, face in sharp focus.
+```
+
+**Prompt 101:**
+```
+A photorealistic bust shot of a woman in crochet or macrame top, wide-brim hat, sitting on vintage blanket in desert. Set with desert sunset colors and cacti blurred behind. The scene is illuminated by sunset creating warm magical atmosphere, producing a boho sunset moment. Captured with an 85mm portrait lens, emphasizing bohemian desert lifestyle that's aesthetic and free, face in sharp focus.
+```
+
+---
+
+#### 13.2 Festival Boho
+
+**Prompt 102:**
+```
+A photorealistic portrait of a woman in festival-style fringe and flowers, playful bohemian styling. Set at outdoor festival or field with tents and people blurred softly behind. The scene is illuminated by golden hour festival light creating magical atmosphere, producing a carefree festival vibe. Captured with an 85mm portrait lens, emphasizing festival boho photography that's joyful and aesthetic, face in sharp focus.
+```
+
+**Prompt 103:**
+```
+A photorealistic close-up of a woman with flower crown and glitter makeup, bohemian festival aesthetic. Set in natural festival environment with sunset colors blurred around. The scene is illuminated by warm golden light creating dreamy festival atmosphere, producing a whimsical boho mood. Captured with an 85mm portrait lens with beautiful bokeh, emphasizing festival beauty photography that's enchanting and free-spirited, face in sharp focus.
+```
+
+**Prompt 104:**
+```
+A photorealistic bust shot of a woman in vintage band tee and layered necklaces, authentic festival vibes. Set at music festival with stage lights and crowd blurred in background. The scene is illuminated by colorful festival lighting creating energetic atmosphere, producing a cool festival moment. Captured with an 85mm portrait lens, emphasizing authentic festival photography that's spontaneous and stylish, face in sharp focus.
+```
+
+---
+
+### STYL 14: PARISIAN CHIC 🥐
+
+**Zastosowanie:** Paris streets, cafe culture, effortless French elegance
+
+---
+
+#### 14.1 Cafe Parisienne
+
+**Prompt 105:**
+```
+A photorealistic portrait of a woman at Parisian sidewalk cafe, striped shirt and beret, espresso cup in hand. Set at classic Paris cafe with street and architecture blurred behind. The scene is illuminated by soft morning Paris light creating romantic atmosphere, producing an effortless French chic vibe. Captured with an 85mm portrait lens, emphasizing Parisian lifestyle photography that's elegant and authentic, face in sharp focus.
+```
+
+**Prompt 106:**
+```
+A photorealistic close-up of a woman with natural French girl makeup, tousled hair, reading book at cafe. Set in charming Parisian cafe with vintage interior blurred around. The scene is illuminated by natural window light creating cozy Parisian atmosphere, producing a literary chic mood. Captured with an 85mm portrait lens, emphasizing French cafe culture that's sophisticated and genuine, face in sharp focus.
+```
+
+**Prompt 107:**
+```
+A photorealistic bust shot of a woman in trench coat and silk scarf, holding croissant and coffee. Set on Paris street with Haussmann buildings blurred behind. The scene is illuminated by soft overcast Paris light creating quintessential French atmosphere, producing a Parisian morning vibe. Captured with an 85mm portrait lens, emphasizing Parisian street style that's timeless and chic, face in sharp focus.
+```
+
+---
+
+#### 14.2 Champs-Élysées Style
+
+**Prompt 108:**
+```
+A photorealistic portrait of a woman in elegant Parisian fashion - blazer and tailored pants, shopping bags from luxury boutiques. Set on tree-lined Paris avenue with architecture blurred softly. The scene is illuminated by dappled Paris sunlight creating sophisticated atmosphere, producing a luxury shopping moment. Captured with an 85mm portrait lens, emphasizing Parisian luxury lifestyle that's elegant and aspirational, face in sharp focus.
+```
+
+**Prompt 109:**
+```
+A photorealistic close-up of a woman with red lipstick and chic bun, Eiffel Tower softly blurred in far background. Set in Trocadéro or Paris viewpoint. The scene is illuminated by golden hour Paris light creating romantic atmosphere, producing an iconic Paris moment. Captured with an 85mm portrait lens, emphasizing classic Paris photography that's beautiful and timeless, face in sharp focus.
+```
+
+**Prompt 110:**
+```
+A photorealistic bust shot of a woman in little black dress and pearl necklace, Parisian balcony with zinc roofs. Set on classic Paris apartment balcony with rooftops blurred behind. The scene is illuminated by evening Paris light creating elegant atmosphere, producing a sophisticated Parisian living vibe. Captured with an 85mm portrait lens, emphasizing Parisian elegance that's chic and refined, face in sharp focus.
+```
+
+---
+
+### STYL 15: POWER WOMAN CEO 👑
+
+**Zastosowanie:** Boss lady, CEO vibes, powerful confidence
+
+---
+
+**Prompt 111:**
+```
+A photorealistic portrait of a woman in power suit standing at floor-to-ceiling windows, confident commanding presence. Set in corner office with city skyline blurred dramatically behind. The scene is illuminated by natural office light from windows creating powerful atmosphere, producing a CEO energy. Captured with an 85mm portrait lens from slight low angle, emphasizing power woman photography that's inspiring and strong, face in sharp focus.
+```
+
+**Prompt 112:**
+```
+A photorealistic close-up of a woman with sleek hair and bold lip, powerful direct gaze at camera. Set in modern executive office with luxury elements blurred behind. The scene is illuminated by professional office lighting creating authoritative atmosphere, producing a boss lady presence. Captured with an 85mm portrait lens straight-on, emphasizing executive woman portrait that's confident and striking, face in sharp focus.
+```
+
+**Prompt 113:**
+```
+A photorealistic bust shot of a woman in designer suit at conference table, hands clasped confidently. Set in boardroom with modern business environment blurred around. The scene is illuminated by bright professional lighting creating decisive atmosphere, producing a leadership moment. Captured with an 85mm portrait lens, emphasizing business power woman that's professional and impressive, face in sharp focus.
+```
+
+**Prompt 114:**
+```
+A photorealistic portrait of a woman walking through modern office building lobby, designer briefcase, power stride. Set in luxury corporate space with marble and glass blurred around. The scene is illuminated by architectural lighting creating dynamic atmosphere, producing a successful businesswoman energy. Captured with an 85mm portrait lens with slight motion, emphasizing power woman in motion that's confident and aspirational, face in sharp focus.
+```
+
+**Prompt 115:**
+```
+A photorealistic close-up of a woman adjusting luxury watch, power accessories visible, executive styling. Set in upscale business environment with sophistication blurred behind. The scene is illuminated by clean modern lighting creating polished atmosphere, producing a detail-oriented success vibe. Captured with an 85mm portrait lens, emphasizing executive details photography that's refined and powerful, face in sharp focus.
+```
+
+**Prompt 116:**
+```
+A photorealistic bust shot of a woman in monochrome power outfit giving presentation, confident leader pose. Set in modern meeting room with tech and business elements blurred. The scene is illuminated by professional presentation lighting creating commanding atmosphere, producing a thought leader presence. Captured with an 85mm portrait lens, emphasizing woman leader photography that's authoritative and inspiring, face in sharp focus.
+```
+
+**Prompt 117:**
+```
+A photorealistic portrait of a woman in designer coat leaving private jet or luxury car, VIP traveler vibes. Set at private airport or luxury arrival with exclusive elements blurred. The scene is illuminated by bright daylight creating high-status atmosphere, producing an ultra-successful lifestyle moment. Captured with an 85mm portrait lens, emphasizing luxury executive travel that's aspirational and powerful, face in sharp focus.
+```
+
+**Prompt 118:**
+```
+A photorealistic close-up of a woman at rooftop executive lounge, city lights evening, networking power pose. Set at luxury rooftop with skyline and evening ambiance blurred behind. The scene is illuminated by warm evening city lights creating sophisticated atmosphere, producing a power networking vibe. Captured with an 85mm portrait lens, emphasizing executive lifestyle photography that's elegant and successful, face in sharp focus.
+```
+
+---
+
+### STYL 16: SOFT MINIMALIST SCANDINAVIAN 🤍
+
+**Zastosowanie:** Clean aesthetic, Nordic simplicity, soft natural beauty
+
+---
+
+**Prompt 119:**
+```
+A photorealistic portrait of a woman in oversized cream knit sweater, natural makeup, soft blonde or light hair. Set against pure white minimalist background. The scene is illuminated by soft diffused natural light creating gentle serene atmosphere, producing a Scandinavian hygge mood. Captured with an 85mm portrait lens, emphasizing Nordic minimalist photography that's peaceful and beautiful, face in sharp focus.
+```
+
+**Prompt 120:**
+```
+A photorealistic close-up of a woman in linen white shirt, dewy natural skin, minimalist aesthetic. Set in bright airy Scandinavian interior with white walls and plants blurred softly. The scene is illuminated by soft window light creating clean fresh atmosphere, producing a minimalist beauty moment. Captured with an 85mm portrait lens, emphasizing Scandinavian beauty photography that's pure and natural, face in sharp focus.
+```
+
+**Prompt 121:**
+```
+A photorealistic bust shot of a woman in neutral beige tones, holding ceramic mug, cozy minimalist setting. Set in Nordic-style interior with wood and white elements blurred. The scene is illuminated by natural morning light creating warm peaceful atmosphere, producing a hygge lifestyle vibe. Captured with an 85mm portrait lens, emphasizing Scandinavian lifestyle that's calm and aspirational, face in sharp focus.
+```
+
+**Prompt 122:**
+```
+A photorealistic portrait of a woman in simple white dress in minimalist Nordic bedroom, serene morning. Set in bright white bedroom with linen and natural materials blurred around. The scene is illuminated by soft morning light through sheer curtains creating dreamy atmosphere, producing a peaceful morning moment. Captured with an 85mm portrait lens, emphasizing Nordic morning photography that's soft and beautiful, face in sharp focus.
+```
+
+**Prompt 123:**
+```
+A photorealistic close-up of a woman with natural freckles and soft features, no-makeup makeup look. Set against clean minimalist neutral backdrop. The scene is illuminated by soft beauty lighting creating flawless natural atmosphere, producing a Scandinavian natural beauty vibe. Captured with an 85mm portrait lens, emphasizing natural Nordic beauty that's genuine and aspirational, face in sharp focus.
+```
+
+**Prompt 124:**
+```
+A photorealistic bust shot of a woman in oversized linen shirt, sitting in minimalist chair by window. Set in Scandinavian interior with clean lines and natural light blurred. The scene is illuminated by diffused window light creating peaceful atmosphere, producing a mindful living moment. Captured with an 85mm portrait lens, emphasizing Nordic minimalist lifestyle that's serene and elegant, face in sharp focus.
+```
+
+**Prompt 125:**
+```
+A photorealistic portrait of a woman wrapped in chunky knit blanket, holding tea, hygge vibes. Set in cozy minimalist Nordic space with candles and soft textures blurred. The scene is illuminated by warm ambient candlelight and window light creating cozy atmosphere, producing a winter hygge mood. Captured with an 85mm portrait lens, emphasizing Scandinavian cozy photography that's warm and inviting, face in sharp focus.
+```
+
+**Prompt 126:**
+```
+A photorealistic close-up of a woman with wet hair after shower, fresh natural beauty, minimal white bathroom. Set in clean Scandinavian bathroom with natural light streaming. The scene is illuminated by bright natural bathroom light creating fresh morning atmosphere, producing a pure natural moment. Captured with an 85mm portrait lens, emphasizing fresh Nordic beauty that's authentic and clean, face in sharp focus.
+```
+
+---
+
+### STYL 17: MEDITERRANEAN SUMMER 🏖️
+
+**Zastosowanie:** Greece, Italy, Santorini, Amalfi Coast vibes
+
+---
+
+**Prompt 127:**
+```
+A photorealistic portrait of a woman in white flowing dress on Santorini-style white steps, blue domes blurred behind. Set in iconic Greek island architecture with whitewashed buildings. The scene is illuminated by bright Mediterranean sunlight creating vibrant coastal atmosphere, producing a dreamy Greek island vibe. Captured with an 85mm portrait lens, emphasizing Mediterranean travel photography that's stunning and aspirational, face in sharp focus.
+```
+
+**Prompt 128:**
+```
+A photorealistic close-up of a woman with sun-kissed skin, natural beach waves, wearing straw hat. Set with azure Mediterranean sea and coastline blurred behind. The scene is illuminated by golden hour Mediterranean light creating warm glowing atmosphere, producing a summer goddess moment. Captured with an 85mm portrait lens, emphasizing Mediterranean beauty that's radiant and beautiful, face in sharp focus.
+```
+
+**Prompt 129:**
+```
+A photorealistic bust shot of a woman in linen sundress at Italian coastal cafe, Aperol spritz in hand. Set at seaside cafe with colorful Italian coast blurred behind. The scene is illuminated by warm Italian sunlight creating la dolce vita atmosphere, producing an Italian summer dream. Captured with an 85mm portrait lens, emphasizing Amalfi Coast lifestyle that's chic and romantic, face in sharp focus.
+```
+
+**Prompt 130:**
+```
+A photorealistic portrait of a woman on Greek island boat, white and blue nautical styling, wind in hair. Set on traditional Greek boat with turquoise water blurred around. The scene is illuminated by bright summer sun reflecting off water creating magical atmosphere, producing a Mediterranean adventure vibe. Captured with an 85mm portrait lens, emphasizing Greek island photography that's dreamy and stunning, face in sharp focus.
+```
+
+**Prompt 131:**
+```
+A photorealistic close-up of a woman in olive grove, Mediterranean natural setting, earthy tones. Set among olive trees with Italian or Greek countryside blurred softly. The scene is illuminated by dappled Mediterranean sunlight creating peaceful atmosphere, producing a rustic Mediterranean mood. Captured with an 85mm portrait lens, emphasizing Mediterranean countryside that's serene and beautiful, face in sharp focus.
+```
+
+**Prompt 132:**
+```
+A photorealistic bust shot of a woman at Mediterranean villa pool, luxury resort wear, infinity pool edge. Set at stunning villa with sea view blurred dramatically behind. The scene is illuminated by midday Mediterranean sun creating bright luxurious atmosphere, producing a villa vacation dream. Captured with an 85mm portrait lens, emphasizing Mediterranean luxury that's aspirational and stunning, face in sharp focus.
+```
+
+**Prompt 133:**
+```
+A photorealistic portrait of a woman in Italian piazza, gelato in hand, summer dress, la dolce vita. Set in charming Italian square with colorful buildings and fountain blurred. The scene is illuminated by warm afternoon Italian light creating romantic atmosphere, producing an Italian summer moment. Captured with an 85mm portrait lens, emphasizing Italian lifestyle photography that's sweet and beautiful, face in sharp focus.
+```
+
+**Prompt 134:**
+```
+A photorealistic close-up of a woman on yacht with Greek islands in background, summer goddess energy. Set on luxury yacht with Aegean sea and islands blurred behind. The scene is illuminated by brilliant Greek sunlight creating stunning atmosphere, producing a yacht goddess vibe. Captured with an 85mm portrait lens, emphasizing Greek summer luxury that's breathtaking and aspirational, face in sharp focus.
+```
+
+---
+
 ## 🎨 SYSTEM CUSTOM PROMPTÓW - JAK DZIAŁA
 
 ### Workflow: User wkleja zdjęcie → Ja tworzę prompt
@@ -3360,3 +3720,163 @@ All prompts follow official Google Gemini 2.5 Flash Image best practices:
 - Professional photography language throughout
 
 Ready for production use in iwasthere.pl AI Photo Sessions! 📸✨
+
+### STYL 18: URBAN ROOFTOP GOLDEN HOUR 🌆
+
+**Zastosowanie:** City rooftops, sunset cityscapes, urban lifestyle
+
+---
+
+**Prompt 135:**
+```
+A photorealistic portrait of a woman on rooftop at golden hour, city skyline blurred dramatically behind. Set on modern rooftop terrace with urban landscape fading into sunset. The scene is illuminated by golden hour sunlight mixing with city lights beginning to glow, creating a magical urban atmosphere. Captured with an 85mm portrait lens, emphasizing rooftop lifestyle photography that's stunning and aspirational, face in sharp focus.
+```
+
+**Prompt 136:**
+```
+A photorealistic close-up of a woman with wind-blown hair on rooftop, sunset glow on face. Set at building edge with cityscape and sky blurred behind. The scene is illuminated by warm sunset creating golden rim light, producing a dreamy urban goddess vibe. Captured with an 85mm portrait lens with beautiful lens flare, emphasizing rooftop golden hour that's cinematic and beautiful, face in sharp focus.
+```
+
+**Prompt 137:**
+```
+A photorealistic bust shot of a woman in flowing dress on rooftop, fabric catching wind. Set on high-rise rooftop with city below blurred in background. The scene is illuminated by sunset creating dramatic backlighting, producing an ethereal urban moment. Captured with an 85mm portrait lens, emphasizing rooftop fashion photography that's dynamic and stunning, face in sharp focus.
+```
+
+**Prompt 138:**
+```
+A photorealistic portrait of a woman sitting at rooftop bar, cocktail in hand, dusk cityscape behind. Set at stylish rooftop venue with city lights twinkling in blur. The scene is illuminated by blue hour mixing with warm bar lighting, creating a sophisticated urban nightlife atmosphere. Captured with an 85mm portrait lens, emphasizing urban rooftop lifestyle that's chic and modern, face in sharp focus.
+```
+
+**Prompt 139:**
+```
+A photorealistic close-up of a woman on rooftop pool or lounge area, luxury urban setting. Set at high-end rooftop with infinity pool and city blurred behind. The scene is illuminated by golden hour creating luxurious atmosphere, producing an upscale urban lifestyle vibe. Captured with an 85mm portrait lens, emphasizing luxury rooftop photography that's aspirational and beautiful, face in sharp focus.
+```
+
+**Prompt 140:**
+```
+A photorealistic bust shot of a woman in stylish urban outfit on rooftop, city buildings framing shot. Set on architectural rooftop with modern cityscape blurred around. The scene is illuminated by late afternoon sun creating urban editorial atmosphere, producing a contemporary city mood. Captured with an 85mm portrait lens, emphasizing urban rooftop fashion that's trendy and sophisticated, face in sharp focus.
+```
+
+**Prompt 141:**
+```
+A photorealistic portrait of a woman dancing or moving on rooftop at sunset, joy and freedom captured. Set on open rooftop with horizon and city blurred in motion. The scene is illuminated by golden hour creating energetic atmosphere, producing a carefree urban celebration. Captured with an 85mm portrait lens with slight motion, emphasizing joyful rooftop moment that's dynamic and inspiring, face in sharp focus.
+```
+
+**Prompt 142:**
+```
+A photorealistic close-up of a woman with city lights bokeh behind, evening rooftop portrait. Set at rooftop after sunset with sparkling city lights creating magical background. The scene is illuminated by warm evening ambient lighting, producing a romantic urban night vibe. Captured with an 85mm portrait lens with beautiful bokeh, emphasizing evening rooftop photography that's enchanting and atmospheric, face in sharp focus.
+```
+
+---
+
+### STYL 19: MOODY DARK ROMANTIC 🖤
+
+**Zastosowanie:** Dark aesthetic, gothic elegance, moody drama
+
+---
+
+**Prompt 143:**
+```
+A photorealistic portrait of a woman in black lace or velvet, dramatic dark romantic styling. Set against dark moody background with shadows. The scene is illuminated by single candle or low key lighting creating mysterious atmosphere, producing a gothic romance vibe. Captured with an 85mm portrait lens, emphasizing dark romantic photography that's dramatic and beautiful, face in sharp focus with moody lighting.
+```
+
+**Prompt 144:**
+```
+A photorealistic close-up of a woman with dark smoky eyes, deep berry lips, moody beauty. Set against black or deep burgundy background. The scene is illuminated by soft directional lighting creating sculpted shadows, producing an intense dark beauty mood. Captured with an 85mm portrait lens, emphasizing dark beauty editorial that's powerful and striking, face in sharp focus.
+```
+
+**Prompt 145:**
+```
+A photorealistic bust shot of a woman in dark flowing gown in misty forest at twilight. Set among trees with fog and low light creating ethereal darkness. The scene is illuminated by dim twilight creating mysterious atmosphere, producing a dark fairy tale vibe. Captured with an 85mm portrait lens, emphasizing moody forest photography that's enchanting and dramatic, face in sharp focus.
+```
+
+**Prompt 146:**
+```
+A photorealistic portrait of a woman in Victorian-inspired dark dress, vintage gothic aesthetic. Set in dark romantic interior with antique elements and candlelight blurred. The scene is illuminated by warm candlelight creating intimate dark atmosphere, producing a period dark romance mood. Captured with an 85mm portrait lens, emphasizing gothic vintage photography that's elegant and moody, face in sharp focus.
+```
+
+**Prompt 147:**
+```
+A photorealistic close-up of a woman with wet hair and dark intense expression, rain or water elements. Set in dark moody environment with water droplets visible. The scene is illuminated by low dramatic lighting creating intense atmosphere, producing a dark sensual vibe. Captured with an 85mm portrait lens, emphasizing dark moody portrait that's powerful and captivating, face in sharp focus.
+```
+
+**Prompt 148:**
+```
+A photorealistic bust shot of a woman in dark romantic silk or satin, boudoir mood with shadows. Set in dim romantic bedroom with dark tones and candlelight blurred. The scene is illuminated by soft candlelight creating intimate dark atmosphere, producing a dark boudoir elegance. Captured with an 85mm portrait lens, emphasizing dark romantic boudoir that's sensual and artistic, face in sharp focus.
+```
+
+**Prompt 149:**
+```
+A photorealistic portrait of a woman in dramatic dark cloak or cape outdoors, wind catching fabric. Set in moody landscape with stormy sky or dramatic nature blurred. The scene is illuminated by overcast dramatic light creating powerful atmosphere, producing a dark heroine energy. Captured with an 85mm portrait lens, emphasizing dramatic dark outdoor photography that's cinematic and strong, face in sharp focus.
+```
+
+**Prompt 150:**
+```
+A photorealistic close-up of a woman with dark floral elements - black roses or dark botanicals. Set against deep moody background with dark flowers blurred around. The scene is illuminated by soft low key lighting creating romantic dark atmosphere, producing a dark botanical beauty. Captured with an 85mm portrait lens, emphasizing dark floral photography that's unique and beautiful, face in sharp focus.
+```
+
+---
+
+### STYL 20: BRIDAL EDITORIAL FASHION 👰
+
+**Zastosowanie:** Editorial bridal, fashion wedding, avant-garde bride
+
+---
+
+**Prompt 151:**
+```
+A photorealistic portrait of a woman in modern minimalist bridal gown, architectural clean lines. Set against white minimalist background or modern architecture blurred. The scene is illuminated by soft natural light creating contemporary bridal atmosphere, producing a modern bride elegance. Captured with an 85mm portrait lens, emphasizing contemporary bridal editorial that's chic and sophisticated, face in sharp focus.
+```
+
+**Prompt 152:**
+```
+A photorealistic close-up of a woman in delicate bridal veil, soft romantic bridal beauty. Set in soft dreamy environment with natural elements blurred behind. The scene is illuminated by golden hour creating ethereal bridal atmosphere, producing a romantic bride moment. Captured with an 85mm portrait lens with beautiful bokeh, emphasizing romantic bridal photography that's dreamy and beautiful, face in sharp focus.
+```
+
+**Prompt 153:**
+```
+A photorealistic bust shot of a woman in bohemian bridal dress with flowing sleeves, free-spirited bride. Set in natural outdoor setting with wildflowers or field blurred around. The scene is illuminated by soft natural sunlight creating boho bridal atmosphere, producing a free-spirited bride vibe. Captured with an 85mm portrait lens, emphasizing boho bridal editorial that's natural and beautiful, face in sharp focus.
+```
+
+**Prompt 154:**
+```
+A photorealistic portrait of a woman in dramatic ball gown wedding dress, high fashion bridal. Set in elegant venue or editorial location with luxury blurred behind. The scene is illuminated by dramatic lighting creating fashion-forward atmosphere, producing a haute couture bride presence. Captured with an 85mm portrait lens, emphasizing high fashion bridal that's dramatic and stunning, face in sharp focus.
+```
+
+**Prompt 155:**
+```
+A photorealistic close-up of a woman in vintage lace bridal details, classic timeless bride. Set in romantic setting with vintage elements blurred softly. The scene is illuminated by soft natural light creating timeless bridal atmosphere, producing a classic bride elegance. Captured with an 85mm portrait lens, emphasizing vintage bridal photography that's romantic and timeless, face in sharp focus.
+```
+
+**Prompt 156:**
+```
+A photorealistic bust shot of a woman in sleek modern bridal jumpsuit or separates, contemporary bride. Set in urban modern location with architectural elements blurred. The scene is illuminated by clean natural light creating modern bridal atmosphere, producing a trendsetter bride vibe. Captured with an 85mm portrait lens, emphasizing modern bridal fashion that's fresh and sophisticated, face in sharp focus.
+```
+
+**Prompt 157:**
+```
+A photorealistic portrait of a woman in flowing ethereal bridal gown in nature, wind catching fabric. Set in outdoor natural environment with romantic landscape blurred. The scene is illuminated by golden hour creating magical bridal atmosphere, producing a dreamy bride moment. Captured with an 85mm portrait lens, emphasizing ethereal bridal photography that's enchanting and beautiful, face in sharp focus.
+```
+
+**Prompt 158:**
+```
+A photorealistic close-up of a woman with bridal floral crown or hairpiece, natural bridal beauty. Set in garden or natural setting with florals blurred softly around. The scene is illuminated by soft natural light creating fresh bridal atmosphere, producing an organic bride elegance. Captured with an 85mm portrait lens, emphasizing natural bridal beauty that's fresh and romantic, face in sharp focus.
+```
+
+**Prompt 159:**
+```
+A photorealistic bust shot of a woman in dramatic cathedral veil, editorial bridal styling. Set in elegant church or architectural space with dramatic elements blurred. The scene is illuminated by soft architectural lighting creating grand bridal atmosphere, producing a regal bride presence. Captured with an 85mm portrait lens, emphasizing editorial bridal drama that's powerful and beautiful, face in sharp focus.
+```
+
+**Prompt 160:**
+```
+A photorealistic portrait of a woman in non-traditional bridal color - blush, champagne, or grey gown. Set in modern editorial location with contemporary elements blurred. The scene is illuminated by soft natural light creating unique bridal atmosphere, producing an unconventional bride sophistication. Captured with an 85mm portrait lens, emphasizing alternative bridal fashion that's unique and stylish, face in sharp focus.
+```
+
+---
+
+✅ **KOBIETY EXPANDED: 160 TOTAL PROMPTS!** ✅
+
+**Pierwsze 80 (1-80):** Complete foundational styles
+**Drugie 80 (81-160):** Aspirational & aesthetic expansion
+
