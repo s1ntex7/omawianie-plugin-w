@@ -4841,3 +4841,1811 @@ A photorealistic bust shot of a woman in elegant white linen at Seychelles grani
 - **TOTAL: 90 NEW PROMPTS! 🎉**
 
 ---
+# 🔥 MEGA EXPANSION - ALL CATEGORIES (255+ NEW PROMPTS)
+
+---
+
+## 👨 FACECI EXPANSION (+70 prompts = 150 total)
+
+### ADDITIONS TO EXISTING STYLES (30 prompts)
+
+---
+
+#### 💼 STYL 1 EXPANSION: PROFESSIONAL BUSINESS
+
+**Prompt 81:**
+```
+A photorealistic portrait of a tech executive in sleek turtleneck and blazer, Steve Jobs aesthetic. Set in minimalist office with Apple-style design blurred behind. The scene is illuminated by clean natural light creating modern tech atmosphere, producing a Silicon Valley CEO presence. Captured with an 85mm portrait lens, emphasizing tech executive photography that's innovative and commanding, face in sharp focus.
+```
+
+**Prompt 82:**
+```
+A photorealistic close-up of a financial advisor in classic pinstripe suit with pocket square. Set in mahogany-paneled boardroom with traditional elegance blurred. The scene is illuminated by warm ambient office lighting creating trustworthy atmosphere, producing a Wall Street sophistication. Captured with an 85mm portrait lens, emphasizing financial professional photography that's authoritative and polished, face in sharp focus.
+```
+
+**Prompt 83:**
+```
+A photorealistic bust shot of a young entrepreneur in smart casual presenting with confidence. Set in modern startup space with whiteboard and tech elements blurred. The scene is illuminated by bright office lighting creating energetic atmosphere, producing a founder energy. Captured with an 85mm portrait lens, emphasizing startup culture photography that's dynamic and ambitious, face in sharp focus.
+```
+
+---
+
+#### 👕 STYL 2 EXPANSION: CASUAL LIFESTYLE
+
+**Prompt 84:**
+```
+A photorealistic portrait of a man in vintage band t-shirt and leather jacket at record store. Set among vinyl records and music memorabilia blurred behind. The scene is illuminated by warm shop lighting creating nostalgic atmosphere, producing a music lover vibe. Captured with an 85mm portrait lens, emphasizing lifestyle music photography that's authentic and cool, face in sharp focus.
+```
+
+**Prompt 85:**
+```
+A photorealistic close-up of a bearded man in cozy cable knit sweater with steaming mug. Set by fireplace or cozy interior with warm textures blurred. The scene is illuminated by soft firelight creating hygge atmosphere, producing a winter comfort moment. Captured with an 85mm portrait lens, emphasizing cozy lifestyle photography that's warm and inviting, face in sharp focus.
+```
+
+**Prompt 86:**
+```
+A photorealistic bust shot of a man in Hawaiian shirt at beach bar sunset. Set at tropical beach bar with ocean and sunset colors blurred. The scene is illuminated by golden hour creating vacation atmosphere, producing a laid-back island vibe. Captured with an 85mm portrait lens, emphasizing vacation lifestyle photography that's relaxed and fun, face in sharp focus.
+```
+
+---
+
+#### 💪 STYL 3 EXPANSION: ATHLETIC FITNESS
+
+**Prompt 87:**
+```
+A photorealistic portrait of a man in compression workout gear mid-workout with determination. Set in high-end gym with modern equipment blurred behind. The scene is illuminated by dramatic gym lighting creating intense atmosphere, producing a fitness dedication energy. Captured with an 85mm portrait lens, emphasizing athletic photography that's powerful and motivating, face in sharp focus.
+```
+
+**Prompt 88:**
+```
+A photorealistic close-up of a runner with sweat and endorphin high expression post-run. Set in outdoor running trail with nature blurred behind. The scene is illuminated by natural daylight creating athletic atmosphere, producing a runner's high moment. Captured with an 85mm portrait lens, emphasizing running photography that's authentic and victorious, face in sharp focus.
+```
+
+**Prompt 89:**
+```
+A photorealistic bust shot of a yoga instructor in meditation pose with focused calm. Set in serene studio with natural elements and soft light blurred. The scene is illuminated by gentle natural light creating peaceful atmosphere, producing a zen fitness energy. Captured with an 85mm portrait lens, emphasizing yoga photography that's calm and centered, face in sharp focus.
+```
+
+---
+
+#### 🕴️ STYL 4 EXPANSION: FASHION EDITORIAL
+
+**Prompt 90:**
+```
+A photorealistic portrait of a male model in avant-garde designer piece with bold styling. Set against architectural modern background with geometric shapes blurred. The scene is illuminated by dramatic fashion lighting creating editorial atmosphere, producing a high fashion moment. Captured with an 85mm portrait lens, emphasizing fashion editorial photography that's bold and artistic, face in sharp focus.
+```
+
+**Prompt 91:**
+```
+A photorealistic close-up of a fashion model in luxury knitwear with intense gaze. Set in minimal studio with clean lines blurred behind. The scene is illuminated by soft beauty lighting creating sophisticated atmosphere, producing a luxury fashion elegance. Captured with an 85mm portrait lens, emphasizing luxury menswear photography that's refined and expensive, face in sharp focus.
+```
+
+**Prompt 92:**
+```
+A photorealistic bust shot of a street style influencer in layered urban fashion. Set on city street during fashion week with street style elements blurred. The scene is illuminated by natural daylight creating authentic atmosphere, producing a street style icon energy. Captured with an 85mm portrait lens, emphasizing street fashion photography that's cool and trendsetting, face in sharp focus.
+```
+
+---
+
+#### 🎩 STYL 5 EXPANSION: GROOMING STUDIO
+
+**Prompt 93:**
+```
+A photorealistic portrait of a man getting straight razor shave at traditional barbershop. Set in vintage barbershop with classic elements and barber blurred. The scene is illuminated by warm barbershop lighting creating classic atmosphere, producing a timeless grooming moment. Captured with an 85mm portrait lens, emphasizing barbershop photography that's traditional and masculine, face in sharp focus.
+```
+
+**Prompt 94:**
+```
+A photorealistic close-up of a well-groomed man with precision beard trim and styling products. Set in modern grooming studio with sleek elements blurred. The scene is illuminated by clean beauty lighting creating polished atmosphere, producing a men's grooming perfection. Captured with an 85mm portrait lens, emphasizing grooming photography that's sharp and detailed, face in sharp focus.
+```
+
+**Prompt 95:**
+```
+A photorealistic bust shot of a man with fresh haircut examining result in mirror. Set in upscale barbershop with mirrors and premium elements blurred. The scene is illuminated by bright shop lighting creating confidence atmosphere, producing a fresh cut satisfaction. Captured with an 85mm portrait lens, emphasizing barbershop moment photography that's genuine and confident, face in sharp focus.
+```
+
+---
+
+#### 🏔️ STYL 6 EXPANSION: RUGGED OUTDOOR
+
+**Prompt 96:**
+```
+A photorealistic portrait of a man in outdoor gear at mountain summit with vista. Set at mountain peak with dramatic landscape and clouds blurred. The scene is illuminated by bright mountain sunlight creating achievement atmosphere, producing a summit conqueror energy. Captured with an 85mm portrait lens, emphasizing mountaineering photography that's epic and victorious, face in sharp focus.
+```
+
+**Prompt 97:**
+```
+A photorealistic close-up of a fisherman in waterproof gear by misty lake at dawn. Set at peaceful lake with fog and water blurred behind. The scene is illuminated by soft dawn light creating tranquil atmosphere, producing a fisherman's peace moment. Captured with an 85mm portrait lens, emphasizing fishing lifestyle photography that's serene and authentic, face in sharp focus.
+```
+
+**Prompt 98:**
+```
+A photorealistic bust shot of a woodsman chopping wood in flannel and work gloves. Set in forest clearing with logs and trees blurred. The scene is illuminated by natural forest light creating rugged atmosphere, producing a lumberjack strength. Captured with an 85mm portrait lens, emphasizing outdoor work photography that's masculine and authentic, face in sharp focus.
+```
+
+---
+
+#### 🎨 STYL 7 EXPANSION: CREATIVE ARTISTIC
+
+**Prompt 99:**
+```
+A photorealistic portrait of a photographer with camera in hand reviewing shots. Set in photography studio with lighting equipment and backdrops blurred. The scene is illuminated by studio lighting creating creative atmosphere, producing a photographer at work energy. Captured with an 85mm portrait lens, emphasizing photographer portrait that's authentic and professional, face in sharp focus.
+```
+
+**Prompt 100:**
+```
+A photorealistic close-up of a chef in white coat tasting his creation with focus. Set in professional kitchen with cooking elements and steam blurred. The scene is illuminated by bright kitchen lighting creating culinary atmosphere, producing a chef's passion moment. Captured with an 85mm portrait lens, emphasizing chef portrait photography that's authentic and intense, face in sharp focus.
+```
+
+**Prompt 101:**
+```
+A photorealistic bust shot of a DJ with headphones at mixing booth with passion. Set at DJ booth with turntables and lights blurred behind. The scene is illuminated by colorful club lighting creating music atmosphere, producing a DJ in the zone energy. Captured with an 85mm portrait lens, emphasizing DJ photography that's energetic and cool, face in sharp focus.
+```
+
+---
+
+#### 📻 STYL 8 EXPANSION: VINTAGE RETRO
+
+**Prompt 102:**
+```
+A photorealistic portrait of a man in 1940s military officer uniform, WWII era. Set against vintage military backdrop with period elements blurred. The scene is illuminated by classic portrait lighting creating historical atmosphere, producing a 1940s officer dignity. Captured with an 85mm portrait lens with period aesthetic, emphasizing 1940s photography that's historic and noble, face in sharp focus.
+```
+
+**Prompt 103:**
+```
+A photorealistic close-up of a greaser style man with pompadour and leather, 1950s rebel. Set with vintage motorcycle or diner elements blurred behind. The scene is illuminated by warm vintage lighting creating rockabilly atmosphere, producing a 50s bad boy cool. Captured with an 85mm portrait lens, emphasizing 1950s rebel photography that's iconic and edgy, face in sharp focus.
+```
+
+**Prompt 104:**
+```
+A photorealistic bust shot of a man in disco fashion with medallion, 1970s style. Set with disco elements and retro patterns blurred behind. The scene is illuminated by colorful disco lighting creating funky atmosphere, producing a disco era swagger. Captured with an 85mm portrait lens with slight grain, emphasizing 1970s photography that's groovy and fun, face in sharp focus.
+```
+
+---
+
+#### 🎬 STYL 9 EXPANSION: CINEMATIC DRAMATIC
+
+**Prompt 105:**
+```
+A photorealistic portrait of a man in detective trench coat in rain, noir detective style. Set on rain-soaked city street with neon reflections and fog blurred. The scene is illuminated by street lights through rain creating mystery atmosphere, producing a noir detective mood. Captured with an 85mm portrait lens, emphasizing noir detective photography that's moody and cinematic, face in sharp focus.
+```
+
+**Prompt 106:**
+```
+A photorealistic close-up of a boxer with determined expression, dramatic sweat and light. Set in boxing ring with ropes and dramatic elements blurred. The scene is illuminated by hard spotlight creating sports drama atmosphere, producing a fighter's resolve. Captured with an 85mm portrait lens, emphasizing boxing photography that's intense and powerful, face in sharp focus.
+```
+
+**Prompt 107:**
+```
+A photorealistic bust shot of a man in period costume, historical drama style. Set in historical interior with period details and props blurred. The scene is illuminated by dramatic natural light creating epic atmosphere, producing a historical character presence. Captured with an 85mm portrait lens, emphasizing period drama photography that's cinematic and authentic, face in sharp focus.
+```
+
+---
+
+#### ☀️ STYL 10 EXPANSION: NATURAL LIGHT SOFT
+
+**Prompt 108:**
+```
+A photorealistic portrait of a man reading book by large window, intellectual moment. Set in home library or study with books and soft textures blurred. The scene is illuminated by gentle window light creating contemplative atmosphere, producing a quiet reading peace. Captured with an 85mm portrait lens, emphasizing natural light reading photography that's calm and authentic, face in sharp focus.
+```
+
+**Prompt 109:**
+```
+A photorealistic close-up of a father holding newborn baby with tender expression. Set in nursery with soft baby elements blurred behind. The scene is illuminated by soft natural window light creating intimate atmosphere, producing a new father tenderness. Captured with an 85mm portrait lens, emphasizing fatherhood photography that's emotional and gentle, face in sharp focus.
+```
+
+**Prompt 110:**
+```
+A photorealistic bust shot of a man in meditation at sunrise with peaceful expression. Set outdoors at dawn with nature and golden light blurred. The scene is illuminated by soft sunrise creating spiritual atmosphere, producing a morning meditation zen. Captured with an 85mm portrait lens, emphasizing meditation photography that's peaceful and spiritual, face in sharp focus.
+```
+
+---
+
+### 🆕 NEW CATEGORIES FOR FACECI (40 prompts)
+
+---
+
+## STYL 11: GENTLEMAN CLASSIC 🎩
+
+**Zastosowanie:** Classic gentleman style, timeless elegance, refined masculinity
+
+---
+
+**Prompt 111:**
+```
+A photorealistic portrait of a distinguished gentleman in three-piece suit with pocket watch. Set in classic wood-paneled study with leather and books blurred. The scene is illuminated by warm ambient lighting creating refined atmosphere, producing a timeless gentleman elegance. Captured with an 85mm portrait lens, emphasizing classic gentleman photography that's sophisticated and distinguished, face in sharp focus.
+```
+
+**Prompt 112:**
+```
+A photorealistic close-up of a man with perfectly groomed mustache smoking pipe. Set in gentlemen's club with rich leather and wood blurred behind. The scene is illuminated by warm club lighting creating exclusive atmosphere, producing a gentleman's club sophistication. Captured with an 85mm portrait lens, emphasizing distinguished gentleman photography that's classic and refined, face in sharp focus.
+```
+
+**Prompt 113:**
+```
+A photorealistic bust shot of a gentleman in classic overcoat with leather gloves. Set on classic city street with vintage architecture blurred. The scene is illuminated by overcast natural light creating timeless atmosphere, producing a classic gentleman presence. Captured with an 85mm portrait lens, emphasizing timeless style photography that's elegant and masculine, face in sharp focus.
+```
+
+**Prompt 114:**
+```
+A photorealistic portrait of a man in formal morning suit with top hat for wedding. Set at elegant venue with classical architecture blurred behind. The scene is illuminated by bright natural light creating distinguished atmosphere, producing a formal gentleman charm. Captured with an 85mm portrait lens, emphasizing formal gentleman photography that's regal and classic, face in sharp focus.
+```
+
+**Prompt 115:**
+```
+A photorealistic close-up of a sophisticated man with brandy snifter in leather chair. Set in luxury study with fireplace and premium elements blurred. The scene is illuminated by firelight creating exclusive atmosphere, producing a refined gentleman moment. Captured with an 85mm portrait lens, emphasizing luxury gentleman photography that's sophisticated and warm, face in sharp focus.
+```
+
+---
+
+## STYL 12: ADVENTURER EXPLORER 🗺️
+
+**Zastosowanie:** Adventure travel, explorer aesthetic, wanderlust
+
+---
+
+**Prompt 116:**
+```
+A photorealistic portrait of an adventurer with backpack at ancient temple ruins. Set at Angkor Wat or Machu Picchu style ruins with epic architecture blurred. The scene is illuminated by golden hour creating explorer atmosphere, producing an adventurer discovery moment. Captured with an 85mm portrait lens, emphasizing adventure travel photography that's epic and inspiring, face in sharp focus.
+```
+
+**Prompt 117:**
+```
+A photorealistic close-up of a traveler with map and compass in desert landscape. Set in vast desert with dunes and endless horizon blurred. The scene is illuminated by harsh desert sunlight creating explorer atmosphere, producing a desert navigator energy. Captured with an 85mm portrait lens, emphasizing desert exploration photography that's rugged and authentic, face in sharp focus.
+```
+
+**Prompt 118:**
+```
+A photorealistic bust shot of an explorer in safari gear observing wildlife in Africa. Set on African savanna with wildlife and landscape blurred behind. The scene is illuminated by warm African sunlight creating safari atmosphere, producing a safari guide presence. Captured with an 85mm portrait lens, emphasizing safari photography that's adventurous and authentic, face in sharp focus.
+```
+
+**Prompt 119:**
+```
+A photorealistic portrait of a mountaineer at base camp with expedition gear. Set at mountain base camp with tents and peaks blurred behind. The scene is illuminated by crisp mountain light creating expedition atmosphere, producing a mountaineer determination. Captured with an 85mm portrait lens, emphasizing expedition photography that's gritty and inspiring, face in sharp focus.
+```
+
+**Prompt 120:**
+```
+A photorealistic close-up of a jungle explorer hacking through rainforest with machete. Set in dense jungle with lush vegetation and mist blurred. The scene is illuminated by filtered jungle light creating adventure atmosphere, producing a jungle explorer grit. Captured with an 85mm portrait lens, emphasizing jungle adventure photography that's intense and authentic, face in sharp focus.
+```
+
+---
+
+## STYL 13: MOTORCYCLE REBEL 🏍️
+
+**Zastosowanie:** Biker aesthetic, motorcycle culture, rebel style
+
+---
+
+**Prompt 121:**
+```
+A photorealistic portrait of a biker in leather jacket sitting on vintage motorcycle. Set with classic motorcycle and open road blurred behind. The scene is illuminated by golden hour creating freedom atmosphere, producing a biker rebel energy. Captured with an 85mm portrait lens, emphasizing motorcycle photography that's cool and iconic, face in sharp focus.
+```
+
+**Prompt 122:**
+```
+A photorealistic close-up of a rider with helmet visor up showing intense focus. Set at motorcycle track or garage with bikes and tools blurred. The scene is illuminated by natural light creating authentic atmosphere, producing a rider's passion. Captured with an 85mm portrait lens, emphasizing rider portrait photography that's genuine and intense, face in sharp focus.
+```
+
+**Prompt 123:**
+```
+A photorealistic bust shot of a man in motorcycle gear with chains and patches. Set at biker bar or garage with motorcycle culture elements blurred. The scene is illuminated by warm ambient light creating brotherhood atmosphere, producing a biker culture authenticity. Captured with an 85mm portrait lens, emphasizing biker lifestyle photography that's edgy and real, face in sharp focus.
+```
+
+**Prompt 124:**
+```
+A photorealistic portrait of a cafe racer enthusiast with vintage British motorcycle. Set in urban setting with industrial elements and bike blurred. The scene is illuminated by overcast light creating urban atmosphere, producing a cafe racer cool. Captured with an 85mm portrait lens, emphasizing cafe racer photography that's vintage and stylish, face in sharp focus.
+```
+
+**Prompt 125:**
+```
+A photorealistic close-up of a biker removing helmet after long ride. Set on scenic mountain road with curves and vista blurred. The scene is illuminated by natural daylight creating freedom atmosphere, producing a rider's satisfaction. Captured with an 85mm portrait lens, emphasizing motorcycle lifestyle photography that's authentic and free, face in sharp focus.
+```
+
+---
+
+## STYL 14: SURFER BEACH LIFESTYLE 🏄
+
+**Zastosowanie:** Surfing, beach culture, ocean lifestyle
+
+---
+
+**Prompt 126:**
+```
+A photorealistic portrait of a surfer with surfboard at golden hour beach. Set at beach with waves and sunset colors blurred behind. The scene is illuminated by warm sunset glow creating beach atmosphere, producing a surfer's stoke energy. Captured with an 85mm portrait lens, emphasizing surf photography that's authentic and golden, face in sharp focus.
+```
+
+**Prompt 127:**
+```
+A photorealistic close-up of a surfer with wet hair after session, salt and sun. Set at beach with ocean and surfboards blurred behind. The scene is illuminated by bright beach sunlight creating post-surf atmosphere, producing a surfer's high moment. Captured with an 85mm portrait lens, emphasizing surf lifestyle photography that's genuine and stoked, face in sharp focus.
+```
+
+**Prompt 128:**
+```
+A photorealistic bust shot of a longboard surfer in vintage swim trunks, retro surf style. Set at classic surf break with longboard and waves blurred. The scene is illuminated by natural beach light creating nostalgic atmosphere, producing a vintage surfer vibe. Captured with an 85mm portrait lens, emphasizing retro surf photography that's classic and cool, face in sharp focus.
+```
+
+**Prompt 129:**
+```
+A photorealistic portrait of a surf instructor teaching on beach with passion. Set on beach with students and surfboards blurred around. The scene is illuminated by bright daylight creating teaching atmosphere, producing a surf instructor energy. Captured with an 85mm portrait lens, emphasizing surf instruction photography that's authentic and passionate, face in sharp focus.
+```
+
+**Prompt 130:**
+```
+A photorealistic close-up of a surfer waxing board in morning light ritual. Set at beach with sunrise and ocean blurred behind. The scene is illuminated by soft morning light creating meditation atmosphere, producing a surfer's morning zen. Captured with an 85mm portrait lens, emphasizing surf ritual photography that's peaceful and authentic, face in sharp focus.
+```
+
+---
+
+## STYL 15: TECH INNOVATOR 💻
+
+**Zastosowanie:** Tech industry, innovation, startup culture, coding
+
+---
+
+**Prompt 131:**
+```
+A photorealistic portrait of a software developer coding with focused concentration. Set in modern tech office with multiple monitors and code blurred. The scene is illuminated by monitor glow and office lighting creating tech atmosphere, producing a developer focus energy. Captured with an 85mm portrait lens, emphasizing developer photography that's authentic and concentrated, face in sharp focus.
+```
+
+**Prompt 132:**
+```
+A photorealistic close-up of a tech founder presenting product at launch event. Set on presentation stage with screens and audience blurred. The scene is illuminated by stage lighting creating innovation atmosphere, producing a founder's vision moment. Captured with an 85mm portrait lens, emphasizing tech presentation photography that's confident and visionary, face in sharp focus.
+```
+
+**Prompt 133:**
+```
+A photorealistic bust shot of a programmer in hoodie at hackathon with laptop. Set at hackathon venue with tech elements and teams blurred. The scene is illuminated by laptop glow and venue lighting creating coding atmosphere, producing a hacker energy. Captured with an 85mm portrait lens, emphasizing hackathon photography that's intense and authentic, face in sharp focus.
+```
+
+**Prompt 134:**
+```
+A photorealistic portrait of a tech executive in smart casual at innovation lab. Set in futuristic tech lab with prototypes and screens blurred. The scene is illuminated by clean modern lighting creating innovation atmosphere, producing a tech leader presence. Captured with an 85mm portrait lens, emphasizing tech innovation photography that's forward-thinking and polished, face in sharp focus.
+```
+
+**Prompt 135:**
+```
+A photorealistic close-up of a VR developer testing headset with amazement. Set in VR lab with equipment and future-tech elements blurred. The scene is illuminated by lab lighting creating futuristic atmosphere, producing a tech pioneer moment. Captured with an 85mm portrait lens, emphasizing VR development photography that's cutting-edge and exciting, face in sharp focus.
+```
+
+---
+
+## STYL 16: CRAFTSMAN ARTISAN 🔨
+
+**Zastosowanie:** Craftsmanship, handmade, traditional skills, artisan work
+
+---
+
+**Prompt 136:**
+```
+A photorealistic portrait of a woodworker in workshop with handmade furniture piece. Set in traditional woodshop with tools and sawdust blurred. The scene is illuminated by natural workshop light creating craft atmosphere, producing a craftsman's pride. Captured with an 85mm portrait lens, emphasizing craftsmanship photography that's authentic and skilled, face in sharp focus.
+```
+
+**Prompt 137:**
+```
+A photorealistic close-up of a blacksmith forging metal with hammer and anvil. Set in forge with fire and tools blurred behind. The scene is illuminated by forge fire glow creating intense atmosphere, producing a blacksmith's strength moment. Captured with an 85mm portrait lens, emphasizing blacksmith photography that's powerful and traditional, face in sharp focus.
+```
+
+**Prompt 138:**
+```
+A photorealistic bust shot of a leather craftsman hand-stitching premium goods. Set in leather workshop with hides and tools blurred. The scene is illuminated by warm workshop lighting creating artisan atmosphere, producing a leatherworker's focus. Captured with an 85mm portrait lens, emphasizing leather craft photography that's detailed and authentic, face in sharp focus.
+```
+
+**Prompt 139:**
+```
+A photorealistic portrait of a watchmaker examining timepiece with precision. Set in watchmaker studio with tiny parts and tools blurred. The scene is illuminated by focused work light creating precision atmosphere, producing a watchmaker's expertise. Captured with an 85mm portrait lens, emphasizing watchmaking photography that's precise and masterful, face in sharp focus.
+```
+
+**Prompt 140:**
+```
+A photorealistic close-up of a carpenter measuring wood with traditional tools. Set in carpentry workshop with projects and sawdust blurred. The scene is illuminated by natural workshop light creating craft atmosphere, producing a carpenter's skill. Captured with an 85mm portrait lens, emphasizing carpentry photography that's traditional and authentic, face in sharp focus.
+```
+
+---
+
+## STYL 17: WINTER SPORTS ATHLETE ⛷️
+
+**Zastosowanie:** Skiing, snowboarding, winter sports, mountain lifestyle
+
+---
+
+**Prompt 141:**
+```
+A photorealistic portrait of a skier in winter gear at mountain summit. Set at snowy peak with alpine vista and blue sky blurred. The scene is illuminated by brilliant mountain sunlight creating exhilarating atmosphere, producing a ski achievement energy. Captured with an 85mm portrait lens, emphasizing ski photography that's epic and victorious, face in sharp focus.
+```
+
+**Prompt 142:**
+```
+A photorealistic close-up of a snowboarder with goggles up showing adventure expression. Set on snowy slope with mountain backdrop blurred. The scene is illuminated by bright snow reflection creating winter atmosphere, producing a snowboarder's stoke. Captured with an 85mm portrait lens, emphasizing snowboard photography that's authentic and excited, face in sharp focus.
+```
+
+**Prompt 143:**
+```
+A photorealistic bust shot of a ski instructor teaching with patient smile. Set on beginner slope with students and resort blurred. The scene is illuminated by clear mountain light creating teaching atmosphere, producing a ski instructor warmth. Captured with an 85mm portrait lens, emphasizing ski instruction photography that's friendly and professional, face in sharp focus.
+```
+
+**Prompt 144:**
+```
+A photorealistic portrait of an ice climber with ice axes on frozen waterfall. Set on ice climbing route with frozen cascade blurred. The scene is illuminated by cold winter light creating extreme atmosphere, producing an ice climber's determination. Captured with an 85mm portrait lens, emphasizing ice climbing photography that's intense and extreme, face in sharp focus.
+```
+
+**Prompt 145:**
+```
+A photorealistic close-up of a winter athlete warming by lodge fire après-ski. Set in ski lodge with fireplace and cozy elements blurred. The scene is illuminated by warm firelight creating après-ski atmosphere, producing a winter relaxation moment. Captured with an 85mm portrait lens, emphasizing après-ski photography that's warm and satisfied, face in sharp focus.
+```
+
+---
+
+## STYL 18: MUSICIAN PERFORMER 🎸
+
+**Zastosowanie:** Musicians, bands, performers, music lifestyle
+
+---
+
+**Prompt 146:**
+```
+A photorealistic portrait of a guitarist with electric guitar on stage. Set on concert stage with lights and equipment blurred behind. The scene is illuminated by dramatic stage lighting creating rock atmosphere, producing a rock star energy. Captured with an 85mm portrait lens, emphasizing concert photography that's dynamic and cool, face in sharp focus.
+```
+
+**Prompt 147:**
+```
+A photorealistic close-up of a singer with microphone in recording booth. Set in professional recording studio with foam and tech blurred. The scene is illuminated by studio lighting creating creative atmosphere, producing a recording artist focus. Captured with an 85mm portrait lens, emphasizing recording studio photography that's authentic and intense, face in sharp focus.
+```
+
+**Prompt 148:**
+```
+A photorealistic bust shot of a classical violinist in formal attire practicing. Set in elegant rehearsal space with instrument and music stands blurred. The scene is illuminated by natural window light creating refined atmosphere, producing a classical musician elegance. Captured with an 85mm portrait lens, emphasizing classical music photography that's sophisticated and focused, face in sharp focus.
+```
+
+**Prompt 149:**
+```
+A photorealistic portrait of a jazz musician with saxophone in moody club. Set in intimate jazz club with audience and ambiance blurred. The scene is illuminated by warm club lighting creating jazzy atmosphere, producing a jazz musician cool. Captured with an 85mm portrait lens, emphasizing jazz photography that's moody and authentic, face in sharp focus.
+```
+
+**Prompt 150:**
+```
+A photorealistic close-up of a drummer behind kit with passionate expression. Set behind drum kit with cymbals and stage blurred. The scene is illuminated by dramatic stage lighting creating energetic atmosphere, producing a drummer's passion. Captured with an 85mm portrait lens, emphasizing drummer photography that's intense and powerful, face in sharp focus.
+```
+
+---
+
+✅ **FACECI EXPANSION COMPLETE: 150 TOTAL PROMPTS!** (+70 new)
+
+---
+
+## 💑 PARY EXPANSION (+50 prompts = 110 total)
+
+### ADDITIONS TO EXISTING STYLES (20 prompts)
+
+---
+
+#### ❤️ STYL 1 EXPANSION: ROMANTIC INTIMATE
+
+**Prompt 61:**
+```
+A photorealistic close-up portrait of a couple foreheads touching in tender moment. Set in intimate bedroom with soft textures and candlelight blurred. The scene is illuminated by warm candlelight creating romantic atmosphere, producing a deep intimacy moment. Captured with an 85mm portrait lens, emphasizing couple intimacy photography that's tender and emotional, faces in sharp focus.
+```
+
+**Prompt 62:**
+```
+A photorealistic bust shot of a couple slow dancing in living room by fireplace. Set in cozy home with fire glow and soft elements blurred. The scene is illuminated by firelight creating intimate atmosphere, producing a private dance romance. Captured with an 85mm portrait lens, emphasizing at-home couple photography that's warm and loving, faces in sharp focus.
+```
+
+---
+
+#### 🏡 STYL 2 EXPANSION: LIFESTYLE CASUAL
+
+**Prompt 63:**
+```
+A photorealistic portrait of a couple cooking together in modern kitchen laughing. Set in bright kitchen with ingredients and appliances blurred. The scene is illuminated by natural window light creating joyful atmosphere, producing a cooking together fun. Captured with an 85mm portrait lens, emphasizing lifestyle couple photography that's genuine and happy, faces in sharp focus.
+```
+
+**Prompt 64:**
+```
+A photorealistic close-up of a couple doing morning coffee routine together. Set in kitchen with morning light and coffee elements blurred. The scene is illuminated by soft morning sunlight creating peaceful atmosphere, producing a morning ritual intimacy. Captured with an 85mm portrait lens, emphasizing morning couple photography that's authentic and cozy, faces in sharp focus.
+```
+
+---
+
+#### 💍 STYL 3 EXPANSION: ELEGANT FORMAL
+
+**Prompt 65:**
+```
+A photorealistic bust shot of a couple in black tie at opera house grand staircase. Set at ornate opera house with red velvet and gold details blurred. The scene is illuminated by chandelier glow creating elegant atmosphere, producing a cultural evening sophistication. Captured with an 85mm portrait lens, emphasizing formal couple photography that's refined and luxurious, faces in sharp focus.
+```
+
+**Prompt 66:**
+```
+A photorealistic portrait of a couple in evening wear arriving at gala in luxury car. Set at elegant venue entrance with architecture and car blurred. The scene is illuminated by evening lighting creating glamorous atmosphere, producing a power couple arrival. Captured with an 85mm portrait lens, emphasizing gala couple photography that's sophisticated and striking, faces in sharp focus.
+```
+
+---
+
+#### ✈️ STYL 4 EXPANSION: ADVENTURE TRAVEL
+
+**Prompt 67:**
+```
+A photorealistic close-up of a couple at Machu Picchu summit celebrating achievement. Set at iconic ruins with ancient architecture and mountains blurred. The scene is illuminated by mountain sunlight creating adventurous atmosphere, producing a travel milestone moment. Captured with an 85mm portrait lens, emphasizing adventure couple photography that's epic and joyful, faces in sharp focus.
+```
+
+**Prompt 68:**
+```
+A photorealistic portrait of a couple on safari jeep spotting wildlife together. Set in safari vehicle with African landscape and animals blurred. The scene is illuminated by warm African light creating adventure atmosphere, producing a safari couple excitement. Captured with an 85mm portrait lens, emphasizing safari couple photography that's adventurous and authentic, faces in sharp focus.
+```
+
+---
+
+#### 🎨 STYL 5 EXPANSION: ARTISTIC CREATIVE
+
+**Prompt 69:**
+```
+A photorealistic bust shot of a couple in art gallery discussing painting together. Set in modern gallery with artwork and white walls blurred. The scene is illuminated by gallery lighting creating cultured atmosphere, producing an art lovers moment. Captured with an 85mm portrait lens, emphasizing cultured couple photography that's sophisticated and genuine, faces in sharp focus.
+```
+
+**Prompt 70:**
+```
+A photorealistic close-up of a couple dancing at outdoor music festival. Set at festival with stage lights and crowd blurred behind. The scene is illuminated by colorful stage lighting creating festival atmosphere, producing a music festival couple energy. Captured with an 85mm portrait lens, emphasizing festival couple photography that's vibrant and joyful, faces in sharp focus.
+```
+
+---
+
+#### 🍂 STYL 6 EXPANSION: SEASONAL THEMED
+
+**Prompt 71:**
+```
+A photorealistic portrait of a couple in matching ugly Christmas sweaters by tree. Set in living room with decorated Christmas tree and lights blurred. The scene is illuminated by warm tree lights creating festive atmosphere, producing a playful holiday moment. Captured with an 85mm portrait lens, emphasizing holiday couple photography that's fun and cozy, faces in sharp focus.
+```
+
+**Prompt 72:**
+```
+A photorealistic bust shot of a couple apple picking in autumn orchard together. Set in apple orchard with trees and autumn colors blurred. The scene is illuminated by golden autumn light creating harvest atmosphere, producing a fall activity joy. Captured with an 85mm portrait lens, emphasizing autumn couple photography that's warm and genuine, faces in sharp focus.
+```
+
+---
+
+#### 📸 STYL 7 EXPANSION: STUDIO PROFESSIONAL
+
+**Prompt 73:**
+```
+A photorealistic close-up of a couple in matching white against white backdrop, minimalist. Set in clean studio with pure white seamless background. The scene is illuminated by high-key studio lighting creating crisp atmosphere, producing a modern minimalist couple shot. Captured with an 85mm portrait lens, emphasizing minimalist couple photography that's clean and contemporary, faces in sharp focus.
+```
+
+**Prompt 74:**
+```
+A photorealistic portrait of a couple with dramatic split lighting, artistic studio shot. Set in studio with neutral backdrop and controlled lighting. The scene is illuminated by dramatic studio strobes creating artistic atmosphere, producing a fine art couple portrait. Captured with an 85mm portrait lens, emphasizing artistic couple photography that's dramatic and striking, faces in sharp focus.
+```
+
+---
+
+#### 🎬 STYL 8 EXPANSION: CINEMATIC DRAMATIC
+
+**Prompt 75:**
+```
+A photorealistic bust shot of a couple in rain embracing under umbrella, movie moment. Set on city street with rain and lights blurred behind. The scene is illuminated by street lights through rain creating romantic atmosphere, producing a cinematic rain kiss. Captured with an 85mm portrait lens, emphasizing rain couple photography that's dramatic and romantic, faces in sharp focus.
+```
+
+**Prompt 76:**
+```
+A photorealistic close-up of a couple reunion at train station, emotional embrace. Set in vintage train station with architecture and steam blurred. The scene is illuminated by station lighting creating nostalgic atmosphere, producing a reunion emotion moment. Captured with an 85mm portrait lens, emphasizing reunion photography that's emotional and cinematic, faces in sharp focus.
+```
+
+---
+
+#### ☀️ STYL 9 EXPANSION: NATURAL LIGHT GOLDEN HOUR
+
+**Prompt 77:**
+```
+A photorealistic portrait of a couple walking through wheat field at sunset holding hands. Set in golden wheat field with endless horizon and sunset blurred. The scene is illuminated by warm golden hour creating dreamy atmosphere, producing a field sunset romance. Captured with an 85mm portrait lens, emphasizing golden hour couple photography that's magical and warm, faces in sharp focus.
+```
+
+**Prompt 78:**
+```
+A photorealistic bust shot of a couple on mountaintop at sunrise embracing. Set on mountain summit with sunrise and valley blurred behind. The scene is illuminated by soft sunrise light creating peaceful atmosphere, producing a summit sunrise moment. Captured with an 85mm portrait lens, emphasizing sunrise couple photography that's serene and beautiful, faces in sharp focus.
+```
+
+---
+
+#### 📷 STYL 10 EXPANSION: CANDID DOCUMENTARY
+
+**Prompt 79:**
+```
+A photorealistic close-up of a couple laughing together at inside joke, genuine moment. Set in casual setting with natural environment blurred. The scene is illuminated by natural light creating authentic atmosphere, producing a real couple laughter. Captured with an 85mm portrait lens, emphasizing candid couple photography that's genuine and joyful, faces in sharp focus.
+```
+
+**Prompt 80:**
+```
+A photorealistic portrait of a couple working on home renovation project together. Set in home under renovation with tools and materials blurred. The scene is illuminated by natural indoor light creating teamwork atmosphere, producing a partnership moment. Captured with an 85mm portrait lens, emphasizing real life couple photography that's authentic and relatable, faces in sharp focus.
+```
+
+---
+
+### 🆕 NEW CATEGORIES FOR PARY (30 prompts)
+
+---
+
+## STYL 11: ENGAGEMENT & PROPOSAL 💎
+
+**Zastosowanie:** Proposals, engagement photos, ring shots, celebration
+
+---
+
+**Prompt 81:**
+```
+A photorealistic portrait of a couple moment after proposal, pure joy and tears. Set at romantic proposal location with scenic backdrop blurred. The scene is illuminated by natural light creating emotional atmosphere, producing a proposal happiness moment. Captured with an 85mm portrait lens, emphasizing proposal photography that's emotional and authentic, faces in sharp focus.
+```
+
+**Prompt 82:**
+```
+A photorealistic close-up of a newly engaged couple showing ring with excitement. Set in celebration setting with happy elements blurred. The scene is illuminated by natural light creating joyful atmosphere, producing an engagement announcement energy. Captured with an 85mm portrait lens, emphasizing engagement photography that's happy and genuine, faces in sharp focus.
+```
+
+**Prompt 83:**
+```
+A photorealistic bust shot of a couple at scenic overlook after proposal embracing. Set at mountaintop or vista with dramatic landscape blurred. The scene is illuminated by golden hour creating romantic atmosphere, producing an epic proposal moment. Captured with an 85mm portrait lens, emphasizing scenic proposal photography that's breathtaking and emotional, faces in sharp focus.
+```
+
+**Prompt 84:**
+```
+A photorealistic portrait of a couple toasting champagne celebrating engagement. Set at romantic restaurant or venue with elegant elements blurred. The scene is illuminated by warm ambient lighting creating celebration atmosphere, producing an engagement toast joy. Captured with an 85mm portrait lens, emphasizing engagement celebration photography that's elegant and happy, faces in sharp focus.
+```
+
+**Prompt 85:**
+```
+A photorealistic close-up of a couple kissing with ring visible in foreground. Set in romantic setting with soft bokeh and lights blurred. The scene is illuminated by soft romantic lighting creating intimate atmosphere, producing an engagement kiss moment. Captured with an 85mm portrait lens, emphasizing engagement detail photography that's romantic and beautiful, faces in sharp focus.
+```
+
+---
+
+## STYL 12: EXPECTING PARENTS 🤰
+
+**Zastosowanie:** Pregnancy, maternity, expecting couple, baby bump
+
+---
+
+**Prompt 86:**
+```
+A photorealistic portrait of an expecting couple with hands on baby bump together. Set in nature with soft background blurred beautifully. The scene is illuminated by natural golden hour creating tender atmosphere, producing an expecting parents love. Captured with an 85mm portrait lens, emphasizing maternity couple photography that's gentle and emotional, faces in sharp focus.
+```
+
+**Prompt 87:**
+```
+A photorealistic close-up of a father kissing mother's pregnant belly tenderly. Set in home nursery with baby preparations blurred. The scene is illuminated by soft window light creating intimate atmosphere, producing a expecting father tenderness. Captured with an 85mm portrait lens, emphasizing pregnancy photography that's emotional and sweet, faces in sharp focus.
+```
+
+**Prompt 88:**
+```
+A photorealistic bust shot of a couple reading to baby bump together. Set in cozy home with baby books and soft textures blurred. The scene is illuminated by warm indoor lighting creating nurturing atmosphere, producing a preparing parents moment. Captured with an 85mm portrait lens, emphasizing expecting couple photography that's tender and genuine, faces in sharp focus.
+```
+
+**Prompt 89:**
+```
+A photorealistic portrait of a couple at gender reveal moment with emotion. Set at gender reveal party with pink or blue elements blurred. The scene is illuminated by natural light creating joyful atmosphere, producing a gender reveal excitement. Captured with an 85mm portrait lens, emphasizing gender reveal photography that's emotional and happy, faces in sharp focus.
+```
+
+**Prompt 90:**
+```
+A photorealistic close-up of a couple looking at ultrasound image together with wonder. Set in medical office or home with pregnancy elements blurred. The scene is illuminated by soft natural light creating precious atmosphere, producing a first glimpse moment. Captured with an 85mm portrait lens, emphasizing ultrasound couple photography that's emotional and intimate, faces in sharp focus.
+```
+
+---
+
+## STYL 13: ANNIVERSARY CELEBRATION 🎊
+
+**Zastosowanie:** Anniversaries, vow renewals, milestone celebrations
+
+---
+
+**Prompt 91:**
+```
+A photorealistic portrait of a mature couple celebrating 50th anniversary in formal attire. Set at elegant celebration venue with flowers and gold details blurred. The scene is illuminated by warm celebration lighting creating joyful atmosphere, producing a golden anniversary elegance. Captured with an 85mm portrait lens, emphasizing anniversary photography that's dignified and loving, faces in sharp focus.
+```
+
+**Prompt 92:**
+```
+A photorealistic close-up of a couple cutting anniversary cake together smiling. Set at anniversary party with decorations and guests blurred. The scene is illuminated by warm party lighting creating celebration atmosphere, producing an anniversary joy moment. Captured with an 85mm portrait lens, emphasizing celebration couple photography that's happy and genuine, faces in sharp focus.
+```
+
+**Prompt 93:**
+```
+A photorealistic bust shot of a couple recreating their wedding photo years later. Set in same location as original with nostalgic elements blurred. The scene is illuminated by similar lighting creating sentimental atmosphere, producing a then-and-now love. Captured with an 85mm portrait lens, emphasizing anniversary recreation photography that's emotional and meaningful, faces in sharp focus.
+```
+
+**Prompt 94:**
+```
+A photorealistic portrait of a couple dancing at vow renewal ceremony. Set in beautiful ceremony space with flowers and guests blurred. The scene is illuminated by romantic lighting creating renewal atmosphere, producing a vow renewal love. Captured with an 85mm portrait lens, emphasizing vow renewal photography that's romantic and emotional, faces in sharp focus.
+```
+
+**Prompt 95:**
+```
+A photorealistic close-up of a couple toasting at romantic anniversary dinner. Set at upscale restaurant with candles and wine blurred. The scene is illuminated by candlelight creating intimate atmosphere, producing an anniversary celebration moment. Captured with an 85mm portrait lens, emphasizing anniversary dinner photography that's elegant and romantic, faces in sharp focus.
+```
+
+---
+
+## STYL 14: ACTIVE LIFESTYLE 🚴
+
+**Zastosowanie:** Sports together, fitness couple, active lifestyle
+
+---
+
+**Prompt 96:**
+```
+A photorealistic portrait of a couple on tandem bike riding through countryside. Set on country road with scenic landscape blurred. The scene is illuminated by natural daylight creating active atmosphere, producing a tandem adventure energy. Captured with an 85mm portrait lens, emphasizing active couple photography that's fun and dynamic, faces in sharp focus.
+```
+
+**Prompt 97:**
+```
+A photorealistic close-up of a couple after completing marathon together, exhausted but happy. Set at finish line with race elements and crowd blurred. The scene is illuminated by bright daylight creating achievement atmosphere, producing a fitness goal accomplishment. Captured with an 85mm portrait lens, emphasizing marathon couple photography that's victorious and emotional, faces in sharp focus.
+```
+
+**Prompt 98:**
+```
+A photorealistic bust shot of a couple doing partner yoga pose together. Set in yoga studio or outdoor peaceful setting blurred. The scene is illuminated by natural light creating zen atmosphere, producing a couples yoga harmony. Captured with an 85mm portrait lens, emphasizing yoga couple photography that's balanced and peaceful, faces in sharp focus.
+```
+
+**Prompt 99:**
+```
+A photorealistic portrait of a couple hiking with backpacks reaching summit together. Set at mountain peak with vista and sky blurred. The scene is illuminated by bright mountain light creating achievement atmosphere, producing a hiking couple triumph. Captured with an 85mm portrait lens, emphasizing hiking couple photography that's adventurous and victorious, faces in sharp focus.
+```
+
+**Prompt 100:**
+```
+A photorealistic close-up of a couple kayaking together on calm lake. Set in kayak on peaceful lake with nature reflected blurred. The scene is illuminated by soft natural light creating tranquil atmosphere, producing a paddling together peace. Captured with an 85mm portrait lens, emphasizing kayaking couple photography that's serene and cooperative, faces in sharp focus.
+```
+
+---
+
+## STYL 15: LGBTQ+ LOVE 🏳️‍🌈
+
+**Zastosowanie:** Same-sex couples, pride, LGBTQ+ representation, love is love
+
+---
+
+**Prompt 101:**
+```
+A photorealistic portrait of a same-sex couple embracing at pride parade with pride flags. Set at pride event with rainbow colors and celebration blurred. The scene is illuminated by bright daylight creating joyful atmosphere, producing a pride love celebration. Captured with an 85mm portrait lens, emphasizing LGBTQ+ couple photography that's proud and joyful, faces in sharp focus.
+```
+
+**Prompt 102:**
+```
+A photorealistic close-up of two grooms on their wedding day sharing first married kiss. Set at wedding ceremony with flowers and guests blurred. The scene is illuminated by natural light creating emotional atmosphere, producing a wedding equality moment. Captured with an 85mm portrait lens, emphasizing same-sex wedding photography that's beautiful and emotional, faces in sharp focus.
+```
+
+**Prompt 103:**
+```
+A photorealistic bust shot of two brides in wedding dresses walking down aisle together. Set in elegant wedding venue with guests and flowers blurred. The scene is illuminated by romantic venue lighting creating joyful atmosphere, producing a lesbian wedding beauty. Captured with an 85mm portrait lens, emphasizing LGBTQ+ wedding photography that's elegant and happy, faces in sharp focus.
+```
+
+**Prompt 104:**
+```
+A photorealistic portrait of a same-sex couple at home cooking dinner together. Set in modern kitchen with domestic elements blurred. The scene is illuminated by natural indoor light creating authentic atmosphere, producing a everyday love moment. Captured with an 85mm portrait lens, emphasizing LGBTQ+ lifestyle photography that's genuine and warm, faces in sharp focus.
+```
+
+**Prompt 105:**
+```
+A photorealistic close-up of a queer couple holding hands at sunset beach. Set at beach with ocean and sunset colors blurred. The scene is illuminated by golden hour creating romantic atmosphere, producing a love is love moment. Captured with an 85mm portrait lens, emphasizing inclusive couple photography that's romantic and beautiful, faces in sharp focus.
+```
+
+---
+
+## STYL 16: MULTICULTURAL COUPLE 🌍
+
+**Zastosowanie:** Interracial couples, cultural fusion, diversity, blended traditions
+
+---
+
+**Prompt 106:**
+```
+A photorealistic portrait of an interracial couple in traditional cultural attire from both cultures. Set at cultural celebration with fusion elements blurred. The scene is illuminated by warm celebration lighting creating unity atmosphere, producing a cultural fusion beauty. Captured with an 85mm portrait lens, emphasizing multicultural couple photography that's respectful and beautiful, faces in sharp focus.
+```
+
+**Prompt 107:**
+```
+A photorealistic close-up of a mixed-race couple at multicultural wedding ceremony. Set at wedding blending traditions with cultural elements blurred. The scene is illuminated by romantic lighting creating celebration atmosphere, producing a unity in diversity moment. Captured with an 85mm portrait lens, emphasizing multicultural wedding photography that's meaningful and joyful, faces in sharp focus.
+```
+
+**Prompt 108:**
+```
+A photorealistic bust shot of an international couple cooking dishes from both cultures. Set in kitchen with ingredients from different cuisines blurred. The scene is illuminated by natural kitchen light creating fun atmosphere, producing a cultural exchange moment. Captured with an 85mm portrait lens, emphasizing multicultural lifestyle photography that's authentic and happy, faces in sharp focus.
+```
+
+**Prompt 109:**
+```
+A photorealistic portrait of a diverse couple celebrating both their holidays together. Set with decorations representing both cultural celebrations blurred. The scene is illuminated by festive lighting creating inclusive atmosphere, producing a blended traditions joy. Captured with an 85mm portrait lens, emphasizing inclusive couple photography that's celebratory and genuine, faces in sharp focus.
+```
+
+**Prompt 110:**
+```
+A photorealistic close-up of a biracial couple with their mixed-race children, family unity. Set in family setting with loving elements blurred. The scene is illuminated by natural light creating warm atmosphere, producing a beautiful diversity moment. Captured with an 85mm portrait lens, emphasizing multicultural family photography that's loving and authentic, faces in sharp focus.
+```
+
+---
+
+✅ **PARY EXPANSION COMPLETE: 110 TOTAL PROMPTS!** (+50 new)
+
+---
+
+## 👥 PRZYJACIELE EXPANSION (+45 prompts = 95 total)
+
+### ADDITIONS TO EXISTING STYLES (20 prompts)
+
+---
+
+#### 🎉 STYL 1 EXPANSION: CASUAL FUN
+
+**Prompt 51:**
+```
+A photorealistic portrait of a friend group making silly faces at camera together. Set in casual setting with fun elements blurred behind. The scene is illuminated by natural light creating playful atmosphere, producing a friendship fun moment. Captured with an 85mm portrait lens, emphasizing group fun photography that's genuine and joyful, faces in sharp focus.
+```
+
+**Prompt 52:**
+```
+A photorealistic bust shot of friends doing group selfie with phone visible. Set at fun location with activity elements blurred. The scene is illuminated by bright daylight creating happy atmosphere, producing a selfie squad energy. Captured with an 85mm portrait lens, emphasizing selfie group photography that's authentic and fun, faces in sharp focus.
+```
+
+---
+
+#### ⛰️ STYL 2 EXPANSION: ADVENTURE SQUAD
+
+**Prompt 53:**
+```
+A photorealistic close-up of friends at campfire telling stories at night. Set at campsite with fire glow and tents blurred. The scene is illuminated by warm campfire light creating bonding atmosphere, producing a camping friends moment. Captured with an 85mm portrait lens, emphasizing campfire photography that's warm and genuine, faces in sharp focus.
+```
+
+**Prompt 54:**
+```
+A photorealistic portrait of friend group white water rafting together with excitement. Set in raft on river with rapids and nature blurred. The scene is illuminated by bright outdoor light creating adventure atmosphere, producing a rafting squad thrill. Captured with an 85mm portrait lens, emphasizing adventure group photography that's dynamic and exciting, faces in sharp focus.
+```
+
+---
+
+#### 🏙️ STYL 3 EXPANSION: URBAN LIFESTYLE
+
+**Prompt 55:**
+```
+A photorealistic bust shot of friends at trendy rooftop bar with city lights. Set on rooftop with skyline and cocktails blurred. The scene is illuminated by ambient evening lighting creating urban atmosphere, producing a rooftop squad vibe. Captured with an 85mm portrait lens, emphasizing urban nightlife photography that's cool and sophisticated, faces in sharp focus.
+```
+
+**Prompt 56:**
+```
+A photorealistic close-up of friends shopping together in vintage boutique. Set in cool shop with clothing and decor blurred. The scene is illuminated by shop lighting creating trendy atmosphere, producing a shopping squad energy. Captured with an 85mm portrait lens, emphasizing retail therapy photography that's fun and stylish, faces in sharp focus.
+```
+
+---
+
+#### 🎊 STYL 4 EXPANSION: CELEBRATION PARTY
+
+**Prompt 57:**
+```
+A photorealistic portrait of friends at New Year's Eve party with confetti falling. Set at party with decorations and celebration elements blurred. The scene is illuminated by party lights creating festive atmosphere, producing a NYE celebration joy. Captured with an 85mm portrait lens, emphasizing party photography that's energetic and happy, faces in sharp focus.
+```
+
+**Prompt 58:**
+```
+A photorealistic bust shot of friend group toasting at birthday celebration. Set at birthday party with cake and balloons blurred. The scene is illuminated by warm party lighting creating joyful atmosphere, producing a birthday squad love. Captured with an 85mm portrait lens, emphasizing birthday photography that's genuine and celebratory, faces in sharp focus.
+```
+
+---
+
+#### ⚽ STYL 5 EXPANSION: SPORTS & ACTIVITIES
+
+**Prompt 59:**
+```
+A photorealistic close-up of friends celebrating goal in rec league game. Set on sports field with game action blurred behind. The scene is illuminated by natural daylight creating victory atmosphere, producing a rec sports triumph. Captured with an 85mm portrait lens, emphasizing sports celebration photography that's authentic and joyful, faces in sharp focus.
+```
+
+**Prompt 60:**
+```
+A photorealistic portrait of friend group at bowling alley celebrating strike. Set in bowling alley with lanes and retro elements blurred. The scene is illuminated by bowling alley lighting creating fun atmosphere, producing a bowling squad energy. Captured with an 85mm portrait lens, emphasizing bowling photography that's fun and genuine, faces in sharp focus.
+```
+
+---
+
+#### 🎨 STYL 6 EXPANSION: CREATIVE & ARTISTIC
+
+**Prompt 61:**
+```
+A photorealistic bust shot of friends collaborating on mural together. Set painting wall with street art and spray paint blurred. The scene is illuminated by natural outdoor light creating creative atmosphere, producing a crew creating art. Captured with an 85mm portrait lens, emphasizing street art photography that's authentic and cool, faces in sharp focus.
+```
+
+**Prompt 62:**
+```
+A photorealistic close-up of friend group at pottery class making ceramics. Set in art studio with pottery wheels and creations blurred. The scene is illuminated by natural studio light creating crafty atmosphere, producing a creative squad moment. Captured with an 85mm portrait lens, emphasizing craft class photography that's fun and genuine, faces in sharp focus.
+```
+
+---
+
+#### 📚 STYL 7 EXPANSION: STUDY & WORK
+
+**Prompt 63:**
+```
+A photorealistic portrait of friends studying together at library table. Set in university library with books and study elements blurred. The scene is illuminated by warm library lighting creating focused atmosphere, producing a study squad dedication. Captured with an 85mm portrait lens, emphasizing study group photography that's authentic and supportive, faces in sharp focus.
+```
+
+**Prompt 64:**
+```
+A photorealistic bust shot of friend group working on startup project together. Set in coworking space with laptops and whiteboards blurred. The scene is illuminated by office lighting creating entrepreneurial atmosphere, producing a founder squad energy. Captured with an 85mm portrait lens, emphasizing startup team photography that's ambitious and genuine, faces in sharp focus.
+```
+
+---
+
+#### 🎄 STYL 8 EXPANSION: SEASONAL & HOLIDAYS
+
+**Prompt 65:**
+```
+A photorealistic close-up of friends carving pumpkins together for Halloween. Set outdoors with fall decor and pumpkins blurred. The scene is illuminated by natural autumn light creating festive atmosphere, producing a Halloween squad fun. Captured with an 85mm portrait lens, emphasizing Halloween group photography that's fun and seasonal, faces in sharp focus.
+```
+
+**Prompt 66:**
+```
+A photorealistic portrait of friend group in matching 4th of July outfits with sparklers. Set at outdoor celebration with flags and BBQ blurred. The scene is illuminated by golden hour creating patriotic atmosphere, producing a July 4th squad spirit. Captured with an 85mm portrait lens, emphasizing holiday group photography that's festive and happy, faces in sharp focus.
+```
+
+---
+
+#### 📸 STYL 9 EXPANSION: STUDIO CLEAN
+
+**Prompt 67:**
+```
+A photorealistic bust shot of friends in coordinated outfits against colored backdrop. Set in studio with seamless colored paper background. The scene is illuminated by studio lighting creating crisp atmosphere, producing a coordinated squad shot. Captured with an 85mm portrait lens, emphasizing studio group photography that's clean and stylish, faces in sharp focus.
+```
+
+**Prompt 68:**
+```
+A photorealistic close-up of friend group in black and white for formal group shot. Set against black studio backdrop with dramatic lighting. The scene is illuminated by dramatic studio strobes creating sophisticated atmosphere, producing a formal squad portrait. Captured with an 85mm portrait lens, emphasizing formal group photography that's elegant and striking, faces in sharp focus.
+```
+
+---
+
+#### 📷 STYL 10 EXPANSION: CANDID MOMENTS
+
+**Prompt 69:**
+```
+A photorealistic portrait of friends laughing hysterically at inside joke. Set in casual environment with natural elements blurred. The scene is illuminated by natural light creating authentic atmosphere, producing a genuine laughter moment. Captured with an 85mm portrait lens, emphasizing candid group photography that's real and joyful, faces in sharp focus.
+```
+
+**Prompt 70:**
+```
+A photorealistic bust shot of friend group in car singing together on road trip. Set in car with road and scenery blurred through windows. The scene is illuminated by natural daylight creating road trip atmosphere, producing a carpool karaoke energy. Captured with an 85mm portrait lens, emphasizing road trip photography that's fun and authentic, faces in sharp focus.
+```
+
+---
+
+### 🆕 NEW CATEGORIES FOR PRZYJACIELE (25 prompts)
+
+---
+
+## STYL 11: COLLEGE SQUAD 🎓
+
+**Zastosowanie:** University friends, college life, campus vibes
+
+---
+
+**Prompt 71:**
+```
+A photorealistic portrait of friend group on college campus with university building. Set on campus quad with iconic building and students blurred. The scene is illuminated by bright daylight creating collegiate atmosphere, producing a campus squad pride. Captured with an 85mm portrait lens, emphasizing college photography that's youthful and authentic, faces in sharp focus.
+```
+
+**Prompt 72:**
+```
+A photorealistic close-up of friends at college graduation celebrating together. Set at graduation ceremony with caps and gowns blurred. The scene is illuminated by natural light creating achievement atmosphere, producing a graduation squad triumph. Captured with an 85mm portrait lens, emphasizing graduation group photography that's emotional and joyful, faces in sharp focus.
+```
+
+**Prompt 73:**
+```
+A photorealistic bust shot of friend group at college dorm room hanging out. Set in dorm with posters and college decor blurred. The scene is illuminated by warm room lighting creating cozy atmosphere, producing a dorm life authenticity. Captured with an 85mm portrait lens, emphasizing college life photography that's genuine and relatable, faces in sharp focus.
+```
+
+**Prompt 74:**
+```
+A photorealistic portrait of friends tailgating before college football game. Set at stadium parking lot with team colors and tailgate setup blurred. The scene is illuminated by natural daylight creating game day atmosphere, producing a tailgate squad spirit. Captured with an 85mm portrait lens, emphasizing tailgate photography that's fun and spirited, faces in sharp focus.
+```
+
+**Prompt 75:**
+```
+A photorealistic close-up of friend group studying at campus coffee shop. Set in college cafe with students and laptops blurred. The scene is illuminated by cafe lighting creating study atmosphere, producing a coffee shop squad focus. Captured with an 85mm portrait lens, emphasizing campus life photography that's authentic and studious, faces in sharp focus.
+```
+
+---
+
+## STYL 12: BRUNCH SQUAD 🥞
+
+**Zastosowanie:** Brunch dates, food lovers, restaurant hangs
+
+---
+
+**Prompt 76:**
+```
+A photorealistic portrait of friends at trendy brunch spot with mimosas. Set at restaurant table with food and drinks blurred. The scene is illuminated by natural restaurant light creating cheerful atmosphere, producing a brunch squad vibes. Captured with an 85mm portrait lens, emphasizing brunch photography that's fun and delicious, faces in sharp focus.
+```
+
+**Prompt 77:**
+```
+A photorealistic close-up of friend group taking food photo together at cafe. Set at cafe with aesthetic food and decor blurred. The scene is illuminated by natural cafe lighting creating Instagram atmosphere, producing a foodie squad moment. Captured with an 85mm portrait lens, emphasizing cafe culture photography that's trendy and fun, faces in sharp focus.
+```
+
+**Prompt 78:**
+```
+A photorealistic bust shot of friends at outdoor patio restaurant laughing. Set on restaurant patio with string lights and plants blurred. The scene is illuminated by warm patio lighting creating relaxed atmosphere, producing a patio dining joy. Captured with an 85mm portrait lens, emphasizing outdoor dining photography that's genuine and happy, faces in sharp focus.
+```
+
+**Prompt 79:**
+```
+A photorealistic portrait of friend group at food truck festival together. Set at food festival with trucks and crowds blurred. The scene is illuminated by natural daylight creating festival atmosphere, producing a foodie adventure energy. Captured with an 85mm portrait lens, emphasizing food festival photography that's fun and vibrant, faces in sharp focus.
+```
+
+**Prompt 80:**
+```
+A photorealistic close-up of friends toasting at fancy dinner celebration. Set at upscale restaurant with elegant decor and wine blurred. The scene is illuminated by ambient restaurant lighting creating sophisticated atmosphere, producing a dinner squad elegance. Captured with an 85mm portrait lens, emphasizing fine dining photography that's classy and joyful, faces in sharp focus.
+```
+
+---
+
+## STYL 13: FITNESS CREW 💪
+
+**Zastosowanie:** Workout buddies, gym squad, fitness goals
+
+---
+
+**Prompt 81:**
+```
+A photorealistic portrait of friend group at gym after workout session. Set in fitness gym with equipment and weights blurred. The scene is illuminated by gym lighting creating achievement atmosphere, producing a workout crew pride. Captured with an 85mm portrait lens, emphasizing gym photography that's motivational and genuine, faces in sharp focus.
+```
+
+**Prompt 82:**
+```
+A photorealistic close-up of friends at outdoor group workout in park. Set in park with exercise equipment and nature blurred. The scene is illuminated by natural daylight creating active atmosphere, producing a fitness squad energy. Captured with an 85mm portrait lens, emphasizing outdoor fitness photography that's healthy and fun, faces in sharp focus.
+```
+
+**Prompt 83:**
+```
+A photorealistic bust shot of friend group at yoga class in tree pose. Set in yoga studio with mats and peaceful elements blurred. The scene is illuminated by soft natural light creating zen atmosphere, producing a yoga squad harmony. Captured with an 85mm portrait lens, emphasizing yoga group photography that's balanced and peaceful, faces in sharp focus.
+```
+
+**Prompt 84:**
+```
+A photorealistic portrait of friends after completing 5K race together. Set at race finish line with race elements and medals blurred. The scene is illuminated by bright daylight creating victory atmosphere, producing a running crew triumph. Captured with an 85mm portrait lens, emphasizing race photography that's victorious and sweaty, faces in sharp focus.
+```
+
+**Prompt 85:**
+```
+A photorealistic close-up of friend group at CrossFit box celebrating PR. Set in CrossFit gym with equipment and chalk blurred. The scene is illuminated by gym lighting creating intense atmosphere, producing a CrossFit crew achievement. Captured with an 85mm portrait lens, emphasizing CrossFit photography that's gritty and triumphant, faces in sharp focus.
+```
+
+---
+
+## STYL 14: GAME NIGHT CREW 🎲
+
+**Zastosowanie:** Board games, game night, nerdy fun
+
+---
+
+**Prompt 86:**
+```
+A photorealistic portrait of friends intensely playing board game together. Set at home with board game and snacks blurred on table. The scene is illuminated by warm home lighting creating cozy atmosphere, producing a game night focus. Captured with an 85mm portrait lens, emphasizing board game photography that's fun and competitive, faces in sharp focus.
+```
+
+**Prompt 87:**
+```
+A photorealistic close-up of friend group celebrating victory in trivia night. Set at pub with trivia screens and drinks blurred. The scene is illuminated by pub lighting creating competitive atmosphere, producing a trivia squad triumph. Captured with an 85mm portrait lens, emphasizing pub trivia photography that's fun and smart, faces in sharp focus.
+```
+
+**Prompt 88:**
+```
+A photorealistic bust shot of friends at video game tournament together. Set in gaming setup with screens and controllers blurred. The scene is illuminated by screen glow creating gaming atmosphere, producing a gamer squad intensity. Captured with an 85mm portrait lens, emphasizing gaming photography that's focused and fun, faces in sharp focus.
+```
+
+**Prompt 89:**
+```
+A photorealistic portrait of friend group at escape room solving puzzles. Set in escape room with clues and props blurred. The scene is illuminated by atmospheric room lighting creating mystery atmosphere, producing an escape room squad teamwork. Captured with an 85mm portrait lens, emphasizing escape room photography that's intense and fun, faces in sharp focus.
+```
+
+**Prompt 90:**
+```
+A photorealistic close-up of friends hosting murder mystery dinner party. Set at dinner table with costumes and props blurred. The scene is illuminated by dramatic mood lighting creating theatrical atmosphere, producing a murder mystery squad drama. Captured with an 85mm portrait lens, emphasizing murder mystery photography that's fun and immersive, faces in sharp focus.
+```
+
+---
+
+## STYL 15: VOLUNTEER SQUAD 🤝
+
+**Zastosowanie:** Community service, volunteering together, giving back
+
+---
+
+**Prompt 91:**
+```
+A photorealistic portrait of friend group volunteering at community garden. Set in garden with plants and tools blurred. The scene is illuminated by natural daylight creating purposeful atmosphere, producing a volunteer squad pride. Captured with an 85mm portrait lens, emphasizing volunteer photography that's genuine and meaningful, faces in sharp focus.
+```
+
+**Prompt 92:**
+```
+A photorealistic close-up of friends serving food at charity event together. Set at charity event with serving table and people blurred. The scene is illuminated by event lighting creating giving atmosphere, producing a service squad warmth. Captured with an 85mm portrait lens, emphasizing charity work photography that's heartfelt and genuine, faces in sharp focus.
+```
+
+**Prompt 93:**
+```
+A photorealistic bust shot of friend group at beach cleanup with trash bags. Set at beach with ocean and cleanup supplies blurred. The scene is illuminated by natural beach light creating environmental atmosphere, producing an eco-warrior squad dedication. Captured with an 85mm portrait lens, emphasizing environmental photography that's purposeful and authentic, faces in sharp focus.
+```
+
+**Prompt 94:**
+```
+A photorealistic portrait of friends building house with Habitat for Humanity. Set at construction site with building materials and tools blurred. The scene is illuminated by outdoor work light creating teamwork atmosphere, producing a building squad effort. Captured with an 85mm portrait lens, emphasizing construction volunteer photography that's hardworking and meaningful, faces in sharp focus.
+```
+
+**Prompt 95:**
+```
+A photorealistic close-up of friend group at animal shelter with rescue pets. Set at shelter with animals and cages blurred. The scene is illuminated by shelter lighting creating compassionate atmosphere, producing an animal rescue squad love. Captured with an 85mm portrait lens, emphasizing animal shelter photography that's heartwarming and genuine, faces in sharp focus.
+```
+
+---
+
+✅ **PRZYJACIELE EXPANSION COMPLETE: 95 TOTAL PROMPTS!** (+45 new)
+
+---
+
+## 👶 DZIECI EXPANSION (+45 prompts = 95 total)
+
+### ADDITIONS TO EXISTING STYLES (20 prompts)
+
+---
+
+#### 👶 STYL 1 EXPANSION: NEWBORN & BABY
+
+**Prompt 51:**
+```
+A photorealistic close-up portrait of a newborn baby yawning with tiny hands. Set on soft white blanket with gentle textures blurred. The scene is illuminated by soft diffused natural light creating tender atmosphere, producing a precious newborn moment. Captured with an 85mm portrait lens, emphasizing newborn photography that's gentle and heartwarming, face in sharp focus.
+```
+
+**Prompt 52:**
+```
+A photorealistic bust shot of a baby sitting up with first tooth smile. Set on neutral surface with soft toys blurred. The scene is illuminated by bright natural light creating cheerful atmosphere, producing a milestone baby joy. Captured with an 85mm portrait lens, emphasizing baby milestone photography that's genuine and sweet, face in sharp focus.
+```
+
+---
+
+#### 🎈 STYL 2 EXPANSION: PLAYFUL KIDS
+
+**Prompt 53:**
+```
+A photorealistic portrait of a child blowing bubbles with delight expression. Set outdoors with bubbles floating and nature blurred. The scene is illuminated by natural daylight creating magical atmosphere, producing a bubble joy moment. Captured with an 85mm portrait lens, emphasizing playful child photography that's genuine and happy, face in sharp focus.
+```
+
+**Prompt 54:**
+```
+A photorealistic close-up of a kid with face paint at carnival smiling. Set at fair with carnival elements and colors blurred. The scene is illuminated by bright daylight creating festive atmosphere, producing a carnival fun energy. Captured with an 85mm portrait lens, emphasizing carnival child photography that's colorful and joyful, face in sharp focus.
+```
+
+---
+
+#### 🌳 STYL 3 EXPANSION: OUTDOOR NATURE
+
+**Prompt 55:**
+```
+A photorealistic bust shot of a child catching butterflies with wonder expression. Set in meadow with flowers and butterflies blurred beautifully. The scene is illuminated by golden hour creating magical atmosphere, producing a nature discovery moment. Captured with an 85mm portrait lens, emphasizing nature child photography that's enchanting and genuine, face in sharp focus.
+```
+
+**Prompt 56:**
+```
+A photorealistic portrait of a kid climbing tree with adventurous expression. Set in forest with trees and branches blurred. The scene is illuminated by dappled forest light creating adventure atmosphere, producing a tree climbing courage. Captured with an 85mm portrait lens, emphasizing outdoor adventure photography that's authentic and brave, face in sharp focus.
+```
+
+---
+
+#### 🎨 STYL 4 EXPANSION: CREATIVE & ARTISTIC
+
+**Prompt 57:**
+```
+A photorealistic close-up of a child with paint-covered hands creating art. Set at art table with paintings and supplies blurred. The scene is illuminated by natural light creating creative atmosphere, producing a young artist joy. Captured with an 85mm portrait lens, emphasizing child art photography that's messy and genuine, face in sharp focus.
+```
+
+**Prompt 58:**
+```
+A photorealistic bust shot of a kid playing dress-up in costume with imagination. Set in playroom with costumes and props blurred. The scene is illuminated by warm room lighting creating playful atmosphere, producing a dress-up creativity. Captured with an 85mm portrait lens, emphasizing imagination photography that's fun and authentic, face in sharp focus.
+```
+
+---
+
+#### 📚 STYL 5 EXPANSION: SCHOOL & LEARNING
+
+**Prompt 59:**
+```
+A photorealistic portrait of a child excited for first day of school with backpack. Set at home entrance with school elements blurred. The scene is illuminated by natural morning light creating milestone atmosphere, producing a first day excitement. Captured with an 85mm portrait lens, emphasizing school milestone photography that's emotional and genuine, face in sharp focus.
+```
+
+**Prompt 60:**
+```
+A photorealistic close-up of a kid solving math problem with concentration. Set at desk with homework and pencils blurred. The scene is illuminated by warm desk lamp creating focused atmosphere, producing a homework dedication moment. Captured with an 85mm portrait lens, emphasizing study child photography that's authentic and focused, face in sharp focus.
+```
+
+---
+
+#### 🎄 STYL 6 EXPANSION: SEASONAL & HOLIDAYS
+
+**Prompt 61:**
+```
+A photorealistic bust shot of a child opening Christmas gift with excitement. Set in living room with tree and presents blurred. The scene is illuminated by warm Christmas lights creating magical atmosphere, producing a Christmas morning joy. Captured with an 85mm portrait lens, emphasizing holiday child photography that's joyful and genuine, face in sharp focus.
+```
+
+**Prompt 62:**
+```
+A photorealistic portrait of a kid hunting Easter eggs with basket and smile. Set in garden with flowers and eggs blurred. The scene is illuminated by bright spring sunlight creating festive atmosphere, producing an Easter hunt excitement. Captured with an 85mm portrait lens, emphasizing Easter photography that's cheerful and sweet, face in sharp focus.
+```
+
+---
+
+#### 🏠 STYL 7 EXPANSION: LIFESTYLE HOME
+
+**Prompt 63:**
+```
+A photorealistic close-up of a child helping bake cookies with parent. Set in kitchen with baking supplies and flour blurred. The scene is illuminated by natural kitchen light creating warm atmosphere, producing a baking together moment. Captured with an 85mm portrait lens, emphasizing family activity photography that's genuine and sweet, face in sharp focus.
+```
+
+**Prompt 64:**
+```
+A photorealistic bust shot of a kid reading book in cozy reading nook. Set in room with pillows and books blurred. The scene is illuminated by soft window light creating peaceful atmosphere, producing a reading time calm. Captured with an 85mm portrait lens, emphasizing reading child photography that's quiet and genuine, face in sharp focus.
+```
+
+---
+
+#### 👔 STYL 8 EXPANSION: FORMAL & PORTRAIT
+
+**Prompt 65:**
+```
+A photorealistic portrait of a child in formal attire at family wedding. Set at wedding venue with elegant elements blurred. The scene is illuminated by natural wedding light creating special atmosphere, producing a dressed-up cuteness. Captured with an 85mm portrait lens, emphasizing formal child photography that's elegant and sweet, face in sharp focus.
+```
+
+**Prompt 66:**
+```
+A photorealistic close-up of a kid in school picture day outfit with shy smile. Set against school photo backdrop. The scene is illuminated by photo day lighting creating classic atmosphere, producing a school portrait moment. Captured with an 85mm portrait lens, emphasizing school portrait photography that's traditional and genuine, face in sharp focus.
+```
+
+---
+
+#### 📸 STYL 9 EXPANSION: STUDIO PROFESSIONAL
+
+**Prompt 67:**
+```
+A photorealistic bust shot of a child against white backdrop with genuine laugh. Set in clean studio with seamless white background. The scene is illuminated by professional studio lighting creating crisp atmosphere, producing a natural child portrait. Captured with an 85mm portrait lens, emphasizing studio child photography that's clean and joyful, face in sharp focus.
+```
+
+**Prompt 68:**
+```
+A photorealistic portrait of a kid with prop teddy bear in studio setting. Set in studio with simple props and neutral backdrop blurred. The scene is illuminated by soft studio lighting creating sweet atmosphere, producing a timeless child portrait. Captured with an 85mm portrait lens, emphasizing classic studio photography that's sweet and professional, face in sharp focus.
+```
+
+---
+
+#### 📷 STYL 10 EXPANSION: CANDID DOCUMENTARY
+
+**Prompt 69:**
+```
+A photorealistic close-up of a child's genuine reaction to surprise gift. Set in home with wrapping paper and excitement blurred. The scene is illuminated by natural indoor light creating authentic atmosphere, producing a real surprise moment. Captured with an 85mm portrait lens, emphasizing candid child photography that's emotional and genuine, face in sharp focus.
+```
+
+**Prompt 70:**
+```
+A photorealistic bust shot of a kid laughing while playing with siblings. Set in playroom with toys and action blurred. The scene is illuminated by natural light creating joyful atmosphere, producing a sibling fun moment. Captured with an 85mm portrait lens, emphasizing sibling photography that's authentic and happy, face in sharp focus.
+```
+
+---
+
+### 🆕 NEW CATEGORIES FOR DZIECI (25 prompts)
+
+---
+
+## STYL 11: TODDLER ADVENTURES 👣
+
+**Zastosowanie:** Toddler exploration, first steps, discovery moments
+
+---
+
+**Prompt 71:**
+```
+A photorealistic portrait of a toddler taking first steps with determination. Set in living room with furniture and supportive parents blurred. The scene is illuminated by natural indoor light creating milestone atmosphere, producing a first steps triumph. Captured with an 85mm portrait lens, emphasizing toddler milestone photography that's emotional and precious, face in sharp focus.
+```
+
+**Prompt 72:**
+```
+A photorealistic close-up of a toddler exploring puddles with rain boots. Set outdoors with puddles and rain elements blurred. The scene is illuminated by overcast daylight creating playful atmosphere, producing a puddle jumping joy. Captured with an 85mm portrait lens, emphasizing toddler play photography that's genuine and fun, face in sharp focus.
+```
+
+**Prompt 73:**
+```
+A photorealistic bust shot of a toddler with messy food face after eating. Set in highchair with food and meal blurred. The scene is illuminated by natural kitchen light creating authentic atmosphere, producing a messy eating moment. Captured with an 85mm portrait lens, emphasizing mealtime photography that's real and adorable, face in sharp focus.
+```
+
+**Prompt 74:**
+```
+A photorealistic portrait of a toddler petting dog gently with wonder. Set in yard with pet and nature blurred. The scene is illuminated by soft natural light creating tender atmosphere, producing a child-animal bond. Captured with an 85mm portrait lens, emphasizing toddler-pet photography that's sweet and gentle, face in sharp focus.
+```
+
+**Prompt 75:**
+```
+A photorealistic close-up of a toddler discovering flowers with curious expression. Set in garden with blooms and greenery blurred beautifully. The scene is illuminated by golden hour creating magical atmosphere, producing a nature discovery wonder. Captured with an 85mm portrait lens, emphasizing toddler exploration photography that's innocent and sweet, face in sharp focus.
+```
+
+---
+
+## STYL 12: TEEN PORTRAITS 🎧
+
+**Zastosowanie:** Teenage years, senior portraits, youth identity
+
+---
+
+**Prompt 76:**
+```
+A photorealistic portrait of a teenager with skateboard in urban setting. Set on city street with graffiti and urban elements blurred. The scene is illuminated by natural daylight creating cool atmosphere, producing a teen skater vibe. Captured with an 85mm portrait lens, emphasizing teen lifestyle photography that's authentic and edgy, face in sharp focus.
+```
+
+**Prompt 77:**
+```
+A photorealistic close-up of a teenage girl with headphones listening to music. Set in bedroom with posters and personal elements blurred. The scene is illuminated by natural window light creating introspective atmosphere, producing a teen music moment. Captured with an 85mm portrait lens, emphasizing teen portrait photography that's genuine and moody, face in sharp focus.
+```
+
+**Prompt 78:**
+```
+A photorealistic bust shot of a high school senior in letterman jacket. Set on school campus with building and sports field blurred. The scene is illuminated by natural afternoon light creating proud atmosphere, producing a senior portrait confidence. Captured with an 85mm portrait lens, emphasizing senior portrait photography that's classic and proud, face in sharp focus.
+```
+
+**Prompt 79:**
+```
+A photorealistic portrait of a teen artist with spray paint creating street art. Set at urban wall with art and city blurred. The scene is illuminated by natural light creating creative atmosphere, producing a young artist expression. Captured with an 85mm portrait lens, emphasizing teen creativity photography that's authentic and bold, face in sharp focus.
+```
+
+**Prompt 80:**
+```
+A photorealistic close-up of a teenage bookworm reading in library corner. Set in library with books and cozy reading space blurred. The scene is illuminated by soft library light creating studious atmosphere, producing a teen intellectual moment. Captured with an 85mm portrait lens, emphasizing teen study photography that's quiet and genuine, face in sharp focus.
+```
+
+---
+
+## STYL 13: SIBLING BONDS 👫
+
+**Zastosowanie:** Brothers and sisters, sibling love, family bonds
+
+---
+
+**Prompt 81:**
+```
+A photorealistic portrait of siblings hugging with genuine affection. Set in home with family elements blurred. The scene is illuminated by natural indoor light creating loving atmosphere, producing a sibling love moment. Captured with an 85mm portrait lens, emphasizing sibling photography that's tender and genuine, faces in sharp focus.
+```
+
+**Prompt 82:**
+```
+A photorealistic close-up of older sibling reading to younger sibling. Set on couch with books and cozy elements blurred. The scene is illuminated by soft natural light creating nurturing atmosphere, producing a sibling bonding moment. Captured with an 85mm portrait lens, emphasizing sibling bond photography that's sweet and authentic, faces in sharp focus.
+```
+
+**Prompt 83:**
+```
+A photorealistic bust shot of siblings playing video game together laughing. Set in living room with TV and controllers blurred. The scene is illuminated by screen glow and room lighting creating fun atmosphere, producing a gaming siblings joy. Captured with an 85mm portrait lens, emphasizing sibling fun photography that's genuine and happy, faces in sharp focus.
+```
+
+**Prompt 84:**
+```
+A photorealistic portrait of twin siblings matching outfits with personality differences. Set in neutral environment with elements blurred. The scene is illuminated by natural light creating twin atmosphere, producing a twin identity moment. Captured with an 85mm portrait lens, emphasizing twin photography that's unique and genuine, faces in sharp focus.
+```
+
+**Prompt 85:**
+```
+A photorealistic close-up of big sibling teaching little sibling to ride bike. Set outdoors with bike and nature blurred. The scene is illuminated by natural daylight creating mentoring atmosphere, producing a teaching moment pride. Captured with an 85mm portrait lens, emphasizing sibling mentorship photography that's supportive and sweet, faces in sharp focus.
+```
+
+---
+
+## STYL 14: SPORTS KIDS ⚽
+
+**Zastosowanie:** Youth sports, athletic kids, team spirit
+
+---
+
+**Prompt 86:**
+```
+A photorealistic portrait of a child soccer player with ball and uniform. Set on soccer field with goal and field blurred. The scene is illuminated by natural daylight creating athletic atmosphere, producing a young athlete confidence. Captured with an 85mm portrait lens, emphasizing youth sports photography that's genuine and proud, face in sharp focus.
+```
+
+**Prompt 87:**
+```
+A photorealistic close-up of a young gymnast in leotard with focused expression. Set in gymnasium with equipment and mats blurred. The scene is illuminated by gym lighting creating determined atmosphere, producing a gymnast dedication. Captured with an 85mm portrait lens, emphasizing gymnastics photography that's focused and strong, face in sharp focus.
+```
+
+**Prompt 88:**
+```
+A photorealistic bust shot of a little league baseball player with bat and helmet. Set at baseball field with dugout and diamond blurred. The scene is illuminated by bright daylight creating sports atmosphere, producing a baseball kid pride. Captured with an 85mm portrait lens, emphasizing little league photography that's classic and genuine, face in sharp focus.
+```
+
+**Prompt 89:**
+```
+A photorealistic portrait of a young swimmer in goggles and cap after race. Set at pool with water and lanes blurred. The scene is illuminated by pool area lighting creating achievement atmosphere, producing a swimmer victory moment. Captured with an 85mm portrait lens, emphasizing youth swimming photography that's wet and triumphant, face in sharp focus.
+```
+
+**Prompt 90:**
+```
+A photorealistic close-up of a child martial artist in gi with black belt. Set in dojo with training elements and mats blurred. The scene is illuminated by dojo lighting creating disciplined atmosphere, producing a martial arts respect. Captured with an 85mm portrait lens, emphasizing martial arts photography that's focused and respectful, face in sharp focus.
+```
+
+---
+
+## STYL 15: BIRTHDAY MILESTONES 🎂
+
+**Zastosowanie:** Birthday portraits, age milestones, celebration moments
+
+---
+
+**Prompt 91:**
+```
+A photorealistic portrait of a one-year-old with smash cake covered in frosting. Set with birthday backdrop and cake blurred. The scene is illuminated by natural light creating celebration atmosphere, producing a cake smash joy. Captured with an 85mm portrait lens, emphasizing cake smash photography that's messy and adorable, face in sharp focus.
+```
+
+**Prompt 92:**
+```
+A photorealistic close-up of a child blowing out birthday candles with wish expression. Set at party table with cake and decorations blurred. The scene is illuminated by candle glow creating magical atmosphere, producing a birthday wish moment. Captured with an 85mm portrait lens, emphasizing birthday photography that's sweet and traditional, face in sharp focus.
+```
+
+**Prompt 93:**
+```
+A photorealistic bust shot of a kid at themed birthday party in costume. Set at themed party with decorations and friends blurred. The scene is illuminated by party lighting creating festive atmosphere, producing a birthday party excitement. Captured with an 85mm portrait lens, emphasizing themed party photography that's fun and colorful, face in sharp focus.
+```
+
+**Prompt 94:**
+```
+A photorealistic portrait of a teenager at Sweet 16 party looking elegant. Set at celebration venue with elegant decor blurred. The scene is illuminated by party lighting creating sophisticated atmosphere, producing a Sweet 16 milestone. Captured with an 85mm portrait lens, emphasizing milestone birthday photography that's elegant and meaningful, face in sharp focus.
+```
+
+**Prompt 95:**
+```
+A photorealistic close-up of a child wearing birthday crown with pride and joy. Set at home party with balloons and presents blurred. The scene is illuminated by warm party lighting creating celebration atmosphere, producing a birthday royalty moment. Captured with an 85mm portrait lens, emphasizing birthday portrait photography that's joyful and genuine, face in sharp focus.
+```
+
+---
+
+✅ **DZIECI EXPANSION COMPLETE: 95 TOTAL PROMPTS!** (+45 new)
+
+---
+
+## 🐾 ZWIERZĘTA EXPANSION (+45 prompts = 95 total)
+
+### ADDITIONS TO EXISTING STYLES (20 prompts)
+
+---
+
+#### 🐕 STYL 1 EXPANSION: DOGS
+
+**Prompt 51:**
+```
+A photorealistic close-up portrait of a corgi with happy smile and big ears. Set outdoors in garden with flowers blurred behind. The scene is illuminated by natural daylight creating cheerful atmosphere, producing a corgi personality charm. Captured with an 85mm portrait lens at dog's eye level, emphasizing corgi photography that's adorable and genuine, face in sharp focus with expressive eyes.
+```
+
+**Prompt 52:**
+```
+A photorealistic bust shot of a pit bull with gentle expression and flower crown. Set in soft setting with floral elements blurred. The scene is illuminated by natural light creating tender atmosphere, producing a gentle giant moment. Captured with an 85mm portrait lens, emphasizing pit bull photography that's sweet and misunderstood breed advocacy, face in sharp focus.
+```
+
+---
+
+#### 🐱 STYL 2 EXPANSION: CATS
+
+**Prompt 53:**
+```
+A photorealistic portrait of an orange tabby cat sitting regally in window. Set by window with sunbeam and outside view blurred. The scene is illuminated by natural window light creating majestic atmosphere, producing a sunbathing cat royalty. Captured with an 85mm portrait lens, emphasizing cat window photography that's beautiful and peaceful, face in sharp focus.
+```
+
+**Prompt 54:**
+```
+A photorealistic close-up of a black cat with striking green eyes at night. Set against dark background making eyes pop. The scene is illuminated by soft key light creating mysterious atmosphere, producing a black cat mystique. Captured with an 85mm portrait lens, emphasizing black cat photography that's stunning and elegant, face in sharp focus.
+```
+
+---
+
+#### 👨‍🦰🐕 STYL 3 EXPANSION: PETS WITH OWNERS
+
+**Prompt 55:**
+```
+A photorealistic bust shot of a woman and her cat both looking at camera together. Set in cozy home with soft elements blurred. The scene is illuminated by natural light creating bond atmosphere, producing a cat mom relationship. Captured with an 85mm portrait lens, emphasizing owner-cat photography that's loving and genuine, faces in sharp focus.
+```
+
+**Prompt 56:**
+```
+A photorealistic portrait of a man and dog hiking together on trail. Set on mountain trail with scenic vista blurred. The scene is illuminated by natural outdoor light creating adventure atmosphere, producing a hiking buddies bond. Captured with an 85mm portrait lens, emphasizing outdoor pet photography that's adventurous and genuine, faces in sharp focus.
+```
+
+---
+
+#### 🐰 STYL 4 EXPANSION: EXOTIC & SMALL PETS
+
+**Prompt 57:**
+```
+A photorealistic close-up of a hedgehog curled up with cute spines visible. Set on soft fabric with neutral elements blurred. The scene is illuminated by soft natural light creating adorable atmosphere, producing a hedgehog cuteness. Captured with an 85mm portrait lens, emphasizing small pet photography that's unique and precious, face in sharp focus.
+```
+
+**Prompt 58:**
+```
+A photorealistic bust shot of a colorful parrot on perch with vibrant feathers. Set with tropical elements and plants blurred. The scene is illuminated by natural light creating tropical atmosphere, producing a parrot personality. Captured with an 85mm portrait lens, emphasizing bird photography that's colorful and striking, face in sharp focus.
+```
+
+---
+
+#### 🐴 STYL 5 EXPANSION: HORSES & LARGE ANIMALS
+
+**Prompt 59:**
+```
+A photorealistic portrait of a horse close-up with gentle eyes and forelock. Set in stable or pasture with barn elements blurred. The scene is illuminated by natural light creating peaceful atmosphere, producing a horse soul connection. Captured with an 85mm portrait lens, emphasizing horse portrait photography that's beautiful and emotional, face in sharp focus.
+```
+
+**Prompt 60:**
+```
+A photorealistic close-up of a miniature horse with sweet expression. Set in field with flowers and nature blurred. The scene is illuminated by golden hour creating warm atmosphere, producing a mini horse charm. Captured with an 85mm portrait lens, emphasizing miniature horse photography that's adorable and gentle, face in sharp focus.
+```
+
+---
+
+#### 🎾 STYL 6 EXPANSION: ACTION & PLAY
+
+**Prompt 61:**
+```
+A photorealistic bust shot of a dog mid-jump catching frisbee with focus. Set at park with sky and grass blurred. The scene is illuminated by bright daylight creating action atmosphere, producing a dog athletic moment. Captured with an 85mm portrait lens with fast shutter, emphasizing action pet photography that's dynamic and exciting, face in sharp focus.
+```
+
+**Prompt 62:**
+```
+A photorealistic portrait of a cat pouncing on toy with hunter expression. Set in home with play elements blurred. The scene is illuminated by natural indoor light creating playful atmosphere, producing a cat predator instinct. Captured with an 85mm portrait lens, emphasizing cat play photography that's authentic and fun, face in sharp focus.
+```
+
+---
+
+#### 🏠 STYL 7 EXPANSION: LIFESTYLE AT HOME
+
+**Prompt 63:**
+```
+A photorealistic close-up of a pet sleeping peacefully on owner's bed. Set on bed with cozy bedding and pillows blurred. The scene is illuminated by soft natural light creating peaceful atmosphere, producing a pet comfort moment. Captured with an 85mm portrait lens, emphasizing pet lifestyle photography that's genuine and cozy, face in sharp focus.
+```
+
+**Prompt 64:**
+```
+A photorealistic bust shot of a dog waiting by door for owner to come home. Set at home entrance with hopeful expression and door blurred. The scene is illuminated by natural indoor light creating anticipation atmosphere, producing a loyal pet waiting. Captured with an 85mm portrait lens, emphasizing pet emotion photography that's heartwarming and genuine, face in sharp focus.
+```
+
+---
+
+#### 🌲 STYL 8 EXPANSION: OUTDOOR NATURE
+
+**Prompt 65:**
+```
+A photorealistic portrait of a dog running through autumn leaves with joy. Set in fall forest with colorful leaves flying and trees blurred. The scene is illuminated by natural autumn light creating seasonal atmosphere, producing a fall dog happiness. Captured with an 85mm portrait lens, emphasizing autumn pet photography that's joyful and dynamic, face in sharp focus.
+```
+
+**Prompt 66:**
+```
+A photorealistic close-up of a cat in snow with flakes on whiskers. Set in snowy garden with winter elements blurred. The scene is illuminated by bright snow reflection creating crisp atmosphere, producing a winter cat exploration. Captured with an 85mm portrait lens, emphasizing winter pet photography that's unique and beautiful, face in sharp focus.
+```
+
+---
+
+#### 📸 STYL 9 EXPANSION: STUDIO PROFESSIONAL
+
+**Prompt 67:**
+```
+A photorealistic bust shot of a show dog in perfect stance on seamless backdrop. Set in professional studio with clean background. The scene is illuminated by professional studio lighting creating crisp atmosphere, producing a show dog perfection. Captured with an 85mm portrait lens, emphasizing show dog photography that's professional and striking, face in sharp focus.
+```
+
+**Prompt 68:**
+```
+A photorealistic portrait of a purebred cat on pedestal in studio setting. Set in studio with elevated platform and neutral backdrop. The scene is illuminated by soft studio lighting creating elegant atmosphere, producing a cat show presence. Captured with an 85mm portrait lens, emphasizing purebred photography that's refined and beautiful, face in sharp focus.
+```
+
+---
+
+#### 💕 STYL 10 EXPANSION: SPECIAL MOMENTS
+
+**Prompt 69:**
+```
+A photorealistic close-up of a senior dog with gray muzzle and wise eyes. Set in gentle environment with soft elements blurred. The scene is illuminated by soft natural light creating tender atmosphere, producing a senior pet dignity. Captured with an 85mm portrait lens, emphasizing senior pet photography that's emotional and respectful, face in sharp focus.
+```
+
+**Prompt 70:**
+```
+A photorealistic bust shot of a newly adopted rescue pet with hopeful expression. Set at shelter or new home with adoption elements blurred. The scene is illuminated by natural light creating emotional atmosphere, producing a rescue pet hope. Captured with an 85mm portrait lens, emphasizing adoption photography that's heartwarming and meaningful, face in sharp focus.
+```
+
+---
+
+### 🆕 NEW CATEGORIES FOR ZWIERZĘTA (25 prompts)
+
+---
+
+## STYL 11: REPTILES & AMPHIBIANS 🦎
+
+**Zastosowanie:** Lizards, snakes, frogs, exotic reptiles
+
+---
+
+**Prompt 71:**
+```
+A photorealistic portrait of a bearded dragon lizard with alert expression. Set on rock or branch with terrarium elements blurred. The scene is illuminated by warm basking light creating reptile atmosphere, producing a beardie personality. Captured with an 85mm portrait lens, emphasizing reptile photography that's detailed and characterful, face in sharp focus.
+```
+
+**Prompt 72:**
+```
+A photorealistic close-up of a colorful chameleon with curled tail and color-changing skin. Set on branch with tropical plants blurred. The scene is illuminated by natural terrarium light creating exotic atmosphere, producing a chameleon uniqueness. Captured with an 85mm portrait lens, emphasizing chameleon photography that's vibrant and fascinating, face in sharp focus.
+```
+
+**Prompt 73:**
+```
+A photorealistic bust shot of a ball python snake with beautiful pattern and gentle coil. Set on handler's arm or natural element with background blurred. The scene is illuminated by soft natural light creating calm atmosphere, producing a snake beauty. Captured with an 85mm portrait lens, emphasizing snake photography that's elegant and misunderstood, face in sharp focus.
+```
+
+**Prompt 74:**
+```
+A photorealistic portrait of a red-eyed tree frog with bright colors on leaf. Set on tropical leaf with rainforest elements blurred. The scene is illuminated by soft natural light creating jungle atmosphere, producing a tree frog vibrance. Captured with an 85mm portrait lens, emphasizing frog photography that's colorful and exotic, face in sharp focus.
+```
+
+**Prompt 75:**
+```
+A photorealistic close-up of a leopard gecko with spotted pattern and sweet expression. Set on sand or rock with terrarium blurred. The scene is illuminated by terrarium lighting creating desert atmosphere, producing a gecko charm. Captured with an 85mm portrait lens, emphasizing gecko photography that's adorable and detailed, face in sharp focus.
+```
+
+---
+
+## STYL 12: FARM ANIMALS 🐄
+
+**Zastosowanie:** Cows, pigs, chickens, goats, farm life
+
+---
+
+**Prompt 76:**
+```
+A photorealistic portrait of a dairy cow with sweet eyes and gentle expression. Set in pasture with barn and farm blurred. The scene is illuminated by natural daylight creating pastoral atmosphere, producing a farm cow gentleness. Captured with an 85mm portrait lens, emphasizing farm animal photography that's genuine and peaceful, face in sharp focus.
+```
+
+**Prompt 77:**
+```
+A photorealistic close-up of a baby piglet with pink nose and curious look. Set in farm setting with straw and barn elements blurred. The scene is illuminated by natural light creating cute atmosphere, producing a piglet adorableness. Captured with an 85mm portrait lens, emphasizing pig photography that's sweet and genuine, face in sharp focus.
+```
+
+**Prompt 78:**
+```
+A photorealistic bust shot of a fluffy chicken hen with beautiful feathers. Set in coop or yard with farm elements blurred. The scene is illuminated by natural daylight creating rustic atmosphere, producing a chicken personality. Captured with an 85mm portrait lens, emphasizing chicken photography that's charming and detailed, face in sharp focus.
+```
+
+**Prompt 79:**
+```
+A photorealistic portrait of a goat with horns and mischievous expression. Set on farm with fence and countryside blurred. The scene is illuminated by natural light creating playful atmosphere, producing a goat character. Captured with an 85mm portrait lens, emphasizing goat photography that's fun and characterful, face in sharp focus.
+```
+
+**Prompt 80:**
+```
+A photorealistic close-up of a rooster with magnificent comb and proud stance. Set in farmyard with coop and morning elements blurred. The scene is illuminated by morning sunlight creating farm atmosphere, producing a rooster pride. Captured with an 85mm portrait lens, emphasizing rooster photography that's majestic and colorful, face in sharp focus.
+```
+
+---
+
+## STYL 13: AQUARIUM & FISH 🐠
+
+**Zastosowanie:** Fish, aquatic pets, underwater beauty
+
+---
+
+**Prompt 81:**
+```
+A photorealistic portrait of a betta fish with flowing fins in full display. Set in aquarium with plants and water blurred. The scene is illuminated by aquarium lighting creating underwater atmosphere, producing a betta fish elegance. Captured with an 85mm portrait lens through glass, emphasizing fish photography that's beautiful and fluid, face in sharp focus.
+```
+
+**Prompt 82:**
+```
+A photorealistic close-up of a goldfish with orange scales swimming gracefully. Set in clean aquarium with water plants blurred. The scene is illuminated by natural light through water creating peaceful atmosphere, producing a goldfish serenity. Captured with an 85mm portrait lens, emphasizing goldfish photography that's classic and calming, face in sharp focus.
+```
+
+**Prompt 83:**
+```
+A photorealistic bust shot of a colorful discus fish with pattern and fins. Set in planted aquarium with tropical elements blurred. The scene is illuminated by aquarium light creating vibrant atmosphere, producing a discus fish beauty. Captured with an 85mm portrait lens, emphasizing tropical fish photography that's colorful and exotic, face in sharp focus.
+```
+
+**Prompt 84:**
+```
+A photorealistic portrait of a clownfish among anemone in reef tank. Set in saltwater aquarium with coral and anemone blurred. The scene is illuminated by reef lighting creating ocean atmosphere, producing a clownfish habitat. Captured with an 85mm portrait lens, emphasizing marine fish photography that's vivid and natural, face in sharp focus.
+```
+
+**Prompt 85:**
+```
+A photorealistic close-up of a koi fish with beautiful pattern in pond. Set in outdoor pond with lily pads and reflections blurred. The scene is illuminated by natural daylight through water creating zen atmosphere, producing a koi fish tranquility. Captured with an 85mm portrait lens, emphasizing koi photography that's elegant and peaceful, face in sharp focus.
+```
+
+---
+
+## STYL 14: WILDLIFE PORTRAITS 🦅
+
+**Zastosowanie:** Wild animals, nature conservation, wildlife beauty
+
+---
+
+**Prompt 86:**
+```
+A photorealistic portrait of a red fox with alert expression in forest. Set in woodland with trees and foliage blurred. The scene is illuminated by natural forest light creating wild atmosphere, producing a fox cunning beauty. Captured with an 85mm portrait lens, emphasizing wildlife photography that's stunning and respectful, face in sharp focus.
+```
+
+**Prompt 87:**
+```
+A photorealistic close-up of a barn owl with intense eyes and feather detail. Set on branch with night elements blurred. The scene is illuminated by soft natural light creating mysterious atmosphere, producing an owl wisdom presence. Captured with an 85mm portrait lens, emphasizing owl photography that's captivating and detailed, face in sharp focus.
+```
+
+**Prompt 88:**
+```
+A photorealistic bust shot of a deer with gentle eyes in meadow. Set in open field with wildflowers and nature blurred. The scene is illuminated by golden hour creating peaceful atmosphere, producing a deer grace. Captured with an 85mm portrait lens, emphasizing deer photography that's serene and beautiful, face in sharp focus.
+```
+
+**Prompt 89:**
+```
+A photorealistic portrait of a raccoon with curious expression and mask face. Set in natural habitat with trees and environment blurred. The scene is illuminated by natural light creating woodland atmosphere, producing a raccoon personality. Captured with an 85mm portrait lens, emphasizing raccoon photography that's charming and wild, face in sharp focus.
+```
+
+**Prompt 90:**
+```
+A photorealistic close-up of a squirrel holding acorn with fluffy tail. Set in tree with branches and leaves blurred. The scene is illuminated by dappled forest light creating autumn atmosphere, producing a squirrel cuteness. Captured with an 85mm portrait lens, emphasizing squirrel photography that's adorable and natural, face in sharp focus.
+```
+
+---
+
+## STYL 15: PET CELEBRATIONS 🎉
+
+**Zastosowanie:** Pet birthdays, gotcha days, special occasions
+
+---
+
+**Prompt 91:**
+```
+A photorealistic portrait of a dog wearing birthday hat with cake in front. Set at party setup with decorations and treats blurred. The scene is illuminated by natural light creating celebration atmosphere, producing a dog birthday joy. Captured with an 85mm portrait lens, emphasizing pet birthday photography that's fun and adorable, face in sharp focus.
+```
+
+**Prompt 92:**
+```
+A photorealistic close-up of a cat with bow tie looking dapper at event. Set with elegant elements and celebration decor blurred. The scene is illuminated by soft natural light creating fancy atmosphere, producing a dressed-up cat elegance. Captured with an 85mm portrait lens, emphasizing fancy pet photography that's cute and sophisticated, face in sharp focus.
+```
+
+**Prompt 93:**
+```
+A photorealistic bust shot of a dog in Halloween costume with fun expression. Set with Halloween decor and pumpkins blurred. The scene is illuminated by warm autumn light creating festive atmosphere, producing a Halloween pet fun. Captured with an 85mm portrait lens, emphasizing pet costume photography that's playful and seasonal, face in sharp focus.
+```
+
+**Prompt 94:**
+```
+A photorealistic portrait of a pet in Christmas sweater by decorated tree. Set near Christmas tree with lights and ornaments blurred. The scene is illuminated by warm Christmas lights creating holiday atmosphere, producing a holiday pet charm. Captured with an 85mm portrait lens, emphasizing Christmas pet photography that's festive and cozy, face in sharp focus.
+```
+
+**Prompt 95:**
+```
+A photorealistic close-up of a newly adopted pet with "adopt me" sign. Set at adoption event or shelter with hopeful elements blurred. The scene is illuminated by natural light creating emotional atmosphere, producing an adoption hope moment. Captured with an 85mm portrait lens, emphasizing adoption photography that's heartwarming and meaningful, face in sharp focus.
+```
+
+---
+
+✅ **ZWIERZĘTA EXPANSION COMPLETE: 95 TOTAL PROMPTS!** (+45 new)
+
+---
+
+# 🎉 MEGA EXPANSION SUMMARY
+
+## 📊 FINAL TOTALS:
+
+- **KOBIETY:** 305 prompts (30 styles) ✅
+- **FACECI:** 150 prompts (18 styles) ✅ (+70 new)
+- **PARY:** 110 prompts (16 styles) ✅ (+50 new)
+- **PRZYJACIELE:** 95 prompts (15 styles) ✅ (+45 new)
+- **DZIECI:** 95 prompts (15 styles) ✅ (+45 new)
+- **ZWIERZĘTA:** 95 prompts (15 styles) ✅ (+45 new)
+
+**GRAND TOTAL: 850 PROMPTS!** 🚀
+
+**New prompts added in this expansion:** 255
+**Total styles across all categories:** 109
+
+---
+
+All prompts are fully **Nano Banana optimized** for Google Gemini 2.5 Flash Image:
+- ✅ Close-up portrait framing (maximum facial pixels)
+- ✅ Action verbs (streaming, flowing, catching, etc.)
+- ✅ Hyper-specific details
+- ✅ Physics & spatial relationships
+- ✅ Narrative template structure
+- ✅ Photography language (85mm lens, lighting specifications)
+
+---
