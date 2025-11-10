@@ -175,16 +175,38 @@ User wkleja inspirację → ja analizuję → tworzę dedykowany prompt → doda
 
 ---
 
+## 🎨 NANO BANANA OPTIMIZATION
+
+**Te prompty są zoptymalizowane pod Gemini 2.5 Flash (Nano Banana):**
+
+**Official Google Template Structure:**
+```
+A [style] [shot type] of [subject], [action/expression],
+set in [environment]. The scene is illuminated by [lighting],
+creating [mood] atmosphere. Captured with [lens], emphasizing [details].
+```
+
+**Kluczowe elementy:**
+1. **Narracyjne opisy** - "describe the scene, don't list keywords"
+2. **Action verbs** - model trenowany na video (flowing, streaming, cascading, catching)
+3. **Hyper-specific details** - "sharp navy suit" lepsze niż "suit"
+4. **Physics & spatial relationships** - "light filtering through", "fabric catching breeze"
+5. **Photography language** - shot types, lens specs, lighting techniques
+
+**Źródło:** Official Google AI Developer Documentation (2025)
+
+---
+
 ### STYL 1: SENSUALNE 🔥
 
 **Zastosowanie:** Boudoir, eleganckie sensual, romantic, intimate sessions
 
-**Base prompt structure:**
+**Base prompt structure (Nano Banana optimized):**
 ```
-Close-up portrait of [SUBJECT: woman], [POSE/HEAD POSITION], [CLOTHING/STYLING],
-[SETTING/BACKGROUND - blurred], [LIGHTING STYLE], [MOOD/ATMOSPHERE], [CAMERA ANGLE],
-[AESTHETIC KEYWORDS], professional photography, high quality, detailed, portrait framing,
-face in focus
+A photorealistic [shot type] of [subject], [action/expression],
+wearing [clothing details], set in [environment - blurred]. The scene
+is illuminated by [lighting description], creating [mood] atmosphere.
+Captured with [lens] from [angle], emphasizing [key details], face in sharp focus.
 ```
 
 ---
@@ -193,49 +215,55 @@ face in focus
 
 **Prompt 1:**
 ```
-Close-up portrait of beautiful woman, head turned slightly with soft gaze, wearing elegant
-white silk slip dress with thin straps, luxury bedroom with cream tones visible in blurred
-background, soft diffused morning light from window, romantic and elegant atmosphere,
-shot from slightly above, intimate but tasteful, fine art boudoir photography, dreamy
-and ethereal, professional photography, high quality, 85mm lens, shallow depth of field,
-portrait framing, face in focus
+A photorealistic close-up portrait of a beautiful woman turning her head slightly with
+a soft, contemplative gaze, wearing an elegant white silk slip dress with thin straps
+that catch the light. Set in a luxury bedroom with cream tones and morning light streaming
+through sheer curtains in soft blur behind her. The scene is illuminated by soft diffused
+natural light from the window, creating a romantic and ethereal atmosphere. Captured with
+an 85mm portrait lens from slightly above, emphasizing the delicate fabric texture and
+dreamy intimate mood, face in sharp focus with shallow depth of field.
 ```
 
 **Prompt 2:**
 ```
-Bust shot portrait of woman, head resting on hand, wearing black lace bodysuit and silk
-robe partially draped over shoulders, dark moody bedroom interior blurred in background,
-warm candlelight glow creating soft shadows on face, mysterious and sensual mood, eye-level
-shot, cinematic lighting, elegant boudoir photography, sophisticated and intimate, professional
-photography, high quality, 85mm lens, portrait framing, face in focus
+A photorealistic bust shot of a woman resting her head on her hand with a mysterious
+expression, wearing a black lace bodysuit with a silk robe draped over her shoulders,
+the fabric flowing softly. Set in a dark moody bedroom with antique furniture visible
+in soft blur. The scene is illuminated by warm candlelight casting gentle shadows across
+her face, creating a sensual and sophisticated atmosphere. Captured with an 85mm portrait
+lens at eye level, emphasizing the interplay of light and shadow on her features, face
+in sharp focus with cinematic lighting.
 ```
 
 **Prompt 3:**
 ```
-Close-up portrait of woman looking over shoulder, wearing oversized white button-up shirt,
-natural morning light streaming from window behind, minimal bedroom visible as soft blur,
-soft and natural atmosphere, intimate lifestyle boudoir, relaxed and authentic, professional
-photography, high quality, 85mm lens, natural light, portrait framing, face in focus,
-shallow depth of field
+A photorealistic close-up portrait of a woman glancing back over her shoulder, wearing
+an oversized crisp white button-up shirt with sleeves rolled up. Set in a minimal bedroom
+with morning light streaming through windows behind her, bedroom details fading into soft
+blur. The scene is illuminated by natural morning light filtering through, creating a
+soft and intimate atmosphere. Captured with an 85mm portrait lens from behind, emphasizing
+the authentic moment and relaxed elegance, face in sharp focus with shallow depth of field.
 ```
 
 **Prompt 4:**
 ```
-Portrait of woman lying on white bedding, looking at camera, wearing delicate champagne
-silk camisole, white pillows and sheets around, all-white minimal bedroom blurred background,
-soft overhead lighting on face, peaceful and serene mood, shot from above at angle, clean
-and elegant, fine art boudoir aesthetic, timeless and classic, professional photography,
-high quality, 85mm lens, portrait framing, face in focus
+A photorealistic portrait of a woman lying on white bedding, looking directly at the
+camera with a peaceful expression, wearing a delicate champagne silk camisole with lace
+trim. Set against pristine white pillows and sheets with the minimal bedroom fading into
+soft blur. The scene is illuminated by soft overhead lighting falling gently on her face,
+creating a serene and elegant atmosphere. Captured with an 85mm portrait lens from above
+at an angle, emphasizing clean lines and timeless beauty, face in sharp focus.
 ```
 
 **Prompt 5:**
 ```
-Bust shot of woman in vintage velvet armchair, leaning forward slightly, wearing black
-vintage-inspired lingerie, dark romantic interior with antique furniture in soft focus
-background, warm tungsten lighting highlighting face, old Hollywood glamour atmosphere,
-shot from slightly low angle, dramatic and sultry, retro boudoir style, 1940s film noir
-aesthetic, professional photography, high quality, 85mm lens, portrait framing, face in
-focus
+A photorealistic bust shot of a woman in a vintage velvet armchair, leaning forward slightly
+with a sultry gaze, wearing black vintage-inspired lingerie with intricate lace details.
+Set in a dark romantic interior with antique furniture and velvet drapes visible in soft
+focus behind her. The scene is illuminated by warm tungsten lighting highlighting her
+face and creating dramatic contrast, evoking old Hollywood glamour atmosphere. Captured
+with an 85mm portrait lens from a slightly low angle, emphasizing the 1940s film noir
+aesthetic and commanding presence, face in sharp focus.
 ```
 
 ---
@@ -244,29 +272,33 @@ focus
 
 **Prompt 6:**
 ```
-Close-up portrait of woman holding peonies near face, wearing flowing pastel pink silk
-nightgown, sunlit bedroom with gauzy curtains in soft focus background, golden hour light
-creating warm glow on skin, soft romantic atmosphere, dreamy and feminine, shot at eye
-level, ethereal and delicate, romantic editorial style, pastel color palette, professional
-photography, high quality, 85mm lens, bokeh background, portrait framing, face in focus
+A photorealistic close-up portrait of a woman holding fresh peonies near her face with
+a soft smile, wearing a flowing pastel pink silk nightgown that catches the morning light.
+Set in a sunlit bedroom with gauzy curtains billowing gently in soft focus behind her.
+The scene is illuminated by golden hour light streaming through the windows, creating a
+warm ethereal glow on her skin and dreamy romantic atmosphere. Captured with an 85mm
+portrait lens at eye level, emphasizing the delicate pastel color palette and feminine
+elegance, face in sharp focus with bokeh background.
 ```
 
 **Prompt 7:**
 ```
-Portrait of woman lying among wildflowers, face and shoulders visible, wearing white lace
-slip dress, daisies and lavender blurred around, soft natural sunlight on face, romantic
-outdoor setting, hair flowing naturally, peaceful and serene mood, shot from above, whimsical
-and dreamy, romantic lifestyle photography, soft focus, professional photography, high
-quality, 85mm lens, portrait framing, face in focus
+A photorealistic portrait of a woman lying among wildflowers, her face and shoulders visible
+with hair flowing naturally around her, wearing a white lace slip dress. Set in a meadow
+with daisies and lavender blurred softly around her. The scene is illuminated by soft
+natural sunlight filtering down, creating a peaceful and serene mood with whimsical atmosphere.
+Captured with an 85mm portrait lens from above, emphasizing the romantic outdoor setting
+and dreamy quality, face in sharp focus with soft background.
 ```
 
 **Prompt 8:**
 ```
-Bust shot of woman in bathtub, rose petals floating around, wearing white lace bralette,
-bathroom with marble and plants in soft blur background, soft natural window light on face,
-luxurious spa atmosphere, shot from slight angle, intimate and elegant, fine art romantic
-photography, soft tones, professional photography, high quality, 85mm lens, portrait framing,
-face in focus
+A photorealistic bust shot of a woman in a bathtub with rose petals floating gently on
+the water surface around her, wearing a white lace bralette. Set in a spa-like bathroom
+with marble surfaces and potted plants visible in soft blur behind. The scene is illuminated
+by soft natural window light falling on her face, creating a luxurious and intimate atmosphere.
+Captured with an 85mm portrait lens from a slight angle, emphasizing the elegant romantic
+mood and soft tones, face in sharp focus.
 ```
 
 ---
@@ -275,20 +307,22 @@ face in focus
 
 **Prompt 9:**
 ```
-Close-up portrait of woman's face and shoulders behind sheer white curtain, features soft
-and dreamy, backlit by bright window creating ethereal effect, high contrast black and
-white, mysterious and artistic mood, focus on facial silhouette, abstract and intimate,
-fine art aesthetic, dramatic shadows, professional photography, high quality, 85mm lens,
-portrait framing, face in focus through veil
+A dramatic black and white close-up portrait of a woman's face and shoulders visible behind
+a sheer white curtain, her features softly diffused with dreamy quality. Set against a
+bright window behind the curtain creating ethereal backlight effect. The scene is illuminated
+by bright natural light filtering through the veil, creating mysterious and artistic atmosphere
+with high contrast. Captured with an 85mm portrait lens, emphasizing the abstract quality
+and dramatic shadows, face in focus through the translucent veil with fine art aesthetic.
 ```
 
 **Prompt 10:**
 ```
-Close-up portrait of woman's face, shoulder and neck, wearing thin silk strap, head tilted
-gently, soft directional lighting highlighting skin texture and facial features, dark moody
-background, sensual and artistic mood, minimalist composition, intimate portrait photography,
-elegant and tasteful, professional photography, high quality, 85mm macro lens, shallow
-depth of field, portrait framing, face in focus
+A photorealistic close-up portrait of a woman's face with her head tilted gently, shoulder
+and neck visible, wearing a thin silk strap that reflects the light subtly. Set against
+a dark moody background fading to black. The scene is illuminated by soft directional
+lighting from the side highlighting her skin texture and facial contours, creating a sensual
+and artistic mood. Captured with an 85mm macro portrait lens, emphasizing minimalist
+composition and elegant details, face in sharp focus with shallow depth of field.
 ```
 
 ---
@@ -303,46 +337,51 @@ depth of field, portrait framing, face in focus
 
 **Prompt 11:**
 ```
-Headshot of confident businesswoman in sharp navy blue suit and white blouse, arms crossed
-at chest level, modern office with glass walls and city view in blurred background, bright
-natural office lighting on face, professional and authoritative atmosphere, shot at eye
-level, clean and sharp, corporate headshot style, professional photography, high quality,
-85mm lens, portrait framing, face in focus
+A photorealistic headshot of a confident businesswoman crossing her arms at chest level,
+wearing a sharp navy blue suit with a crisp white blouse. Set in a modern office with glass
+walls and city skyline blurred softly behind her. The scene is illuminated by bright natural
+office lighting falling evenly on her face, creating a professional and authoritative atmosphere.
+Captured with an 85mm portrait lens at eye level, emphasizing clean corporate presence and
+executive confidence, face in sharp focus.
 ```
 
 **Prompt 12:**
 ```
-Bust shot of professional woman in grey tailored suit, sitting at desk, minimalist office
-with plants visible in soft background, natural light from window, focused and competent
-expression, shot from slight angle, contemporary corporate environment, business portrait
-photography, clean and professional, professional photography, high quality, 85mm lens,
-portrait framing, face in focus
+A photorealistic bust shot of a professional woman sitting at her desk with a focused expression,
+wearing a grey tailored suit. Set in a minimalist office with potted plants visible in soft
+blur behind her. The scene is illuminated by natural window light streaming from the side,
+creating a competent and contemporary atmosphere. Captured with an 85mm portrait lens from
+a slight angle, emphasizing clean professional presence and modern business aesthetic, face
+in sharp focus.
 ```
 
 **Prompt 13:**
 ```
-Portrait of executive woman in black power suit, hands in pockets, floor-to-ceiling windows
-with city skyline in soft blur behind, golden hour light on face, successful and powerful
-atmosphere, shot from slightly low angle to emphasize authority, cinematic corporate style,
-dramatic and sharp, professional photography, high quality, 85mm lens, portrait framing,
-face in focus
+A photorealistic portrait of an executive woman standing with hands in pockets, wearing a
+black power suit. Set against floor-to-ceiling windows with city skyline fading into soft
+blur behind her. The scene is illuminated by golden hour sunlight catching her face, creating
+a successful and commanding atmosphere. Captured with an 85mm portrait lens from a slightly
+low angle to emphasize authority, cinematic corporate style with dramatic presence, face in
+sharp focus.
 ```
 
 **Prompt 14:**
 ```
-Bust shot of businesswoman in white shirt, sitting relaxed, modern office with minimal
-decor in soft focus background, bright airy natural light, approachable and confident
-mood, eye-level shot, contemporary business portrait, warm and inviting, professional
-photography, high quality, 85mm lens, natural light, portrait framing, face in focus
+A photorealistic bust shot of a businesswoman sitting in a relaxed but professional posture,
+wearing a crisp white shirt. Set in a modern office with minimal decor visible in soft focus
+behind. The scene is illuminated by bright airy natural light flooding the space, creating
+an approachable and confident mood. Captured with an 85mm portrait lens at eye level,
+emphasizing warm contemporary business portrait style and inviting presence, face in sharp focus.
 ```
 
 **Prompt 15:**
 ```
-Professional headshot of woman in burgundy blazer and black top, neutral grey studio
-background, arms at sides or one hand visible at bottom of frame, studio lighting with
-softbox on face, clean and polished LinkedIn style, straight-on shot, classic corporate
-portrait, sharp focus on face, professional photography, high quality, 85mm lens, portrait
-framing, face in focus
+A photorealistic professional headshot of a woman in a burgundy blazer and black top, arms
+at her sides with one hand just visible at the bottom of frame. Set against a neutral grey
+studio background. The scene is illuminated by professional studio lighting with softbox
+creating even light on her face, producing a clean and polished LinkedIn-style atmosphere.
+Captured with an 85mm portrait lens straight-on, emphasizing classic corporate portrait
+aesthetic and sharp professional presence, face in sharp focus.
 ```
 
 ---
@@ -351,29 +390,31 @@ framing, face in focus
 
 **Prompt 16:**
 ```
-Bust shot of senior executive woman in impeccable charcoal suit, arms crossed confidently,
-boardroom with leather chairs visible in soft blur behind, professional office lighting
-on face, authoritative and commanding presence, shot from eye level, Fortune 500 executive
-style, powerful and sophisticated, professional photography, high quality, 85mm lens,
-portrait framing, face in focus
+A photorealistic bust shot of a senior executive woman crossing her arms confidently, wearing
+an impeccable charcoal suit. Set in a boardroom with leather chairs visible in soft blur
+behind her. The scene is illuminated by professional office lighting on her face, creating
+an authoritative and commanding presence. Captured with an 85mm portrait lens at eye level,
+emphasizing Fortune 500 executive style with powerful sophisticated energy, face in sharp focus.
 ```
 
 **Prompt 17:**
 ```
-Portrait of CEO woman in elegant black dress suit, sitting in leather chair, hands clasped,
-luxury office with art and bookshelves in blurred background, warm ambient lighting on
-face, leadership and intelligence atmosphere, shot slightly from below, prestigious executive
-portrait, refined and sharp, professional photography, high quality, 85mm lens, portrait
-framing, face in focus
+A photorealistic portrait of a CEO woman sitting in a leather chair with hands clasped
+thoughtfully, wearing an elegant black dress suit. Set in a luxury office with art and
+bookshelves blurred softly in the background. The scene is illuminated by warm ambient
+lighting falling on her face, creating a leadership and intelligence atmosphere. Captured
+with an 85mm portrait lens from slightly below to convey prestigious executive presence,
+emphasizing refined and commanding energy, face in sharp focus.
 ```
 
 **Prompt 18:**
 ```
-Headshot of professional woman in navy suit, corporate logo wall in soft focus behind,
-professional studio lighting on face, confident and direct expression looking at camera,
-straight-on shot, corporate communications style, clean and authoritative, professional
-photography, high quality, 85mm lens, shallow depth of field, portrait framing, face in
-focus
+A photorealistic headshot of a professional woman looking directly at the camera with confident
+expression, wearing a navy suit. Set against a corporate logo wall visible in soft focus
+behind. The scene is illuminated by professional studio lighting creating clean even light
+on her face, producing an authoritative atmosphere. Captured with an 85mm portrait lens
+straight-on with shallow depth of field, emphasizing corporate communications style and
+direct professional presence, face in sharp focus.
 ```
 
 ---
@@ -382,20 +423,22 @@ focus
 
 **Prompt 19:**
 ```
-Bust shot of woman in smart casual white blouse, sitting in co-working space, exposed
-brick and plants visible in blurred background, laptop edge visible at bottom of frame,
-natural window light on face, approachable and modern mood, shot at eye level, contemporary
-business casual, relaxed but polished, professional photography, high quality, 85mm lens,
-portrait framing, face in focus
+A photorealistic bust shot of a woman sitting in a co-working space, wearing a smart casual
+white blouse with laptop edge just visible at the bottom of frame. Set against exposed brick
+walls and plants blurred in the background. The scene is illuminated by natural window light
+streaming onto her face, creating an approachable and modern mood. Captured with an 85mm
+portrait lens at eye level, emphasizing contemporary business casual style that's relaxed
+but polished, face in sharp focus.
 ```
 
 **Prompt 20:**
 ```
-Portrait of professional woman in soft beige sweater, holding coffee cup near chest, bright
-modern office with large windows in soft blur behind, warm and inviting natural light,
-friendly professional vibe, shot from slight angle, lifestyle business portrait, natural
-and authentic, professional photography, high quality, 85mm lens, portrait framing, face
-in focus
+A photorealistic portrait of a professional woman holding a coffee cup near her chest with
+a friendly expression, wearing a soft beige sweater. Set in a bright modern office with
+large windows blurred softly behind her. The scene is illuminated by warm natural light
+flooding the space, creating an inviting and authentic atmosphere. Captured with an 85mm
+portrait lens from a slight angle, emphasizing lifestyle business portrait style with natural
+approachable energy, face in sharp focus.
 ```
 
 ---
@@ -410,47 +453,52 @@ in focus
 
 **Prompt 21:**
 ```
-Portrait of woman in flowing avant-garde black dress with dramatic neckline, stark white
-background, high contrast lighting creating strong shadows on face, artistic and sculptural
-head position, minimalist and bold atmosphere, shot from slightly low angle, fashion editorial
-fine art style, geometric composition, professional photography, high quality, 85mm lens,
-high contrast, portrait framing, face in focus
+A photorealistic portrait of a woman in a flowing avant-garde black dress with dramatic
+neckline, her head positioned with artistic sculptural quality. Set against a stark white
+background. The scene is illuminated by high contrast lighting creating strong shadows
+cascading across her face, producing a minimalist and bold atmosphere. Captured with an
+85mm portrait lens from a slightly low angle, emphasizing fashion editorial fine art style
+with geometric composition and striking presence, face in sharp focus.
 ```
 
 **Prompt 22:**
 ```
-Headshot of woman with artistic makeup - bold colors and graphic lines on face, wearing
-architectural white garment at shoulders, plain grey background, dramatic side lighting
-on face, creative and expressive mood, straight-on shot, contemporary art portrait, striking
-and unconventional, professional photography, high quality, 85mm lens, portrait framing,
-face in focus
+A photorealistic headshot of a woman wearing artistic makeup with bold colors and graphic
+lines painted across her face, dressed in an architectural white garment at her shoulders.
+Set against a plain grey background. The scene is illuminated by dramatic side lighting
+highlighting the makeup design, creating a creative and expressive mood. Captured with an
+85mm portrait lens straight-on, emphasizing contemporary art portrait style that's striking
+and unconventional, face in sharp focus.
 ```
 
 **Prompt 23:**
 ```
-Bust shot of woman with flowing colored fabrics - reds, golds, oranges wrapping around
-head and shoulders, fabrics floating around face, dark background, dramatic spotlight
-from above illuminating face, ethereal and artistic atmosphere, shot at eye level, fine
-art fabric photography, painterly quality, professional photography, high quality, 85mm
-lens, portrait framing, face in focus
+A photorealistic bust shot of a woman with flowing colored fabrics in reds, golds, and
+oranges wrapping around her head and shoulders, the fabrics floating and billowing around
+her face. Set against a dark background. The scene is illuminated by a dramatic spotlight
+from above falling on her face, creating an ethereal and artistic atmosphere. Captured with
+an 85mm portrait lens at eye level, emphasizing fine art fabric photography with painterly
+quality and dynamic movement, face in sharp focus.
 ```
 
 **Prompt 24:**
 ```
-Close-up portrait of woman with wet hair slicked back, wearing simple black turtleneck,
-water droplets on face and skin, dark grey background, directional lighting from side
-highlighting facial features, intense and raw mood, fine art black and white photography,
-dramatic and emotional, professional photography, high quality, 85mm lens, high contrast
-B&W, portrait framing, face in focus
+A photorealistic close-up portrait of a woman with wet hair slicked back, water droplets
+catching light on her face and skin, wearing a simple black turtleneck. Set against a dark
+grey background. The scene is illuminated by directional lighting from the side highlighting
+her facial features and water texture, creating an intense and raw mood. Captured with an
+85mm portrait lens, emphasizing fine art black and white photography with dramatic emotional
+presence and high contrast, face in sharp focus.
 ```
 
 **Prompt 25:**
 ```
-Portrait of woman lying surrounded by flowers - roses, peonies, wildflowers around face
-and shoulders, wearing white dress, shot from above looking down at face, soft natural
-light on face, romantic and artistic atmosphere, painterly composition, fine art floral
-portrait, dreamy and surreal, professional photography, high quality, 85mm lens, portrait
-framing, face in focus
+A photorealistic portrait of a woman lying surrounded by roses, peonies, and wildflowers
+arranged around her face and shoulders, wearing a white dress. Shot from above looking down
+at her face. The scene is illuminated by soft natural light falling gently on her features,
+creating a romantic and artistic atmosphere. Captured with an 85mm portrait lens, emphasizing
+painterly composition with fine art floral portrait style that's dreamy and surreal, face
+in sharp focus.
 ```
 
 ---
@@ -459,29 +507,30 @@ framing, face in focus
 
 **Prompt 26:**
 ```
-Close-up portrait with double exposure effect - woman's face merged with forest trees
-and fog, ethereal and mystical atmosphere, muted earth tones, surreal and dreamlike mood,
-artistic composition, conceptual fine art photography, mysterious and poetic, professional
-photography, high quality, digital art technique, portrait framing, face in focus with
-overlay
+A photorealistic close-up portrait with double exposure effect showing a woman's face merged
+with forest trees and fog, the layers blending ethereally in muted earth tones. The scene
+creates a surreal and dreamlike mood with artistic composition. Captured with digital art
+technique and an 85mm portrait lens, emphasizing conceptual fine art photography style
+that's mysterious and poetic, face in focus with overlay effects.
 ```
 
 **Prompt 27:**
 ```
-Portrait of woman with single beam of light cutting across face, half in shadow half in
-light, wearing simple black clothing, minimalist and dramatic setting, geometric lighting
-on face, contemplative mood, shot from side angle, conceptual art portrait, stark and
-powerful, professional photography, high quality, 85mm lens, chiaroscuro lighting, portrait
-framing, face in focus
+A photorealistic portrait of a woman with a single beam of light cutting dramatically across
+her face, dividing it half in shadow and half in light, wearing simple black clothing. Set
+in a minimalist and dramatic environment. The scene is illuminated by geometric lighting
+creating chiaroscuro effect, producing a contemplative mood. Captured with an 85mm portrait
+lens from a side angle, emphasizing conceptual art portrait style that's stark and powerful,
+face in sharp focus.
 ```
 
 **Prompt 28:**
 ```
-Bust shot of woman holding ornate mirror near face reflecting artistic scene, wearing
-vintage dress, dark moody interior blurred behind, mysterious and conceptual atmosphere,
-surreal visual narrative, shot at eye level, conceptual storytelling photography, intricate
-and thought-provoking, professional photography, high quality, 85mm lens, portrait framing,
-face in focus
+A photorealistic bust shot of a woman holding an ornate mirror near her face with artistic
+scene reflecting in its surface, wearing a vintage dress. Set against a dark moody interior
+blurred behind her. The scene creates a mysterious and conceptual atmosphere with surreal
+visual narrative. Captured with an 85mm portrait lens at eye level, emphasizing conceptual
+storytelling photography that's intricate and thought-provoking, face in sharp focus.
 ```
 
 ---
@@ -490,20 +539,22 @@ face in focus
 
 **Prompt 29:**
 ```
-Portrait of woman in bold geometric fashion piece with angular shapes at neckline, metallic
-materials, strong head position and gaze, white infinity background, high-key studio lighting
-on face, futuristic and editorial atmosphere, shot from slightly low angle, avant-garde
-fashion photography, sharp and striking, professional photography, high quality, 85mm
-lens, portrait framing, face in focus
+A photorealistic portrait of a woman with strong gaze and bold head position, wearing a
+geometric fashion piece with angular shapes at the neckline in metallic materials. Set
+against a white infinity background. The scene is illuminated by high-key studio lighting
+on her face, creating a futuristic and editorial atmosphere. Captured with an 85mm portrait
+lens from a slightly low angle, emphasizing avant-garde fashion photography that's sharp
+and striking, face in sharp focus.
 ```
 
 **Prompt 30:**
 ```
-Headshot of woman wearing dramatic headpiece made of feathers and wire framing face, face
-painted with gold leaf, dark background, spotlight directly on face and headpiece, theatrical
-and haute couture mood, straight-on shot, high fashion editorial art, luxurious and bold,
-professional photography, high quality, 85mm lens, dramatic lighting, portrait framing,
-face in focus
+A photorealistic headshot of a woman wearing a dramatic headpiece made of feathers and wire
+framing her face, her face painted with gold leaf that catches the light. Set against a
+dark background. The scene is illuminated by a spotlight directly on her face and headpiece,
+creating a theatrical and haute couture mood. Captured with an 85mm portrait lens straight-on
+with dramatic lighting, emphasizing high fashion editorial art that's luxurious and bold,
+face in sharp focus.
 ```
 
 ---
@@ -518,27 +569,32 @@ face in focus
 
 **Prompt 31:**
 ```
-Portrait of woman in sequined gold gown at neckline, old Hollywood waves hairstyle, dramatic
-makeup with red lips, grand staircase with velvet carpet and chandeliers in soft blur
-behind, warm golden lighting on face, luxurious and elegant atmosphere, shot from slight
-low angle, classic Hollywood portrait style, timeless and sophisticated, professional
-photography, high quality, 85mm lens, cinematic lighting, portrait framing, face in focus
+A photorealistic portrait of a woman in a sequined gold gown visible at the neckline, her
+hair styled in old Hollywood waves, wearing dramatic makeup with red lips. Set on a grand
+staircase with velvet carpet and chandeliers blurred softly behind her. The scene is
+illuminated by warm golden lighting falling on her face, creating a luxurious and elegant
+atmosphere. Captured with an 85mm portrait lens from a slight low angle with cinematic
+lighting, emphasizing classic Hollywood portrait style that's timeless and sophisticated,
+face in sharp focus.
 ```
 
 **Prompt 32:**
 ```
-Bust shot of glamorous woman in sleek black evening gown, diamond jewelry visible, sitting
-in vintage luxury car, warm tungsten lighting on face, 1950s Hollywood star atmosphere,
-shot through car window, classic film noir glamour, mysterious and elegant, professional
-photography, high quality, 85mm lens, cinematic mood, portrait framing, face in focus
+A photorealistic bust shot of a glamorous woman sitting in a vintage luxury car, wearing a
+sleek black evening gown with diamond jewelry catching the light. Set inside the car with
+interior visible around her. The scene is illuminated by warm tungsten lighting on her face,
+creating a 1950s Hollywood star atmosphere. Captured with an 85mm portrait lens shot through
+the car window, emphasizing classic film noir glamour that's mysterious and elegant, face
+in sharp focus with cinematic mood.
 ```
 
 **Prompt 33:**
 ```
-Portrait of woman in elegant white fur coat, platinum blonde hair, art deco background
-with geometric patterns in soft focus, soft glamour lighting on face, luxury and opulence
-mood, eye-level shot, vintage Hollywood style, sophisticated and iconic, professional
-photography, high quality, 85mm lens, portrait framing, face in focus
+A photorealistic portrait of a woman with platinum blonde hair, wearing an elegant white
+fur coat. Set against an art deco background with geometric patterns visible in soft focus
+behind her. The scene is illuminated by soft glamour lighting falling on her face, creating
+a luxury and opulence mood. Captured with an 85mm portrait lens at eye level, emphasizing
+vintage Hollywood style that's sophisticated and iconic, face in sharp focus.
 ```
 
 ---
@@ -547,19 +603,21 @@ photography, high quality, 85mm lens, portrait framing, face in focus
 
 **Prompt 34:**
 ```
-Portrait of woman in stunning gown with intricate neckline details, professional makeup
-and styled hair, red carpet visible in background with flash photography bokeh effect,
-paparazzi atmosphere, confident expression, shot from slight low angle, celebrity red
-carpet photography style, glamorous and powerful, professional photography, high quality,
-85mm lens, portrait framing, face in focus
+A photorealistic portrait of a woman with confident expression, wearing a stunning gown
+with intricate neckline details, her hair professionally styled with dramatic makeup. Set
+against a red carpet background with flash photography creating bokeh effect behind her,
+evoking paparazzi atmosphere. The scene is illuminated by professional event lighting on
+her face, creating a glamorous and powerful mood. Captured with an 85mm portrait lens from
+a slight low angle, emphasizing celebrity red carpet photography style, face in sharp focus.
 ```
 
 **Prompt 35:**
 ```
-Bust shot of elegant woman in designer black gown, minimal jewelry, standing in spotlight,
-dark background, professional red carpet lighting on face, sophisticated and refined atmosphere,
-high fashion event photography, timeless elegance, professional photography, high quality,
-85mm lens, portrait framing, face in focus
+A photorealistic bust shot of an elegant woman standing in a spotlight, wearing a designer
+black gown with minimal jewelry. Set against a dark background. The scene is illuminated
+by professional red carpet lighting on her face, creating a sophisticated and refined atmosphere.
+Captured with an 85mm portrait lens, emphasizing high fashion event photography with timeless
+elegance, face in sharp focus.
 ```
 
 ---
@@ -568,29 +626,31 @@ high fashion event photography, timeless elegance, professional photography, hig
 
 **Prompt 36:**
 ```
-Portrait of woman in haute couture outfit, champagne glass near face, lounging on velvet
-sofa, penthouse with city skyline view in soft blur behind, evening ambient lighting with
-city lights bokeh, luxurious and exclusive atmosphere, shot from slight angle, luxury
-lifestyle photography, aspirational and elegant, professional photography, high quality,
-85mm lens, portrait framing, face in focus
+A photorealistic portrait of a woman lounging on a velvet sofa, wearing a haute couture
+outfit with a champagne glass near her face. Set in a penthouse with city skyline view
+blurred softly behind her. The scene is illuminated by evening ambient lighting with city
+lights creating bokeh effect, producing a luxurious and exclusive atmosphere. Captured with
+an 85mm portrait lens from a slight angle, emphasizing luxury lifestyle photography that's
+aspirational and elegant, face in sharp focus.
 ```
 
 **Prompt 37:**
 ```
-Close-up portrait of glamorous woman in designer swimsuit and oversized sunglasses, infinity
-pool with ocean view in blurred background, luxury resort setting, golden hour lighting
-on face, vacation luxury mood, shot at eye level, high-end travel photography, sophisticated
-and relaxed, professional photography, high quality, 85mm lens, portrait framing, face
-in focus
+A photorealistic close-up portrait of a glamorous woman wearing a designer swimsuit and
+oversized sunglasses that reflect the light. Set at an infinity pool with ocean view blurred
+in the background at a luxury resort. The scene is illuminated by golden hour lighting
+falling on her face, creating a vacation luxury mood. Captured with an 85mm portrait lens
+at eye level, emphasizing high-end travel photography that's sophisticated and relaxed,
+face in sharp focus.
 ```
 
 **Prompt 38:**
 ```
-Bust shot of woman in elegant cocktail dress, luxury shopping bags visible at bottom of
-frame, high-end boutique interior in soft blur behind, soft retail lighting on face,
-sophisticated shopping atmosphere, shot from slight angle, luxury lifestyle editorial,
-aspirational and chic, professional photography, high quality, 85mm lens, portrait framing,
-face in focus
+A photorealistic bust shot of a woman in an elegant cocktail dress, luxury shopping bags
+just visible at the bottom of frame. Set in a high-end boutique interior blurred softly
+behind her. The scene is illuminated by soft retail lighting on her face, creating a
+sophisticated shopping atmosphere. Captured with an 85mm portrait lens from a slight angle,
+emphasizing luxury lifestyle editorial that's aspirational and chic, face in sharp focus.
 ```
 
 ---
@@ -605,34 +665,40 @@ face in focus
 
 **Prompt 39:**
 ```
-Portrait of model in dramatic oversized black coat at shoulders, strong angular head position,
-white seamless background, high-contrast studio lighting on face, bold and editorial atmosphere,
-shot at eye level, Vogue-style fashion photography, sharp and striking, professional photography,
-high quality, 85mm lens, high contrast, portrait framing, face in focus
+A photorealistic portrait of a model in a dramatic oversized black coat visible at the
+shoulders, her head positioned with strong angular presence. Set against a white seamless
+background. The scene is illuminated by high-contrast studio lighting on her face, creating
+a bold and editorial atmosphere. Captured with an 85mm portrait lens at eye level with high
+contrast, emphasizing Vogue-style fashion photography that's sharp and striking, face in
+sharp focus.
 ```
 
 **Prompt 40:**
 ```
-Bust shot of woman in avant-garde layered outfit with mixed textures, confident expression,
-urban concrete wall in blurred background, natural overcast lighting on face, contemporary
-fashion mood, shot from slight low angle, street style editorial photography, edgy and
-modern, professional photography, high quality, 85mm lens, portrait framing, face in focus
+A photorealistic bust shot of a woman with confident expression, wearing an avant-garde
+layered outfit with mixed textures. Set against an urban concrete wall blurred in the
+background. The scene is illuminated by natural overcast lighting falling on her face,
+creating a contemporary fashion mood. Captured with an 85mm portrait lens from a slight
+low angle, emphasizing street style editorial photography that's edgy and modern, face in
+sharp focus.
 ```
 
 **Prompt 41:**
 ```
-Headshot of woman in monochrome minimalist outfit - all white or all black, clean head
-position, grey studio background, soft even lighting on face, sophisticated and minimal
-atmosphere, straight-on shot, minimalist fashion editorial, refined and elegant, professional
-photography, high quality, 85mm lens, portrait framing, face in focus
+A photorealistic headshot of a woman in a monochrome minimalist outfit in all white or all
+black, her head positioned cleanly. Set against a grey studio background. The scene is
+illuminated by soft even lighting on her face, creating a sophisticated and minimal atmosphere.
+Captured with an 85mm portrait lens straight-on, emphasizing minimalist fashion editorial
+that's refined and elegant, face in sharp focus.
 ```
 
 **Prompt 42:**
 ```
-Portrait of woman in bold colorful designer outfit, hair mid-movement, solid colored background
-matching outfit, studio lighting creating shadows on face, energetic and playful mood,
-captured with movement, contemporary fashion photography, vibrant and joyful, professional
-photography, high quality, 85mm lens, fast shutter speed, portrait framing, face in focus
+A photorealistic portrait of a woman in a bold colorful designer outfit, her hair captured
+mid-movement. Set against a solid colored background matching her outfit. The scene is
+illuminated by studio lighting creating shadows on her face, producing an energetic and
+playful mood. Captured with an 85mm portrait lens with fast shutter speed to freeze movement,
+emphasizing contemporary fashion photography that's vibrant and joyful, face in sharp focus.
 ```
 
 ---
@@ -641,27 +707,30 @@ photography, high quality, 85mm lens, fast shutter speed, portrait framing, face
 
 **Prompt 43:**
 ```
-Portrait of woman in trendy street style outfit - oversized blazer visible, urban environment
-with graffiti walls in blurred background, natural daylight on face, cool and effortless
-vibe, shot at angle, street fashion photography, authentic and modern, professional photography,
-high quality, 85mm lens, portrait framing, face in focus
+A photorealistic portrait of a woman in a trendy street style outfit with oversized blazer
+visible, natural confident expression. Set in an urban environment with graffiti walls blurred
+in the background. The scene is illuminated by natural daylight on her face, creating a cool
+and effortless vibe. Captured with an 85mm portrait lens at an angle, emphasizing street
+fashion photography that's authentic and modern, face in sharp focus.
 ```
 
 **Prompt 44:**
 ```
-Bust shot in neon-lit urban alley at night, woman wearing leather jacket, colorful neon
-reflections on face, moody cityscape blurred behind, shot at eye level, urban night fashion
-photography, dramatic and cool, professional photography, high quality, 85mm lens, long
-exposure for neon glow, portrait framing, face in focus
+A photorealistic bust shot of a woman wearing a leather jacket in a neon-lit urban alley at
+night, colorful neon reflections illuminating her face. Set against a moody cityscape blurred
+behind her. The scene is illuminated by colorful neon lights casting dramatic glow, creating
+an urban night atmosphere. Captured with an 85mm portrait lens at eye level with long exposure
+to capture neon glow, emphasizing urban night fashion photography that's dramatic and cool,
+face in sharp focus.
 ```
 
 **Prompt 45:**
 ```
-Portrait of woman in chic casual outfit at trendy cafe, coffee cup near face, cafe interior
-in soft blur background, natural window light on face, relaxed lifestyle fashion atmosphere,
-shot from slight angle, lifestyle fashion editorial, approachable and stylish, professional
-photography, high quality, 85mm lens, shallow depth of field, portrait framing, face in
-focus
+A photorealistic portrait of a woman in a chic casual outfit at a trendy cafe, coffee cup
+near her face. Set in a cafe interior blurred softly in the background. The scene is illuminated
+by natural window light streaming onto her face, creating a relaxed lifestyle fashion atmosphere.
+Captured with an 85mm portrait lens from a slight angle with shallow depth of field, emphasizing
+lifestyle fashion editorial that's approachable and stylish, face in sharp focus.
 ```
 
 ---
@@ -670,18 +739,20 @@ focus
 
 **Prompt 46:**
 ```
-Headshot of woman in simple white t-shirt, neutral beige background, minimal styling and
-natural makeup, soft even lighting on face, clean and timeless atmosphere, straight-on
-shot, minimalist portrait photography, pure and authentic, professional photography, high
-quality, 85mm lens, portrait framing, face in focus
+A photorealistic headshot of a woman in a simple white t-shirt with minimal styling and
+natural makeup. Set against a neutral beige background. The scene is illuminated by soft
+even lighting on her face, creating a clean and timeless atmosphere. Captured with an 85mm
+portrait lens straight-on, emphasizing minimalist portrait photography that's pure and
+authentic, face in sharp focus.
 ```
 
 **Prompt 47:**
 ```
-Portrait of woman in monochrome beige outfit, matching wall in background, architectural
-shadows falling across face, natural light, serene and minimalist mood, shot at eye level,
-contemporary minimalist photography, calm and sophisticated, professional photography,
-high quality, 85mm lens, portrait framing, face in focus
+A photorealistic portrait of a woman in a monochrome beige outfit with architectural shadows
+falling across her face. Set against a matching beige wall in the background. The scene is
+illuminated by natural light creating shadow patterns, producing a serene and minimalist
+mood. Captured with an 85mm portrait lens at eye level, emphasizing contemporary minimalist
+photography that's calm and sophisticated, face in sharp focus.
 ```
 
 ---
@@ -696,27 +767,30 @@ high quality, 85mm lens, portrait framing, face in focus
 
 **Prompt 48:**
 ```
-Close-up portrait of woman in comfortable casual sweater, sitting on couch with coffee
-cup near face, reading book, cozy interior with plants in soft blur background, natural
-light from window on face, warm and relaxed atmosphere, shot candidly from side, lifestyle
-home photography, authentic and intimate, professional photography, high quality, 85mm
-lens, portrait framing, face in focus
+A photorealistic close-up portrait of a woman in a comfortable casual sweater, sitting on
+a couch with a coffee cup near her face while reading a book. Set in a cozy interior with
+plants visible in soft blur behind her. The scene is illuminated by natural light from a
+window falling on her face, creating a warm and relaxed atmosphere. Captured with an 85mm
+portrait lens candidly from the side, emphasizing lifestyle home photography that's authentic
+and intimate, face in sharp focus.
 ```
 
 **Prompt 49:**
 ```
-Portrait of woman in autumn forest, wearing cozy cardigan, fallen leaves blurred around,
-soft natural sunlight filtering through trees onto face, peaceful outdoor atmosphere,
-shot at eye level, lifestyle nature photography, warm and nostalgic, professional photography,
-high quality, 85mm lens, golden hour, portrait framing, face in focus
+A photorealistic portrait of a woman in an autumn forest, wearing a cozy cardigan with fallen
+leaves blurred around her. The scene is illuminated by soft natural sunlight filtering through
+the trees onto her face, creating a peaceful outdoor atmosphere. Captured with an 85mm
+portrait lens at eye level during golden hour, emphasizing lifestyle nature photography
+that's warm and nostalgic, face in sharp focus.
 ```
 
 **Prompt 50:**
 ```
-Bust shot of woman in bright kitchen, wearing casual apron, natural smile, kitchen ingredients
-visible in blurred foreground and background, natural window light on face, homey and
-warm mood, shot from slight angle, lifestyle home photography, genuine and relatable,
-professional photography, high quality, 85mm lens, portrait framing, face in focus
+A photorealistic bust shot of a woman in a bright kitchen with a natural smile, wearing a
+casual apron with kitchen ingredients visible blurred in foreground and background. The scene
+is illuminated by natural window light on her face, creating a homey and warm mood. Captured
+with an 85mm portrait lens from a slight angle, emphasizing lifestyle home photography that's
+genuine and relatable, face in sharp focus.
 ```
 
 ---
@@ -725,27 +799,29 @@ professional photography, high quality, 85mm lens, portrait framing, face in foc
 
 **Prompt 51:**
 ```
-Portrait of woman sitting in wildflower meadow, wearing simple sundress, wildflowers blurred
-around, golden hour sunlight on face, peaceful countryside setting, shot at eye level,
-lifestyle outdoor photography, dreamy and serene, professional photography, high quality,
-85mm lens, bokeh background, portrait framing, face in focus
+A photorealistic portrait of a woman sitting in a wildflower meadow, wearing a simple sundress
+with wildflowers blurred around her. The scene is illuminated by golden hour sunlight falling
+on her face, creating a peaceful countryside atmosphere. Captured with an 85mm portrait lens
+at eye level with bokeh background, emphasizing lifestyle outdoor photography that's dreamy
+and serene, face in sharp focus.
 ```
 
 **Prompt 52:**
 ```
-Close-up portrait of woman on beach at sunset, wearing casual white linen, warm sunset
-colors and ocean in soft blur behind, golden light on face, tranquil atmosphere, shot
-from side, lifestyle travel photography, free and peaceful, professional photography,
-high quality, 85mm lens, portrait framing, face in focus
+A photorealistic close-up portrait of a woman on a beach at sunset, wearing casual white
+linen with warm sunset colors and ocean blurred softly behind her. The scene is illuminated
+by golden sunset light on her face, creating a tranquil atmosphere. Captured with an 85mm
+portrait lens from the side, emphasizing lifestyle travel photography that's free and peaceful,
+face in sharp focus.
 ```
 
 **Prompt 53:**
 ```
-Portrait of woman at picnic in park, sitting on blanket, picnic basket and food blurred
-in foreground, wearing casual summer outfit, dappled sunlight through trees on face,
-joyful outdoor atmosphere, shot from above angle, lifestyle outdoor photography, warm
-and inviting, professional photography, high quality, 85mm lens, portrait framing, face
-in focus
+A photorealistic portrait of a woman at a picnic in the park, sitting on a blanket wearing
+a casual summer outfit, with picnic basket and food blurred in the foreground. The scene is
+illuminated by dappled sunlight filtering through trees onto her face, creating a joyful
+outdoor atmosphere. Captured with an 85mm portrait lens from above angle, emphasizing
+lifestyle outdoor photography that's warm and inviting, face in sharp focus.
 ```
 
 ---
@@ -754,19 +830,20 @@ in focus
 
 **Prompt 54:**
 ```
-Close-up portrait of woman laughing genuinely, sitting in cafe, friends out of focus in
-background, natural moment captured, soft window light on face, authentic and joyful mood,
-shot from side, documentary lifestyle photography, real and emotional, professional photography,
-high quality, 85mm lens, natural light, portrait framing, face in focus
+A photorealistic close-up portrait of a woman laughing genuinely while sitting in a cafe,
+with friends visible out of focus in the background capturing a natural moment. The scene
+is illuminated by soft window light on her face, creating an authentic and joyful mood.
+Captured with an 85mm portrait lens from the side with natural light, emphasizing documentary
+lifestyle photography that's real and emotional, face in sharp focus.
 ```
 
 **Prompt 55:**
 ```
-Portrait of woman at home office, looking at camera from laptop work, wearing comfortable
-clothes, plants and books in soft blur around, natural daylight on face, productive and
-focused atmosphere, shot at slight angle, lifestyle work-from-home photography, relatable
-and authentic, professional photography, high quality, 85mm lens, portrait framing, face
-in focus
+A photorealistic portrait of a woman at her home office looking at camera from her laptop
+work, wearing comfortable clothes with plants and books blurred softly around her. The scene
+is illuminated by natural daylight on her face, creating a productive and focused atmosphere.
+Captured with an 85mm portrait lens at a slight angle, emphasizing lifestyle work-from-home
+photography that's relatable and authentic, face in sharp focus.
 ```
 
 ---
@@ -781,19 +858,21 @@ in focus
 
 **Prompt 56:**
 ```
-Portrait of woman in classic 1950s polka dot dress, red lipstick, victory rolls hairstyle,
-vintage kitchen with pastel appliances in soft blur background, warm nostalgic lighting
-on face, cheerful retro atmosphere, shot at eye level, 1950s Americana photography style,
-colorful and nostalgic, professional photography, high quality, 85mm lens, vintage color
-grading, portrait framing, face in focus
+A photorealistic portrait of a woman in a classic 1950s polka dot dress with red lipstick
+and victory rolls hairstyle. Set in a vintage kitchen with pastel appliances blurred softly
+in the background. The scene is illuminated by warm nostalgic lighting on her face, creating
+a cheerful retro atmosphere. Captured with an 85mm portrait lens at eye level with vintage
+color grading, emphasizing 1950s Americana photography style that's colorful and nostalgic,
+face in sharp focus.
 ```
 
 **Prompt 57:**
 ```
-Bust shot of woman in pin-up style red polka dot bikini top, classic pin-up pose, vintage
-car and americana diner in blurred background, warm afternoon light on face, playful retro
-mood, shot from slightly low angle, 1950s pin-up photography, vibrant and fun, professional
-photography, high quality, 85mm lens, vintage colors, portrait framing, face in focus
+A photorealistic bust shot of a woman in a pin-up style red polka dot bikini top striking
+a classic pin-up pose. Set against a vintage car and americana diner blurred in the background.
+The scene is illuminated by warm afternoon light on her face, creating a playful retro mood.
+Captured with an 85mm portrait lens from a slightly low angle with vintage colors, emphasizing
+1950s pin-up photography that's vibrant and fun, face in sharp focus.
 ```
 
 ---
@@ -802,19 +881,21 @@ photography, high quality, 85mm lens, vintage colors, portrait framing, face in 
 
 **Prompt 58:**
 ```
-Portrait of woman in 1970s boho flowy floral dress, long hair with center part, sitting
-in vintage van, macrame and plants in soft blur around, warm golden hour light on face,
-free-spirited hippie atmosphere, shot from inside van, 1970s lifestyle photography, earthy
-and nostalgic, professional photography, high quality, 85mm lens, vintage film look, portrait
-framing, face in focus
+A photorealistic portrait of a woman in a 1970s boho flowy floral dress with long hair and
+center part, sitting in a vintage van with macrame and plants blurred softly around her.
+The scene is illuminated by warm golden hour light on her face, creating a free-spirited
+hippie atmosphere. Captured with an 85mm portrait lens from inside the van with vintage
+film look, emphasizing 1970s lifestyle photography that's earthy and nostalgic, face in
+sharp focus.
 ```
 
 **Prompt 59:**
 ```
-Bust shot of woman in shimmering gold disco outfit with bell sleeves, big voluminous hair,
-colorful geometric background, studio lighting with colored gels on face, groovy 70s party
-atmosphere, eye-level shot, 1970s fashion photography, bold and funky, professional photography,
-high quality, 85mm lens, saturated colors, portrait framing, face in focus
+A photorealistic bust shot of a woman in a shimmering gold disco outfit with bell sleeves
+and big voluminous hair. Set against a colorful geometric background. The scene is illuminated
+by studio lighting with colored gels on her face, creating a groovy 70s party atmosphere.
+Captured with an 85mm portrait lens at eye level with saturated colors, emphasizing 1970s
+fashion photography that's bold and funky, face in sharp focus.
 ```
 
 ---
@@ -823,18 +904,20 @@ high quality, 85mm lens, saturated colors, portrait framing, face in focus
 
 **Prompt 60:**
 ```
-Portrait of woman in 90s grunge style - flannel shirt over band t-shirt, sitting in record
-store, vinyl records blurred around, natural indoor lighting on face, nostalgic 90s atmosphere,
-shot candidly, 1990s lifestyle photography, authentic and casual, professional photography,
-high quality, 85mm lens, slight grain, portrait framing, face in focus
+A photorealistic portrait of a woman in 90s grunge style wearing a flannel shirt over a
+band t-shirt, sitting in a record store with vinyl records blurred around her. The scene
+is illuminated by natural indoor lighting on her face, creating a nostalgic 90s atmosphere.
+Captured with an 85mm portrait lens candidly with slight grain, emphasizing 1990s lifestyle
+photography that's authentic and casual, face in sharp focus.
 ```
 
 **Prompt 61:**
 ```
-Headshot of woman in 90s minimalist simple slip dress, minimal makeup, straight hair,
-plain wall background, soft natural light on face, understated 90s aesthetic, straight-on
-shot, 1990s editorial photography, clean and effortless, professional photography, high
-quality, 85mm lens, muted colors, portrait framing, face in focus
+A photorealistic headshot of a woman in a 90s minimalist simple slip dress with minimal
+makeup and straight hair. Set against a plain wall background. The scene is illuminated by
+soft natural light on her face, creating an understated 90s aesthetic. Captured with an
+85mm portrait lens straight-on with muted colors, emphasizing 1990s editorial photography
+that's clean and effortless, face in sharp focus.
 ```
 
 ---
@@ -849,19 +932,21 @@ quality, 85mm lens, muted colors, portrait framing, face in focus
 
 **Prompt 62:**
 ```
-Close-up portrait of woman in 1940s black dress and netted veil over face, dramatic side
-lighting creating strong shadows on face, venetian blind shadows pattern, mysterious film
-noir atmosphere, shot from slightly low angle, classic noir photography style, high contrast
-black and white, dramatic and mysterious, professional photography, high quality, 85mm
-lens, portrait framing, face in focus
+A photorealistic close-up portrait of a woman in a 1940s black dress with a netted veil
+over her face, venetian blind shadows creating dramatic patterns. The scene is illuminated
+by dramatic side lighting creating strong shadows cascading across her face, producing a
+mysterious film noir atmosphere. Captured with an 85mm portrait lens from a slightly low
+angle in high contrast black and white, emphasizing classic noir photography style that's
+dramatic and mysterious, face in sharp focus.
 ```
 
 **Prompt 63:**
 ```
-Bust shot of woman in trench coat and fedora hat, foggy alley with street lamp in blurred
-background, moody noir lighting on face, detective story atmosphere, shot at eye level,
-film noir cinematography style, mysterious and atmospheric, professional photography, high
-quality, 85mm lens, black and white, portrait framing, face in focus
+A photorealistic bust shot of a woman in a trench coat and fedora hat. Set in a foggy alley
+with a street lamp blurred in the background. The scene is illuminated by moody noir lighting
+on her face, creating a detective story atmosphere. Captured with an 85mm portrait lens at
+eye level in black and white, emphasizing film noir cinematography style that's mysterious
+and atmospheric, face in sharp focus.
 ```
 
 ---
@@ -870,27 +955,29 @@ quality, 85mm lens, black and white, portrait framing, face in focus
 
 **Prompt 64:**
 ```
-Close-up portrait of woman holding umbrella, rain and neon lights reflecting as bokeh
-in background, moody urban night scene, cinematic blue and orange color grading on face,
-atmospheric and emotional mood, shot from slight low angle, cinematic street photography,
-dramatic and beautiful, professional photography, high quality, 85mm lens, shallow depth
-of field, portrait framing, face in focus
+A photorealistic close-up portrait of a woman holding an umbrella with rain and neon lights
+reflecting as bokeh in the background, creating a moody urban night scene. The scene uses
+cinematic blue and orange color grading on her face, producing an atmospheric and emotional
+mood. Captured with an 85mm portrait lens from a slight low angle with shallow depth of
+field, emphasizing cinematic street photography that's dramatic and beautiful, face in sharp
+focus.
 ```
 
 **Prompt 65:**
 ```
-Portrait of woman backlit by warm sunset, hair blowing in wind, wearing flowing dress,
-rim lighting around face and hair, epic golden hour scene, emotional cinematic atmosphere,
-shot from slightly low angle, movie poster style photography, dramatic and powerful, professional
-photography, high quality, 85mm lens, lens flare, portrait framing, face in focus
+A photorealistic portrait of a woman backlit by warm sunset with her hair blowing in the
+wind, wearing a flowing dress with rim lighting glowing around her face and hair. The scene
+creates an epic golden hour atmosphere with emotional cinematic mood. Captured with an 85mm
+portrait lens from a slightly low angle with lens flare, emphasizing movie poster style
+photography that's dramatic and powerful, face in sharp focus.
 ```
 
 **Prompt 66:**
 ```
-Portrait of woman in warrior-style outfit, dramatic sky with clouds in background blur,
-powerful expression, epic adventure atmosphere, shot from slightly below, cinematic adventure
-photography, bold and inspiring, professional photography, high quality, 85mm lens, portrait
-framing, face in focus
+A photorealistic portrait of a woman in a warrior-style outfit with powerful expression.
+Set against a dramatic sky with clouds blurred in the background. The scene creates an epic
+adventure atmosphere. Captured with an 85mm portrait lens from slightly below, emphasizing
+cinematic adventure photography that's bold and inspiring, face in sharp focus.
 ```
 
 ---
@@ -899,18 +986,20 @@ framing, face in focus
 
 **Prompt 67:**
 ```
-High-contrast close-up portrait of woman with single dramatic spotlight from above creating
-strong shadows on face, dark background, wearing simple black clothing, intense and powerful
-mood, straight-on shot, dramatic studio photography, stark and emotional, professional
-photography, high quality, 85mm lens, Rembrandt lighting, portrait framing, face in focus
+A photorealistic high-contrast close-up portrait of a woman with a single dramatic spotlight
+from above creating strong shadows falling on her face, wearing simple black clothing. Set
+against a dark background. The scene is illuminated by Rembrandt lighting creating intense
+and powerful mood. Captured with an 85mm portrait lens straight-on, emphasizing dramatic
+studio photography that's stark and emotional, face in sharp focus.
 ```
 
 **Prompt 68:**
 ```
-Portrait of woman emerging from darkness, half face in shadow half in light, smoke or
-fog around face, mysterious and dramatic atmosphere, dark background, shot at eye level,
-cinematic dramatic portrait, theatrical and striking, professional photography, high quality,
-85mm lens, split lighting, portrait framing, face in focus
+A photorealistic portrait of a woman emerging from darkness with half her face in shadow
+and half in light, smoke or fog swirling around her face. Set against a dark background.
+The scene is illuminated by split lighting creating mysterious and dramatic atmosphere.
+Captured with an 85mm portrait lens at eye level, emphasizing cinematic dramatic portrait
+style that's theatrical and striking, face in sharp focus.
 ```
 
 ---
@@ -925,26 +1014,29 @@ cinematic dramatic portrait, theatrical and striking, professional photography, 
 
 **Prompt 69:**
 ```
-Portrait of woman in flowing white dress, golden wheat field in soft blur background,
-warm golden light on face, hair gently moving in breeze, peaceful and dreamy atmosphere,
-shot at eye level, golden hour photography, romantic and ethereal, professional photography,
-high quality, 85mm lens, backlit with sun flare, portrait framing, face in focus
+A photorealistic portrait of a woman in a flowing white dress with her hair gently moving
+in the breeze. Set in a golden wheat field blurred softly in the background. The scene is
+illuminated by warm golden light falling on her face with backlit sun flare, creating a
+peaceful and dreamy atmosphere. Captured with an 85mm portrait lens at eye level, emphasizing
+golden hour photography that's romantic and ethereal, face in sharp focus.
 ```
 
 **Prompt 70:**
 ```
-Close-up portrait of woman with golden hour sunlight creating rim light around hair and
-face, blurred greenery background, warm glowing atmosphere, soft smile, shot from slightly
-below, golden hour portrait photography, warm and beautiful, professional photography,
-high quality, 85mm lens, bokeh, portrait framing, face in focus
+A photorealistic close-up portrait of a woman with golden hour sunlight creating rim light
+glowing around her hair and face, soft smile on her lips. Set against blurred greenery in
+the background. The scene is illuminated by warm golden light creating glowing atmosphere.
+Captured with an 85mm portrait lens from slightly below with bokeh, emphasizing golden hour
+portrait photography that's warm and beautiful, face in sharp focus.
 ```
 
 **Prompt 71:**
 ```
-Portrait of woman sitting on hillside, landscape in soft blur behind, wearing casual outfit,
-contemplative expression, warm sunset colors, peaceful and serene mood, shot from side
-angle, lifestyle golden hour photography, calm and inspiring, professional photography,
-high quality, 85mm lens, portrait framing, face in focus
+A photorealistic portrait of a woman sitting on a hillside with contemplative expression,
+wearing a casual outfit. Set against a landscape blurred softly behind her. The scene is
+illuminated by warm sunset colors creating peaceful and serene mood. Captured with an 85mm
+portrait lens from a side angle, emphasizing lifestyle golden hour photography that's calm
+and inspiring, face in sharp focus.
 ```
 
 ---
@@ -953,26 +1045,29 @@ high quality, 85mm lens, portrait framing, face in focus
 
 **Prompt 72:**
 ```
-Close-up portrait of woman by large window, soft natural light falling on face, white
-sheer curtains blurred in background, wearing simple white top, gentle and peaceful atmosphere,
-shot at eye level, natural light portrait photography, soft and intimate, professional
-photography, high quality, 85mm lens, high key, portrait framing, face in focus
+A photorealistic close-up portrait of a woman by a large window, wearing a simple white
+top with white sheer curtains blurred in the background. The scene is illuminated by soft
+natural light falling gently on her face, creating a gentle and peaceful atmosphere. Captured
+with an 85mm portrait lens at eye level in high key, emphasizing natural light portrait
+photography that's soft and intimate, face in sharp focus.
 ```
 
 **Prompt 73:**
 ```
-Portrait of woman reading book in window seat, book near face, cozy home interior in soft
-blur, soft daylight on face, warm and peaceful mood, shot from side, lifestyle window
-light photography, serene and authentic, professional photography, high quality, 85mm
-lens, natural light, portrait framing, face in focus
+A photorealistic portrait of a woman reading a book in a window seat, the book held near
+her face with cozy home interior blurred softly behind. The scene is illuminated by soft
+daylight falling on her face, creating a warm and peaceful mood. Captured with an 85mm
+portrait lens from the side with natural light, emphasizing lifestyle window light photography
+that's serene and authentic, face in sharp focus.
 ```
 
 **Prompt 74:**
 ```
-Profile portrait of woman by window, dramatic soft light on one side of face, white wall
-in background, minimalist and elegant composition, contemplative mood, side shot, fine
-art window light photography, soft and beautiful, professional photography, high quality,
-85mm lens, side lighting, portrait framing, face in focus
+A photorealistic profile portrait of a woman by a window with white wall in the background,
+minimalist and elegant composition. The scene is illuminated by dramatic soft light on one
+side of her face creating side lighting effect, producing a contemplative mood. Captured
+with an 85mm portrait lens from the side, emphasizing fine art window light photography
+that's soft and beautiful, face in sharp focus.
 ```
 
 ---
@@ -987,18 +1082,20 @@ art window light photography, soft and beautiful, professional photography, high
 
 **Prompt 75:**
 ```
-Headshot of woman in white outfit, pure white seamless background, bright even studio
-lighting on face, clean and minimal aesthetic, happy expression, shot at eye level, high-key
-studio photography, fresh and clean, professional photography, high quality, 85mm lens,
-no shadows, portrait framing, face in focus
+A photorealistic headshot of a woman in a white outfit with happy expression. Set against
+a pure white seamless background. The scene is illuminated by bright even studio lighting
+on her face with no shadows, creating a clean and minimal aesthetic. Captured with an 85mm
+portrait lens at eye level, emphasizing high-key studio photography that's fresh and clean,
+face in sharp focus.
 ```
 
 **Prompt 76:**
 ```
-Professional headshot on white background, woman in casual elegant clothes, neutral expression,
-bright studio lighting on face, clean and professional atmosphere, straight-on shot, catalog
-style photography, sharp and clear, professional photography, high quality, 85mm lens,
-white backdrop, portrait framing, face in focus
+A photorealistic professional headshot of a woman in casual elegant clothes with neutral
+expression. Set on a white background. The scene is illuminated by bright studio lighting
+on her face, creating a clean and professional atmosphere. Captured with an 85mm portrait
+lens straight-on with white backdrop, emphasizing catalog style photography that's sharp
+and clear, face in sharp focus.
 ```
 
 ---
@@ -1007,18 +1104,20 @@ white backdrop, portrait framing, face in focus
 
 **Prompt 77:**
 ```
-Dramatic close-up portrait with black background, woman in dark clothing, single key light
-from side creating strong contrast on face, moody and artistic atmosphere, shot at eye
-level, low-key studio photography, dramatic and powerful, professional photography, high
-quality, 85mm lens, dark backdrop, portrait framing, face in focus
+A photorealistic dramatic close-up portrait of a woman in dark clothing with a single key
+light from the side creating strong contrast on her face. Set against a black background.
+The scene is illuminated by dramatic side lighting creating moody and artistic atmosphere.
+Captured with an 85mm portrait lens at eye level with dark backdrop, emphasizing low-key
+studio photography that's dramatic and powerful, face in sharp focus.
 ```
 
 **Prompt 78:**
 ```
-Portrait against dark grey studio background, woman wearing neutral tones, subtle lighting
-creating soft shadows on face, sophisticated and elegant mood, eye-level shot, contemporary
-studio portrait, refined and professional, professional photography, high quality, 85mm
-lens, grey backdrop, portrait framing, face in focus
+A photorealistic portrait of a woman wearing neutral tones. Set against a dark grey studio
+background. The scene is illuminated by subtle lighting creating soft shadows on her face,
+producing a sophisticated and elegant mood. Captured with an 85mm portrait lens at eye level
+with grey backdrop, emphasizing contemporary studio portrait that's refined and professional,
+face in sharp focus.
 ```
 
 ---
@@ -1027,18 +1126,20 @@ lens, grey backdrop, portrait framing, face in focus
 
 **Prompt 79:**
 ```
-Bust shot of woman in bold yellow outfit, matching yellow studio background, monochromatic
-color concept, fun and vibrant atmosphere, playful expression, shot at eye level, fashion
-studio photography, bold and eye-catching, professional photography, high quality, 85mm
-lens, saturated colors, portrait framing, face in focus
+A photorealistic bust shot of a woman with playful expression, wearing a bold yellow outfit.
+Set against a matching yellow studio background creating monochromatic color concept. The
+scene is illuminated by professional studio lighting creating fun and vibrant atmosphere.
+Captured with an 85mm portrait lens at eye level with saturated colors, emphasizing fashion
+studio photography that's bold and eye-catching, face in sharp focus.
 ```
 
 **Prompt 80:**
 ```
-Portrait against vibrant teal blue studio backdrop, woman in contrasting warm-toned outfit,
-professional studio lighting on face, modern and fresh atmosphere, confident expression,
-shot at eye level, contemporary studio photography, colorful and stylish, professional
-photography, high quality, 85mm lens, colored background, portrait framing, face in focus
+A photorealistic portrait of a woman with confident expression, wearing a contrasting
+warm-toned outfit. Set against a vibrant teal blue studio backdrop. The scene is illuminated
+by professional studio lighting on her face, creating a modern and fresh atmosphere. Captured
+with an 85mm portrait lens at eye level with colored background, emphasizing contemporary
+studio photography that's colorful and stylish, face in sharp focus.
 ```
 
 ---
