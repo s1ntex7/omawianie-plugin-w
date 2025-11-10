@@ -7127,3 +7127,1422 @@ A photorealistic bust shot of a pet with floating bubbles creating dreamy scene 
 **GRAND TOTAL NOW: 850 + 72 = 922 PROMPTS!** 🚀🎨
 
 ---
+# 🎭 NEW CATEGORIES 7 & 8 + PARY ANNIVERSARY NUMBERS
+
+---
+
+# 🎭 KATEGORIA 7: Z CELEBRYTAMI & POSTACIAMI (WITH CELEBRITIES & ICONS)
+
+**Koncepcja:** User może się wygenerować OBOK lub Z kultową postacią/celebrytą
+**Total prompts:** 70
+**Zastosowanie:** Fan photos, historical figures, pop culture icons, music legends
+
+---
+
+## STYL 1: MUSIC LEGENDS 🎸
+
+**Zastosowanie:** Rock, pop, jazz icons - ty obok legendy muzyki
+
+---
+
+**Prompt 1:**
+```
+A photorealistic portrait of a person standing next to Freddie Mercury in iconic Queen performance outfit with yellow jacket. Set on concert stage with lights and Queen logo blurred behind. The scene is illuminated by dramatic stage lighting creating rock concert atmosphere, producing a meeting music legend moment. Captured with an 85mm portrait lens, emphasizing fan-with-rockstar photography that's epic and memorable, both faces in sharp focus.
+```
+
+**Prompt 2:**
+```
+A photorealistic close-up of a person embraced by David Bowie in Ziggy Stardust era makeup and costume. Set in glam rock stage setting with colorful lights blurred. The scene is illuminated by theatrical lighting creating iconic 70s atmosphere, producing a Bowie fan dream. Captured with an 85mm portrait lens, emphasizing legend encounter photography that's stylized and striking, both faces in sharp focus.
+```
+
+**Prompt 3:**
+```
+A photorealistic bust shot of a person sitting at piano next to Elton John in sparkly stage outfit. Set at grand piano with concert stage blurred behind. The scene is illuminated by warm stage lights creating musical atmosphere, producing a piano legend moment. Captured with an 85mm portrait lens, emphasizing music icon photography that's glamorous and fun, both faces in sharp focus.
+```
+
+**Prompt 4:**
+```
+A photorealistic portrait of a person with Elvis Presley in 1970s white jumpsuit. Set in Las Vegas style setting with stage and lights blurred. The scene is illuminated by Elvis-era stage lighting creating Vegas atmosphere, producing a King meeting moment. Captured with an 85mm portrait lens, emphasizing Elvis encounter photography that's iconic and vintage, both faces in sharp focus.
+```
+
+**Prompt 5:**
+```
+A photorealistic close-up of a person with Kurt Cobain in flannel and ripped jeans backstage. Set at grunge era backstage with equipment and Seattle vibe blurred. The scene is illuminated by natural backstage light creating 90s atmosphere, producing a Nirvana fan moment. Captured with an 85mm portrait lens, emphasizing grunge icon photography that's authentic and moody, both faces in sharp focus.
+```
+
+**Prompt 6:**
+```
+A photorealistic bust shot of a person with Amy Winehouse in signature beehive and winged eyeliner. Set at jazz club with vintage microphone and stage blurred. The scene is illuminated by warm club lighting creating soulful atmosphere, producing a soul legend encounter. Captured with an 85mm portrait lens, emphasizing jazz icon photography that's soulful and vintage, both faces in sharp focus.
+```
+
+**Prompt 7:**
+```
+A photorealistic portrait of a person with John Lennon in 1960s Beatles era with round glasses. Set in Abbey Road studio style setting with recording equipment blurred. The scene is illuminated by studio lighting creating Beatles era atmosphere, producing a Beatle meeting moment. Captured with an 85mm portrait lens, emphasizing Beatles photography that's historic and iconic, both faces in sharp focus.
+```
+
+**Prompt 8:**
+```
+A photorealistic close-up of a person with Michael Jackson in iconic red Thriller jacket. Set on moonwalk stage with spotlights and fog blurred. The scene is illuminated by dramatic stage lighting creating MJ atmosphere, producing a King of Pop moment. Captured with an 85mm portrait lens, emphasizing pop legend photography that's iconic and electric, both faces in sharp focus.
+```
+
+**Prompt 9:**
+```
+A photorealistic bust shot of a person with Bob Marley with dreadlocks and reggae style. Set in Jamaica-inspired setting with tropical and Rastafarian elements blurred. The scene is illuminated by natural warm light creating reggae atmosphere, producing a reggae legend moment. Captured with an 85mm portrait lens, emphasizing reggae icon photography that's peaceful and authentic, both faces in sharp focus.
+```
+
+**Prompt 10:**
+```
+A photorealistic portrait of a person with Prince in purple outfit with guitar. Set on Purple Rain era stage with purple lights blurred. The scene is illuminated by purple stage lighting creating Prince atmosphere, producing a Purple One encounter. Captured with an 85mm portrait lens, emphasizing Prince photography that's flamboyant and iconic, both faces in sharp focus.
+```
+
+---
+
+## STYL 2: HOLLYWOOD ICONS 🎬
+
+**Zastosowanie:** Classic Hollywood, movie legends, golden age stars
+
+---
+
+**Prompt 11:**
+```
+A photorealistic portrait of a person with Marilyn Monroe in white dress over subway grate. Set in 1950s New York street with vintage elements blurred. The scene is illuminated by classic Hollywood lighting creating glamorous atmosphere, producing a Monroe moment. Captured with an 85mm portrait lens, emphasizing Hollywood legend photography that's iconic and timeless, both faces in sharp focus.
+```
+
+**Prompt 12:**
+```
+A photorealistic close-up of a person with Audrey Hepburn in Breakfast at Tiffany's outfit and tiara. Set at Tiffany's storefront with NYC backdrop blurred. The scene is illuminated by morning light creating elegant atmosphere, producing a Hepburn elegance moment. Captured with an 85mm portrait lens, emphasizing classic Hollywood photography that's sophisticated and chic, both faces in sharp focus.
+```
+
+**Prompt 13:**
+```
+A photorealistic bust shot of a person with James Dean in red jacket leaning on vintage car. Set in 1950s street with classic car and Americana blurred. The scene is illuminated by natural daylight creating rebel atmosphere, producing a rebel icon encounter. Captured with an 85mm portrait lens, emphasizing Dean photography that's cool and timeless, both faces in sharp focus.
+```
+
+**Prompt 14:**
+```
+A photorealistic portrait of a person with Humphrey Bogart in Casablanca trench coat and fedora. Set in noir style setting with fog and shadows blurred. The scene is illuminated by dramatic film noir lighting creating classic atmosphere, producing a Bogart moment. Captured with an 85mm portrait lens, emphasizing noir icon photography that's mysterious and classic, both faces in sharp focus.
+```
+
+**Prompt 15:**
+```
+A photorealistic close-up of a person with Grace Kelly in elegant gown and jewels. Set at Monaco palace or elegant ball with luxury blurred. The scene is illuminated by soft glamorous lighting creating royal atmosphere, producing a Grace Kelly elegance. Captured with an 85mm portrait lens, emphasizing princess icon photography that's regal and beautiful, both faces in sharp focus.
+```
+
+---
+
+## STYL 3: HISTORICAL FIGURES 📚
+
+**Zastosowanie:** Famous historical personalities, leaders, thinkers
+
+---
+
+**Prompt 16:**
+```
+A photorealistic portrait of a person with Albert Einstein in lab coat with wild hair. Set in vintage laboratory with chalkboard equations and science equipment blurred. The scene is illuminated by natural lab light creating genius atmosphere, producing an Einstein encounter moment. Captured with an 85mm portrait lens, emphasizing historic genius photography that's intellectual and iconic, both faces in sharp focus.
+```
+
+**Prompt 17:**
+```
+A photorealistic close-up of a person with Frida Kahlo in traditional Mexican dress with flowers in hair. Set in colorful Mexican art studio with paintings blurred. The scene is illuminated by natural window light creating artistic atmosphere, producing a Frida moment. Captured with an 85mm portrait lens, emphasizing artist icon photography that's colorful and powerful, both faces in sharp focus.
+```
+
+**Prompt 18:**
+```
+A photorealistic bust shot of a person with Cleopatra in Egyptian royal attire and gold jewelry. Set in ancient Egyptian palace with hieroglyphics and columns blurred. The scene is illuminated by warm golden light creating royal atmosphere, producing a Cleopatra encounter. Captured with an 85mm portrait lens, emphasizing Egyptian queen photography that's regal and historic, both faces in sharp focus.
+```
+
+**Prompt 19:**
+```
+A photorealistic portrait of a person with Leonardo da Vinci in Renaissance clothing in art studio. Set in Renaissance workshop with sketches and inventions blurred. The scene is illuminated by natural Renaissance light creating genius atmosphere, producing a da Vinci moment. Captured with an 85mm portrait lens, emphasizing Renaissance master photography that's artistic and historic, both faces in sharp focus.
+```
+
+**Prompt 20:**
+```
+A photorealistic close-up of a person with Marie Curie in laboratory with scientific equipment. Set in vintage science lab with radium glow and experiments blurred. The scene is illuminated by lab lighting creating scientific atmosphere, producing a Curie encounter. Captured with an 85mm portrait lens, emphasizing scientist icon photography that's inspiring and historic, both faces in sharp focus.
+```
+
+**Prompt 21:**
+```
+A photorealistic bust shot of a person with Napoleon Bonaparte in military uniform. Set in war room with maps and military elements blurred. The scene is illuminated by candlelight creating historic atmosphere, producing a Napoleon moment. Captured with an 85mm portrait lens, emphasizing military leader photography that's commanding and historic, both faces in sharp focus.
+```
+
+**Prompt 22:**
+```
+A photorealistic portrait of a person with Abraham Lincoln in presidential suit and top hat. Set in White House or historic setting with American flags blurred. The scene is illuminated by formal portrait lighting creating presidential atmosphere, producing a Lincoln encounter. Captured with an 85mm portrait lens, emphasizing presidential photography that's dignified and historic, both faces in sharp focus.
+```
+
+**Prompt 23:**
+```
+A photorealistic close-up of a person with Martin Luther King Jr. at civil rights march. Set at historic march or speech location with crowd and movement blurred. The scene is illuminated by natural daylight creating powerful atmosphere, producing a MLK moment. Captured with an 85mm portrait lens, emphasizing civil rights photography that's powerful and historic, both faces in sharp focus.
+```
+
+---
+
+## STYL 4: SPORTS LEGENDS ⚽
+
+**Zastosowanie:** Athletic icons, sports heroes, champions
+
+---
+
+**Prompt 24:**
+```
+A photorealistic portrait of a person with Muhammad Ali in boxing shorts and gloves in ring. Set in boxing ring with ropes and crowd blurred. The scene is illuminated by ring lights creating champion atmosphere, producing an Ali encounter. Captured with an 85mm portrait lens, emphasizing boxing legend photography that's powerful and iconic, both faces in sharp focus.
+```
+
+**Prompt 25:**
+```
+A photorealistic close-up of a person with Michael Jordan in Chicago Bulls jersey. Set on basketball court with NBA arena and crowd blurred. The scene is illuminated by arena lighting creating championship atmosphere, producing a Jordan moment. Captured with an 85mm portrait lens, emphasizing basketball legend photography that's athletic and iconic, both faces in sharp focus.
+```
+
+**Prompt 26:**
+```
+A photorealistic bust shot of a person with Diego Maradona in Argentina soccer jersey. Set on soccer field with stadium and goal blurred. The scene is illuminated by stadium lights creating football atmosphere, producing a Maradona encounter. Captured with an 85mm portrait lens, emphasizing soccer legend photography that's passionate and iconic, both faces in sharp focus.
+```
+
+**Prompt 27:**
+```
+A photorealistic portrait of a person with Serena Williams in tennis outfit with racket. Set on tennis court with Wimbledon or US Open elements blurred. The scene is illuminated by court lighting creating champion atmosphere, producing a Serena moment. Captured with an 85mm portrait lens, emphasizing tennis icon photography that's powerful and inspiring, both faces in sharp focus.
+```
+
+**Prompt 28:**
+```
+A photorealistic close-up of a person with Pelé holding soccer ball and trophy. Set with World Cup setting and Brazilian flag elements blurred. The scene is illuminated by victory lighting creating celebration atmosphere, producing a Pelé encounter. Captured with an 85mm portrait lens, emphasizing football king photography that's joyful and legendary, both faces in sharp focus.
+```
+
+---
+
+## STYL 5: POP CULTURE ICONS 🎮
+
+**Zastosowanie:** Modern celebrities, influencers, contemporary icons
+
+---
+
+**Prompt 29:**
+```
+A photorealistic portrait of a person with Steve Jobs in black turtleneck at Apple keynote. Set on presentation stage with Apple logo and products blurred. The scene is illuminated by keynote stage lighting creating innovation atmosphere, producing a Jobs moment. Captured with an 85mm portrait lens, emphasizing tech icon photography that's minimalist and visionary, both faces in sharp focus.
+```
+
+**Prompt 30:**
+```
+A photorealistic close-up of a person with Princess Diana in elegant formal attire. Set at royal event or charity gala with elegant backdrop blurred. The scene is illuminated by soft formal lighting creating royal atmosphere, producing a Diana encounter. Captured with an 85mm portrait lens, emphasizing people's princess photography that's elegant and compassionate, both faces in sharp focus.
+```
+
+**Prompt 31:**
+```
+A photorealistic bust shot of a person with Andy Warhol in Factory setting with pop art. Set in Warhol's Factory with Campbell's soup and Marilyn prints blurred. The scene is illuminated by artistic lighting creating pop art atmosphere, producing a Warhol moment. Captured with an 85mm portrait lens, emphasizing pop art icon photography that's colorful and avant-garde, both faces in sharp focus.
+```
+
+**Prompt 32:**
+```
+A photorealistic portrait of a person with Salvador Dalí with signature mustache. Set in surrealist setting with melting clocks and surreal elements blurred. The scene is illuminated by artistic lighting creating surreal atmosphere, producing a Dalí encounter. Captured with an 85mm portrait lens, emphasizing surrealist photography that's eccentric and artistic, both faces in sharp focus.
+```
+
+**Prompt 33:**
+```
+A photorealistic close-up of a person with Pablo Picasso in art studio with paintings. Set in cubist studio with abstract art and palettes blurred. The scene is illuminated by natural artist light creating creative atmosphere, producing a Picasso moment. Captured with an 85mm portrait lens, emphasizing art master photography that's creative and historic, both faces in sharp focus.
+```
+
+**Prompt 34:**
+```
+A photorealistic bust shot of a person with Bob Ross painting happy trees on canvas. Set in painting studio with easel and nature paintings blurred. The scene is illuminated by soft studio light creating peaceful atmosphere, producing a happy painting moment. Captured with an 85mm portrait lens, emphasizing wholesome icon photography that's joyful and creative, both faces in sharp focus.
+```
+
+**Prompt 35:**
+```
+A photorealistic portrait of a person with Carl Sagan with cosmos and stars background. Set in observatory or space-themed setting with telescopes blurred. The scene is illuminated by cosmic lighting creating wonder atmosphere, producing a Sagan moment. Captured with an 85mm portrait lens, emphasizing science icon photography that's inspiring and cosmic, both faces in sharp focus.
+```
+
+---
+
+## STYL 6: LITERARY ICONS 📖
+
+**Zastosowanie:** Famous writers, poets, authors
+
+---
+
+**Prompt 36:**
+```
+A photorealistic portrait of a person with Ernest Hemingway in writer's study. Set in vintage study with typewriter and books blurred. The scene is illuminated by warm desk lamp creating writer atmosphere, producing a Hemingway encounter. Captured with an 85mm portrait lens, emphasizing literary legend photography that's contemplative and classic, both faces in sharp focus.
+```
+
+**Prompt 37:**
+```
+A photorealistic close-up of a person with William Shakespeare in Elizabethan outfit. Set in Globe Theatre with stage and period elements blurred. The scene is illuminated by theatrical lighting creating Renaissance atmosphere, producing a Shakespeare moment. Captured with an 85mm portrait lens, emphasizing literary master photography that's dramatic and historic, both faces in sharp focus.
+```
+
+**Prompt 38:**
+```
+A photorealistic bust shot of a person with Jane Austen in Regency era dress. Set in English countryside estate with period furniture blurred. The scene is illuminated by natural window light creating Regency atmosphere, producing an Austen encounter. Captured with an 85mm portrait lens, emphasizing period author photography that's elegant and literary, both faces in sharp focus.
+```
+
+**Prompt 39:**
+```
+A photorealistic portrait of a person with Edgar Allan Poe in gothic setting. Set in dark Victorian study with raven and gothic elements blurred. The scene is illuminated by candlelight creating mysterious atmosphere, producing a Poe moment. Captured with an 85mm portrait lens, emphasizing gothic author photography that's dark and atmospheric, both faces in sharp focus.
+```
+
+**Prompt 40:**
+```
+A photorealistic close-up of a person with Maya Angelou in dignified portrait setting. Set in elegant study with books and writing elements blurred. The scene is illuminated by soft natural light creating inspiring atmosphere, producing an Angelou encounter. Captured with an 85mm portrait lens, emphasizing poet icon photography that's dignified and powerful, both faces in sharp focus.
+```
+
+---
+
+## STYL 7: FASHION ICONS 👗
+
+**Zastosowanie:** Fashion designers, style icons, models
+
+---
+
+**Prompt 41:**
+```
+A photorealistic portrait of a person with Coco Chanel in classic Chanel suit. Set in Parisian fashion house with mannequins and fabrics blurred. The scene is illuminated by soft fashion lighting creating elegant atmosphere, producing a Chanel moment. Captured with an 85mm portrait lens, emphasizing fashion icon photography that's chic and timeless, both faces in sharp focus.
+```
+
+**Prompt 42:**
+```
+A photorealistic close-up of a person with Karl Lagerfeld in signature sunglasses and gloves. Set at fashion show runway with models and lights blurred. The scene is illuminated by runway lighting creating haute couture atmosphere, producing a Lagerfeld encounter. Captured with an 85mm portrait lens, emphasizing fashion legend photography that's bold and stylish, both faces in sharp focus.
+```
+
+**Prompt 43:**
+```
+A photorealistic bust shot of a person with Anna Wintour in Vogue office setting. Set in fashion editorial office with magazine covers blurred. The scene is illuminated by office lighting creating powerful atmosphere, producing a Vogue moment. Captured with an 85mm portrait lens, emphasizing fashion editor photography that's authoritative and chic, both faces in sharp focus.
+```
+
+---
+
+## STYL 8: POLITICAL LEADERS 🗽
+
+**Zastosowanie:** World leaders, historical politicians, presidents
+
+---
+
+**Prompt 44:**
+```
+A photorealistic portrait of a person with John F. Kennedy in presidential setting. Set in Oval Office or White House with American elements blurred. The scene is illuminated by formal lighting creating presidential atmosphere, producing a JFK moment. Captured with an 85mm portrait lens, emphasizing presidential photography that's dignified and historic, both faces in sharp focus.
+```
+
+**Prompt 45:**
+```
+A photorealistic close-up of a person with Winston Churchill with cigar. Set in war room or British Parliament with historic elements blurred. The scene is illuminated by dramatic lighting creating wartime atmosphere, producing a Churchill encounter. Captured with an 85mm portrait lens, emphasizing wartime leader photography that's powerful and historic, both faces in sharp focus.
+```
+
+**Prompt 46:**
+```
+A photorealistic bust shot of a person with Nelson Mandela in rainbow nation setting. Set with South African elements and freedom symbols blurred. The scene is illuminated by hopeful lighting creating inspiring atmosphere, producing a Mandela moment. Captured with an 85mm portrait lens, emphasizing freedom leader photography that's inspiring and historic, both faces in sharp focus.
+```
+
+**Prompt 47:**
+```
+A photorealistic portrait of a person with Mahatma Gandhi in simple white dhoti. Set in peaceful Indian setting with spinning wheel and peaceful elements blurred. The scene is illuminated by natural light creating peaceful atmosphere, producing a Gandhi encounter. Captured with an 85mm portrait lens, emphasizing peaceful leader photography that's humble and powerful, both faces in sharp focus.
+```
+
+---
+
+## STYL 9: EXPLORERS & ADVENTURERS 🧭
+
+**Zastosowanie:** Historic explorers, adventurers, pioneers
+
+---
+
+**Prompt 48:**
+```
+A photorealistic portrait of a person with Amelia Earhart in aviator outfit by plane. Set next to vintage airplane with propeller and sky blurred. The scene is illuminated by natural daylight creating adventurous atmosphere, producing an Earhart moment. Captured with an 85mm portrait lens, emphasizing aviation pioneer photography that's brave and historic, both faces in sharp focus.
+```
+
+**Prompt 49:**
+```
+A photorealistic close-up of a person with Neil Armstrong in astronaut suit. Set in NASA setting with moon landing elements and space blurred. The scene is illuminated by space-age lighting creating historic atmosphere, producing an Armstrong encounter. Captured with an 85mm portrait lens, emphasizing space pioneer photography that's heroic and inspiring, both faces in sharp focus.
+```
+
+**Prompt 50:**
+```
+A photorealistic bust shot of a person with Jacques Cousteau in diving gear. Set on boat or underwater with ocean exploration elements blurred. The scene is illuminated by ocean light creating exploration atmosphere, producing a Cousteau moment. Captured with an 85mm portrait lens, emphasizing ocean explorer photography that's adventurous and pioneering, both faces in sharp focus.
+```
+
+---
+
+## STYL 10: PHILOSOPHERS & THINKERS 🧠
+
+**Zastosowanie:** Great minds, philosophers, intellectuals
+
+---
+
+**Prompt 51:**
+```
+A photorealistic portrait of a person with Socrates in ancient Greek setting. Set in Athens with columns and philosophy school elements blurred. The scene is illuminated by classical light creating philosophical atmosphere, producing a Socrates encounter. Captured with an 85mm portrait lens, emphasizing philosopher photography that's wise and historic, both faces in sharp focus.
+```
+
+**Prompt 52:**
+```
+A photorealistic close-up of a person with Nikola Tesla in laboratory with electricity. Set in vintage lab with Tesla coils and electric experiments blurred. The scene is illuminated by electric glow creating inventor atmosphere, producing a Tesla moment. Captured with an 85mm portrait lens, emphasizing inventor genius photography that's electrifying and visionary, both faces in sharp focus.
+```
+
+**Prompt 53:**
+```
+A photorealistic bust shot of a person with Alan Turing with Enigma machine. Set in WWII codebreaking room with machines and calculations blurred. The scene is illuminated by period lighting creating genius atmosphere, producing a Turing encounter. Captured with an 85mm portrait lens, emphasizing computer pioneer photography that's brilliant and historic, both faces in sharp focus.
+```
+
+---
+
+## BONUS: FANTASY & FICTIONAL ICONS 🎭
+
+**Zastosowanie:** Iconic fictional characters brought to life
+
+---
+
+**Prompt 54:**
+```
+A photorealistic portrait of a person with Sherlock Holmes in detective outfit with pipe. Set on Baker Street with Victorian London and fog blurred. The scene is illuminated by gaslight creating mystery atmosphere, producing a Holmes encounter. Captured with an 85mm portrait lens, emphasizing detective icon photography that's mysterious and Victorian, both faces in sharp focus.
+```
+
+**Prompt 55:**
+```
+A photorealistic close-up of a person with Charlie Chaplin in Tramp costume with cane. Set in black and white silent film style with vintage street blurred. The scene is illuminated by classic film lighting creating silent era atmosphere, producing a Chaplin moment. Captured with an 85mm portrait lens, emphasizing silent film photography that's iconic and nostalgic, both faces in sharp focus.
+```
+
+**Prompt 56:**
+```
+A photorealistic bust shot of a person with Rosie the Riveter in iconic "We Can Do It!" pose. Set in 1940s factory with war effort posters blurred. The scene is illuminated by vintage factory light creating empowering atmosphere, producing a Rosie moment. Captured with an 85mm portrait lens, emphasizing empowerment icon photography that's strong and historic, both faces in sharp focus.
+```
+
+**Prompt 57:**
+```
+A photorealistic portrait of a person with Mona Lisa recreating the famous portrait pose. Set in Renaissance art gallery with paintings blurred. The scene is illuminated by soft museum lighting creating artistic atmosphere, producing a Mona Lisa moment. Captured with an 85mm portrait lens, emphasizing art icon photography that's mysterious and timeless, both faces in sharp focus.
+```
+
+---
+
+## MORE MUSIC LEGENDS (Continuation)
+
+**Prompt 58:**
+```
+A photorealistic close-up of a person with Beyoncé in Formation era styling. Set on concert stage with backup dancers and lights blurred. The scene is illuminated by dramatic stage lighting creating queen atmosphere, producing a Beyoncé moment. Captured with an 85mm portrait lens, emphasizing pop royalty photography that's powerful and glamorous, both faces in sharp focus.
+```
+
+**Prompt 59:**
+```
+A photorealistic portrait of a person with Frank Sinatra in classic suit with microphone. Set at vintage Vegas showroom with orchestra blurred. The scene is illuminated by spotlight creating Rat Pack atmosphere, producing a Sinatra encounter. Captured with an 85mm portrait lens, emphasizing crooner legend photography that's classy and timeless, both faces in sharp focus.
+```
+
+**Prompt 60:**
+```
+A photorealistic bust shot of a person with Tupac Shakur in 90s hip-hop style. Set in West Coast setting with graffiti and urban elements blurred. The scene is illuminated by urban lighting creating hip-hop atmosphere, producing a Tupac moment. Captured with an 85mm portrait lens, emphasizing rap legend photography that's authentic and powerful, both faces in sharp focus.
+```
+
+**Prompt 61:**
+```
+A photorealistic close-up of a person with Johnny Cash in all-black outfit with guitar. Set at Folsom Prison or country stage with vintage elements blurred. The scene is illuminated by stage lighting creating country legend atmosphere, producing a Man in Black encounter. Captured with an 85mm portrait lens, emphasizing country icon photography that's bold and authentic, both faces in sharp focus.
+```
+
+**Prompt 62:**
+```
+A photorealistic portrait of a person with Jimi Hendrix in psychedelic 60s outfit with guitar. Set on Woodstock-style stage with festival and peace signs blurred. The scene is illuminated by colorful stage lights creating psychedelic atmosphere, producing a Hendrix moment. Captured with an 85mm portrait lens, emphasizing guitar legend photography that's electric and iconic, both faces in sharp focus.
+```
+
+---
+
+## MORE HOLLYWOOD & TV ICONS
+
+**Prompt 63:**
+```
+A photorealistic bust shot of a person with Lucille Ball in I Love Lucy 50s style. Set on vintage TV set with retro elements and cameras blurred. The scene is illuminated by classic TV lighting creating sitcom atmosphere, producing a Lucy moment. Captured with an 85mm portrait lens, emphasizing TV icon photography that's fun and nostalgic, both faces in sharp focus.
+```
+
+**Prompt 64:**
+```
+A photorealistic close-up of a person with Robin Williams in various character costumes. Set with comedy club or movie set elements blurred. The scene is illuminated by warm lighting creating joyful atmosphere, producing a Robin Williams encounter. Captured with an 85mm portrait lens, emphasizing comedy legend photography that's heartwarming and energetic, both faces in sharp focus.
+```
+
+**Prompt 65:**
+```
+A photorealistic portrait of a person with Bruce Lee in martial arts gi mid-pose. Set in dojo with martial arts elements and mirrors blurred. The scene is illuminated by dramatic lighting creating martial arts atmosphere, producing a Bruce Lee moment. Captured with an 85mm portrait lens, emphasizing martial arts legend photography that's powerful and iconic, both faces in sharp focus.
+```
+
+---
+
+## MORE CONTEMPORARY ICONS
+
+**Prompt 66:**
+```
+A photorealistic bust shot of a person with Elon Musk next to SpaceX rocket. Set at launch pad with rocket and space technology blurred. The scene is illuminated by futuristic lighting creating innovation atmosphere, producing a Musk encounter. Captured with an 85mm portrait lens, emphasizing tech visionary photography that's futuristic and bold, both faces in sharp focus.
+```
+
+**Prompt 67:**
+```
+A photorealistic close-up of a person with Oprah Winfrey on talk show set. Set on iconic talk show stage with audience and cameras blurred. The scene is illuminated by TV studio lighting creating inspiring atmosphere, producing an Oprah moment. Captured with an 85mm portrait lens, emphasizing media icon photography that's warm and empowering, both faces in sharp focus.
+```
+
+**Prompt 68:**
+```
+A photorealistic portrait of a person with Malala Yousafzai with education symbols. Set in school or United Nations setting with books and peace elements blurred. The scene is illuminated by natural light creating inspiring atmosphere, producing a Malala encounter. Captured with an 85mm portrait lens, emphasizing activist icon photography that's powerful and hopeful, both faces in sharp focus.
+```
+
+**Prompt 69:**
+```
+A photorealistic bust shot of a person with Gordon Ramsay in chef whites in kitchen. Set in Hell's Kitchen or restaurant kitchen with cooking action blurred. The scene is illuminated by kitchen lighting creating culinary atmosphere, producing a Ramsay moment. Captured with an 85mm portrait lens, emphasizing chef celebrity photography that's intense and professional, both faces in sharp focus.
+```
+
+**Prompt 70:**
+```
+A photorealistic close-up of a person with Mr. Rogers in signature cardigan and sneakers. Set in Neighborhood of Make-Believe TV set with puppets blurred. The scene is illuminated by soft TV lighting creating wholesome atmosphere, producing a Mr. Rogers encounter. Captured with an 85mm portrait lens, emphasizing wholesome icon photography that's warm and nostalgic, both faces in sharp focus.
+```
+
+---
+
+✅ **KATEGORIA 7 COMPLETE: 70 CELEBRITY/ICON PROMPTS!**
+
+---
+
+# 👨‍🍳 KATEGORIA 8: ZAWODY & PASJE (PROFESSIONS & CAREERS)
+
+**Koncepcja:** User może się wygenerować W SWOJEJ BRANŻY lub wymarzonym zawodzie
+**Total prompts:** 120
+**Zastosowanie:** Professional portraits, career inspiration, dream job photos
+
+---
+
+## STYL 1: CULINARY ARTS 👨‍🍳
+
+**Zastosowanie:** Food industry, restaurants, baking, cooking
+
+---
+
+**Prompt 1:**
+```
+A photorealistic portrait of a baker in white uniform holding fresh baked bread. Set in artisan bakery with ovens and bread displays blurred. The scene is illuminated by warm bakery lighting creating cozy atmosphere, producing a master baker presence. Captured with an 85mm portrait lens, emphasizing bakery photography that's warm and professional, face in sharp focus.
+```
+
+**Prompt 2:**
+```
+A photorealistic close-up of a pastry chef decorating elaborate cake with precision. Set in pastry kitchen with desserts and tools blurred. The scene is illuminated by clean kitchen lighting creating sweet atmosphere, producing a pastry artist focus. Captured with an 85mm portrait lens, emphasizing patisserie photography that's delicate and skilled, face in sharp focus.
+```
+
+**Prompt 3:**
+```
+A photorealistic bust shot of a chef in professional whites tasting dish with spoon. Set in restaurant kitchen with cooking action and steam blurred. The scene is illuminated by kitchen lighting creating culinary atmosphere, producing a chef's passion. Captured with an 85mm portrait lens, emphasizing chef photography that's authentic and professional, face in sharp focus.
+```
+
+**Prompt 4:**
+```
+A photorealistic portrait of a barista creating latte art at coffee machine. Set in trendy coffee shop with espresso machine and beans blurred. The scene is illuminated by cafe lighting creating coffee culture atmosphere, producing a barista craft. Captured with an 85mm portrait lens, emphasizing coffee photography that's artisanal and cool, face in sharp focus.
+```
+
+**Prompt 5:**
+```
+A photorealistic close-up of a chocolatier hand-dipping chocolate truffles. Set in chocolate workshop with molds and cocoa blurred. The scene is illuminated by warm workshop light creating sweet atmosphere, producing a chocolate artist precision. Captured with an 85mm portrait lens, emphasizing chocolatier photography that's detailed and luxurious, face in sharp focus.
+```
+
+**Prompt 6:**
+```
+A photorealistic bust shot of a sommelier tasting wine with professional glass. Set in wine cellar with barrels and bottles blurred. The scene is illuminated by ambient cellar lighting creating sophisticated atmosphere, producing a wine expert elegance. Captured with an 85mm portrait lens, emphasizing sommelier photography that's refined and knowledgeable, face in sharp focus.
+```
+
+**Prompt 7:**
+```
+A photorealistic portrait of a pizzaiolo tossing pizza dough in air. Set in Italian pizzeria with wood-fired oven and ingredients blurred. The scene is illuminated by warm oven glow creating authentic atmosphere, producing a pizza master skill. Captured with an 85mm portrait lens, emphasizing pizzaiolo photography that's dynamic and traditional, face in sharp focus.
+```
+
+**Prompt 8:**
+```
+A photorealistic close-up of a butcher cutting prime meat with precision. Set in butcher shop with meat displays and tools blurred. The scene is illuminated by shop lighting creating professional atmosphere, producing a butcher's expertise. Captured with an 85mm portrait lens, emphasizing butcher photography that's skilled and traditional, face in sharp focus.
+```
+
+---
+
+## STYL 2: MEDICAL & HEALTHCARE 👨‍⚕️
+
+**Zastosowanie:** Doctors, nurses, healthcare professionals
+
+---
+
+**Prompt 9:**
+```
+A photorealistic portrait of a doctor in white coat with stethoscope around neck. Set in modern hospital with medical equipment and monitors blurred. The scene is illuminated by clean hospital lighting creating professional atmosphere, producing a doctor's authority. Captured with an 85mm portrait lens, emphasizing medical photography that's trustworthy and professional, face in sharp focus.
+```
+
+**Prompt 10:**
+```
+A photorealistic close-up of a nurse in scrubs checking patient chart with care. Set in hospital ward with patients and medical equipment blurred. The scene is illuminated by soft hospital light creating compassionate atmosphere, producing a nurse's dedication. Captured with an 85mm portrait lens, emphasizing nursing photography that's caring and professional, face in sharp focus.
+```
+
+**Prompt 11:**
+```
+A photorealistic bust shot of a surgeon in surgical scrubs and mask in OR. Set in operating room with surgical lights and team blurred. The scene is illuminated by bright OR lighting creating sterile atmosphere, producing a surgeon's focus. Captured with an 85mm portrait lens, emphasizing surgical photography that's intense and professional, face in sharp focus.
+```
+
+**Prompt 12:**
+```
+A photorealistic portrait of a dentist examining with dental tools. Set in dental office with chair and equipment blurred. The scene is illuminated by dental lamp creating clinical atmosphere, producing a dentist's precision. Captured with an 85mm portrait lens, emphasizing dental photography that's professional and reassuring, face in sharp focus.
+```
+
+**Prompt 13:**
+```
+A photorealistic close-up of a paramedic in uniform by ambulance. Set at ambulance with emergency equipment and lights blurred. The scene is illuminated by emergency lighting creating urgent atmosphere, producing a paramedic's readiness. Captured with an 85mm portrait lens, emphasizing emergency medicine photography that's heroic and professional, face in sharp focus.
+```
+
+**Prompt 14:**
+```
+A photorealistic bust shot of a pharmacist preparing prescription behind counter. Set in pharmacy with medicine shelves and bottles blurred. The scene is illuminated by pharmacy lighting creating helpful atmosphere, producing a pharmacist's care. Captured with an 85mm portrait lens, emphasizing pharmacy photography that's professional and knowledgeable, face in sharp focus.
+```
+
+**Prompt 15:**
+```
+A photorealistic portrait of a veterinarian examining pet with kindness. Set in vet clinic with animals and medical equipment blurred. The scene is illuminated by clinic lighting creating caring atmosphere, producing a vet's compassion. Captured with an 85mm portrait lens, emphasizing veterinary photography that's gentle and professional, face in sharp focus.
+```
+
+**Prompt 16:**
+```
+A photorealistic close-up of a physical therapist helping patient with exercise. Set in therapy gym with equipment and exercises blurred. The scene is illuminated by gym lighting creating healing atmosphere, producing a therapist's support. Captured with an 85mm portrait lens, emphasizing physical therapy photography that's encouraging and professional, face in sharp focus.
+```
+
+---
+
+## STYL 3: EMERGENCY SERVICES 👨‍🚒
+
+**Zastosowanie:** Firefighters, police, first responders
+
+---
+
+**Prompt 17:**
+```
+A photorealistic portrait of a firefighter in full gear with helmet and axe. Set at fire station with fire truck and equipment blurred. The scene is illuminated by station lighting creating heroic atmosphere, producing a firefighter's bravery. Captured with an 85mm portrait lens, emphasizing firefighter photography that's powerful and heroic, face in sharp focus.
+```
+
+**Prompt 18:**
+```
+A photorealistic close-up of a police officer in uniform with badge visible. Set at police station or patrol car with equipment blurred. The scene is illuminated by natural daylight creating professional atmosphere, producing an officer's authority. Captured with an 85mm portrait lens, emphasizing police photography that's authoritative and trustworthy, face in sharp focus.
+```
+
+**Prompt 19:**
+```
+A photorealistic bust shot of a lifeguard on duty with rescue equipment. Set at beach or pool with water and safety equipment blurred. The scene is illuminated by bright sunshine creating vigilant atmosphere, producing a lifeguard's readiness. Captured with an 85mm portrait lens, emphasizing lifeguard photography that's alert and fit, face in sharp focus.
+```
+
+**Prompt 20:**
+```
+A photorealistic portrait of a coast guard member on boat at sea. Set on rescue vessel with ocean and equipment blurred. The scene is illuminated by maritime light creating seafaring atmosphere, producing a coast guard's dedication. Captured with an 85mm portrait lens, emphasizing maritime rescue photography that's brave and professional, face in sharp focus.
+```
+
+---
+
+## STYL 4: CONSTRUCTION & TRADES 👷
+
+**Zastosowanie:** Builders, mechanics, craftsmen, skilled trades
+
+---
+
+**Prompt 21:**
+```
+A photorealistic portrait of a construction worker in hard hat and safety vest. Set at construction site with building and equipment blurred. The scene is illuminated by natural site lighting creating hardworking atmosphere, producing a builder's strength. Captured with an 85mm portrait lens, emphasizing construction photography that's gritty and professional, face in sharp focus.
+```
+
+**Prompt 22:**
+```
+A photorealistic close-up of a mechanic under hood working on car engine. Set in auto shop with tools and vehicles blurred. The scene is illuminated by shop lighting creating mechanical atmosphere, producing a mechanic's skill. Captured with an 85mm portrait lens, emphasizing automotive photography that's hands-on and skilled, face in sharp focus.
+```
+
+**Prompt 23:**
+```
+A photorealistic bust shot of an electrician installing wiring with tools. Set at work site with electrical panels and cables blurred. The scene is illuminated by work light creating technical atmosphere, producing an electrician's precision. Captured with an 85mm portrait lens, emphasizing electrical trade photography that's skilled and safe, face in sharp focus.
+```
+
+**Prompt 24:**
+```
+A photorealistic portrait of a carpenter using power saw on wood. Set in woodshop with lumber and projects blurred. The scene is illuminated by workshop lighting creating craftsmanship atmosphere, producing a carpenter's expertise. Captured with an 85mm portrait lens, emphasizing carpentry photography that's skilled and traditional, face in sharp focus.
+```
+
+**Prompt 25:**
+```
+A photorealistic close-up of a plumber fixing pipes with wrench. Set in work environment with plumbing and tools blurred. The scene is illuminated by work lighting creating practical atmosphere, producing a plumber's competence. Captured with an 85mm portrait lens, emphasizing plumbing photography that's professional and capable, face in sharp focus.
+```
+
+**Prompt 26:**
+```
+A photorealistic bust shot of a welder in mask with welding torch sparking. Set in metal shop with sparks and steel blurred. The scene is illuminated by welding arc glow creating industrial atmosphere, producing a welder's intensity. Captured with an 85mm portrait lens, emphasizing welding photography that's dramatic and skilled, face in sharp focus.
+```
+
+**Prompt 27:**
+```
+A photorealistic portrait of a painter with paint roller on ladder. Set at painting job site with walls and supplies blurred. The scene is illuminated by natural light creating fresh atmosphere, producing a painter's craft. Captured with an 85mm portrait lens, emphasizing painting trade photography that's clean and professional, face in sharp focus.
+```
+
+**Prompt 28:**
+```
+A photorealistic close-up of a mason laying bricks with precision. Set at masonry site with bricks and mortar blurred. The scene is illuminated by outdoor light creating building atmosphere, producing a mason's skill. Captured with an 85mm portrait lens, emphasizing masonry photography that's traditional and strong, face in sharp focus.
+```
+
+---
+
+## STYL 5: AVIATION & TRANSPORTATION 👨‍✈️
+
+**Zastosowanie:** Pilots, flight crew, transportation professionals
+
+---
+
+**Prompt 29:**
+```
+A photorealistic portrait of an airline pilot in captain uniform in cockpit. Set in airplane cockpit with controls and instruments blurred. The scene is illuminated by cockpit lighting creating aviation atmosphere, producing a pilot's authority. Captured with an 85mm portrait lens, emphasizing pilot photography that's professional and commanding, face in sharp focus.
+```
+
+**Prompt 30:**
+```
+A photorealistic close-up of a flight attendant in airline uniform with wings pin. Set in airplane cabin with passengers and service blurred. The scene is illuminated by cabin lighting creating service atmosphere, producing a flight attendant's professionalism. Captured with an 85mm portrait lens, emphasizing cabin crew photography that's polished and welcoming, face in sharp focus.
+```
+
+**Prompt 31:**
+```
+A photorealistic bust shot of a train engineer in cab at controls. Set in locomotive cab with tracks and signals blurred. The scene is illuminated by cab lighting creating railway atmosphere, producing an engineer's focus. Captured with an 85mm portrait lens, emphasizing railway photography that's traditional and skilled, face in sharp focus.
+```
+
+**Prompt 32:**
+```
+A photorealistic portrait of a ship captain on bridge with wheel. Set on ship bridge with ocean and navigation equipment blurred. The scene is illuminated by bridge lighting creating maritime atmosphere, producing a captain's command. Captured with an 85mm portrait lens, emphasizing nautical photography that's authoritative and experienced, face in sharp focus.
+```
+
+**Prompt 33:**
+```
+A photorealistic close-up of a truck driver in cab with highway ahead. Set in truck cabin with road and dashboard blurred. The scene is illuminated by natural road light creating driving atmosphere, producing a trucker's independence. Captured with an 85mm portrait lens, emphasizing trucking photography that's authentic and hardworking, face in sharp focus.
+```
+
+**Prompt 34:**
+```
+A photorealistic bust shot of a race car driver in racing suit and helmet. Set in pit area with race car and crew blurred. The scene is illuminated by pit lighting creating racing atmosphere, producing a driver's intensity. Captured with an 85mm portrait lens, emphasizing motorsports photography that's adrenaline and professional, face in sharp focus.
+```
+
+---
+
+## STYL 6: EDUCATION & TEACHING 👨‍🏫
+
+**Zastosowanie:** Teachers, professors, trainers, educators
+
+---
+
+**Prompt 35:**
+```
+A photorealistic portrait of a teacher at blackboard with chalk or marker. Set in classroom with students and educational materials blurred. The scene is illuminated by classroom lighting creating educational atmosphere, producing a teacher's dedication. Captured with an 85mm portrait lens, emphasizing teaching photography that's inspiring and professional, face in sharp focus.
+```
+
+**Prompt 36:**
+```
+A photorealistic close-up of a university professor in lecture hall with books. Set in university hall with students and academic elements blurred. The scene is illuminated by hall lighting creating scholarly atmosphere, producing a professor's wisdom. Captured with an 85mm portrait lens, emphasizing academic photography that's intellectual and distinguished, face in sharp focus.
+```
+
+**Prompt 37:**
+```
+A photorealistic bust shot of a kindergarten teacher reading to children. Set in colorful classroom with kids and toys blurred. The scene is illuminated by soft classroom light creating nurturing atmosphere, producing a teacher's warmth. Captured with an 85mm portrait lens, emphasizing early education photography that's caring and joyful, face in sharp focus.
+```
+
+**Prompt 38:**
+```
+A photorealistic portrait of a personal trainer demonstrating exercise. Set in gym with equipment and clients blurred. The scene is illuminated by gym lighting creating fitness atmosphere, producing a trainer's motivation. Captured with an 85mm portrait lens, emphasizing fitness training photography that's energetic and professional, face in sharp focus.
+```
+
+**Prompt 39:**
+```
+A photorealistic close-up of a music teacher with instrument giving lesson. Set in music room with instruments and students blurred. The scene is illuminated by studio lighting creating musical atmosphere, producing a teacher's passion. Captured with an 85mm portrait lens, emphasizing music education photography that's inspiring and artistic, face in sharp focus.
+```
+
+**Prompt 40:**
+```
+A photorealistic bust shot of a dance instructor demonstrating move in studio. Set in dance studio with mirrors and dancers blurred. The scene is illuminated by studio lighting creating dance atmosphere, producing an instructor's grace. Captured with an 85mm portrait lens, emphasizing dance teaching photography that's elegant and skilled, face in sharp focus.
+```
+
+---
+
+## STYL 7: CREATIVE ARTS 🎨
+
+**Zastosowanie:** Artists, designers, photographers, creative professionals
+
+---
+
+**Prompt 41:**
+```
+A photorealistic portrait of a painter with brush and palette in art studio. Set in artist studio with canvases and paint blurred. The scene is illuminated by natural artist light creating creative atmosphere, producing a painter's passion. Captured with an 85mm portrait lens, emphasizing artist photography that's colorful and authentic, face in sharp focus.
+```
+
+**Prompt 42:**
+```
+A photorealistic close-up of a sculptor working on clay or stone creation. Set in sculpture studio with tools and works blurred. The scene is illuminated by studio lighting creating artistic atmosphere, producing a sculptor's focus. Captured with an 85mm portrait lens, emphasizing sculpture photography that's hands-on and creative, face in sharp focus.
+```
+
+**Prompt 43:**
+```
+A photorealistic bust shot of a photographer with professional camera shooting. Set in photo studio with lights and equipment blurred. The scene is illuminated by studio lighting creating photography atmosphere, producing a photographer's vision. Captured with an 85mm portrait lens, emphasizing photographer photography that's professional and artistic, face in sharp focus.
+```
+
+**Prompt 44:**
+```
+A photorealistic portrait of a graphic designer at computer with design work. Set in creative office with screens and sketches blurred. The scene is illuminated by screen glow creating design atmosphere, producing a designer's creativity. Captured with an 85mm portrait lens, emphasizing design photography that's modern and creative, face in sharp focus.
+```
+
+**Prompt 45:**
+```
+A photorealistic close-up of a tattoo artist creating tattoo with focus. Set in tattoo parlor with ink and designs blurred. The scene is illuminated by work light creating artistic atmosphere, producing a tattoo artist's precision. Captured with an 85mm portrait lens, emphasizing tattoo photography that's detailed and artistic, face in sharp focus.
+```
+
+**Prompt 46:**
+```
+A photorealistic bust shot of a jewelry designer crafting piece with tools. Set in jewelry workshop with gems and metals blurred. The scene is illuminated by focused work light creating delicate atmosphere, producing a jeweler's skill. Captured with an 85mm portrait lens, emphasizing jewelry craft photography that's precise and beautiful, face in sharp focus.
+```
+
+**Prompt 47:**
+```
+A photorealistic portrait of a florist arranging elaborate bouquet. Set in flower shop with blooms and arrangements blurred. The scene is illuminated by natural shop light creating floral atmosphere, producing a florist's artistry. Captured with an 85mm portrait lens, emphasizing florist photography that's colorful and creative, face in sharp focus.
+```
+
+**Prompt 48:**
+```
+A photorealistic close-up of a pottery artist throwing clay on wheel. Set in pottery studio with kiln and ceramics blurred. The scene is illuminated by natural studio light creating craft atmosphere, producing a potter's focus. Captured with an 85mm portrait lens, emphasizing pottery photography that's hands-on and artistic, face in sharp focus.
+```
+
+---
+
+## STYL 8: FASHION & BEAUTY 💇
+
+**Zastosowanie:** Hair, makeup, fashion professionals
+
+---
+
+**Prompt 49:**
+```
+A photorealistic portrait of a hairstylist cutting hair with scissors. Set in modern salon with mirrors and styling stations blurred. The scene is illuminated by salon lighting creating beauty atmosphere, producing a stylist's skill. Captured with an 85mm portrait lens, emphasizing salon photography that's professional and stylish, face in sharp focus.
+```
+
+**Prompt 50:**
+```
+A photorealistic close-up of a makeup artist applying makeup with brushes. Set at makeup station with products and client blurred. The scene is illuminated by ring light creating beauty atmosphere, producing a makeup artist's precision. Captured with an 85mm portrait lens, emphasizing makeup photography that's detailed and artistic, face in sharp focus.
+```
+
+**Prompt 51:**
+```
+A photorealistic bust shot of a barber giving classic straight razor shave. Set in traditional barbershop with chairs and vintage elements blurred. The scene is illuminated by barbershop lighting creating classic atmosphere, producing a barber's tradition. Captured with an 85mm portrait lens, emphasizing barbering photography that's classic and skilled, face in sharp focus.
+```
+
+**Prompt 52:**
+```
+A photorealistic portrait of a fashion designer with fabric and sketches. Set in design studio with mannequins and materials blurred. The scene is illuminated by studio lighting creating creative atmosphere, producing a designer's vision. Captured with an 85mm portrait lens, emphasizing fashion design photography that's creative and professional, face in sharp focus.
+```
+
+**Prompt 53:**
+```
+A photorealistic close-up of a nail technician creating nail art design. Set in nail salon with polish and tools blurred. The scene is illuminated by salon lighting creating beauty atmosphere, producing a nail artist's detail. Captured with an 85mm portrait lens, emphasizing nail art photography that's precise and colorful, face in sharp focus.
+```
+
+**Prompt 54:**
+```
+A photorealistic bust shot of a fashion model posing on runway. Set on fashion runway with lights and audience blurred. The scene is illuminated by runway lighting creating glamorous atmosphere, producing a model's presence. Captured with an 85mm portrait lens, emphasizing runway photography that's striking and professional, face in sharp focus.
+```
+
+---
+
+## STYL 9: SCIENCE & TECHNOLOGY 👨‍🔬
+
+**Zastosowanie:** Scientists, researchers, tech professionals
+
+---
+
+**Prompt 55:**
+```
+A photorealistic portrait of a scientist in lab coat with test tubes. Set in modern laboratory with equipment and experiments blurred. The scene is illuminated by lab lighting creating scientific atmosphere, producing a scientist's curiosity. Captured with an 85mm portrait lens, emphasizing science photography that's professional and intellectual, face in sharp focus.
+```
+
+**Prompt 56:**
+```
+A photorealistic close-up of a software developer coding at multiple screens. Set in tech office with code and monitors blurred. The scene is illuminated by screen glow creating tech atmosphere, producing a developer's focus. Captured with an 85mm portrait lens, emphasizing programming photography that's modern and concentrated, face in sharp focus.
+```
+
+**Prompt 57:**
+```
+A photorealistic bust shot of a chemist analyzing compounds with equipment. Set in chemistry lab with beakers and reactions blurred. The scene is illuminated by lab lighting creating research atmosphere, producing a chemist's precision. Captured with an 85mm portrait lens, emphasizing chemistry photography that's scientific and careful, face in sharp focus.
+```
+
+**Prompt 58:**
+```
+A photorealistic portrait of an engineer with blueprints and hard hat. Set at engineering site with projects and plans blurred. The scene is illuminated by site lighting creating technical atmosphere, producing an engineer's expertise. Captured with an 85mm portrait lens, emphasizing engineering photography that's professional and technical, face in sharp focus.
+```
+
+**Prompt 59:**
+```
+A photorealistic close-up of a data analyst reviewing charts and graphs. Set in office with screens and data visualizations blurred. The scene is illuminated by office lighting creating analytical atmosphere, producing an analyst's insight. Captured with an 85mm portrait lens, emphasizing data photography that's modern and professional, face in sharp focus.
+```
+
+**Prompt 60:**
+```
+A photorealistic bust shot of an astronomer at telescope under stars. Set at observatory with telescope and night sky blurred. The scene is illuminated by ambient starlight creating cosmic atmosphere, producing an astronomer's wonder. Captured with an 85mm portrait lens, emphasizing astronomy photography that's inspiring and scientific, face in sharp focus.
+```
+
+---
+
+## STYL 10: ENTERTAINMENT & PERFORMING ARTS 🎭
+
+**Zastosowanie:** Actors, musicians, performers, entertainers
+
+---
+
+**Prompt 61:**
+```
+A photorealistic portrait of an actor on stage in character with spotlight. Set on theater stage with props and curtains blurred. The scene is illuminated by dramatic stage lighting creating theatrical atmosphere, producing an actor's presence. Captured with an 85mm portrait lens, emphasizing stage photography that's dramatic and professional, face in sharp focus.
+```
+
+**Prompt 62:**
+```
+A photorealistic close-up of a musician playing guitar in recording studio. Set in professional studio with equipment and soundproofing blurred. The scene is illuminated by studio lighting creating musical atmosphere, producing a musician's passion. Captured with an 85mm portrait lens, emphasizing music photography that's authentic and artistic, face in sharp focus.
+```
+
+**Prompt 63:**
+```
+A photorealistic bust shot of a dancer mid-movement in dance studio. Set in dance studio with mirrors and barre blurred. The scene is illuminated by studio lighting creating graceful atmosphere, producing a dancer's artistry. Captured with an 85mm portrait lens, emphasizing dance photography that's elegant and dynamic, face in sharp focus.
+```
+
+**Prompt 64:**
+```
+A photorealistic portrait of a comedian on stage with microphone. Set at comedy club with audience and brick wall blurred. The scene is illuminated by stage spotlight creating comedy atmosphere, producing a comedian's energy. Captured with an 85mm portrait lens, emphasizing comedy photography that's fun and professional, face in sharp focus.
+```
+
+**Prompt 65:**
+```
+A photorealistic close-up of a singer performing with passion at concert. Set on concert stage with band and lights blurred. The scene is illuminated by colorful stage lights creating concert atmosphere, producing a singer's emotion. Captured with an 85mm portrait lens, emphasizing live music photography that's energetic and powerful, face in sharp focus.
+```
+
+**Prompt 66:**
+```
+A photorealistic bust shot of a magician performing trick with cards. Set on magic show stage with props and mystery blurred. The scene is illuminated by theatrical lighting creating magical atmosphere, producing a magician's showmanship. Captured with an 85mm portrait lens, emphasizing magic photography that's mysterious and entertaining, face in sharp focus.
+```
+
+**Prompt 67:**
+```
+A photorealistic portrait of a circus performer in costume under big top. Set in circus tent with acrobatics and acts blurred. The scene is illuminated by circus lights creating spectacular atmosphere, producing a performer's daring. Captured with an 85mm portrait lens, emphasizing circus photography that's colorful and dramatic, face in sharp focus.
+```
+
+**Prompt 68:**
+```
+A photorealistic close-up of a DJ mixing music at turntables with headphones. Set in club booth with lights and crowd blurred. The scene is illuminated by colorful DJ lighting creating club atmosphere, producing a DJ's focus. Captured with an 85mm portrait lens, emphasizing DJ photography that's energetic and cool, face in sharp focus.
+```
+
+---
+
+## STYL 11: BUSINESS & PROFESSIONAL 💼
+
+**Zastosowanie:** Office workers, executives, professional services
+
+---
+
+**Prompt 69:**
+```
+A photorealistic portrait of a lawyer in suit at law library with books. Set in law library with legal volumes and wood blurred. The scene is illuminated by library lighting creating authoritative atmosphere, producing a lawyer's intelligence. Captured with an 85mm portrait lens, emphasizing legal photography that's professional and distinguished, face in sharp focus.
+```
+
+**Prompt 70:**
+```
+A photorealistic close-up of an accountant reviewing financial documents. Set in office with spreadsheets and calculator blurred. The scene is illuminated by office lighting creating focused atmosphere, producing an accountant's precision. Captured with an 85mm portrait lens, emphasizing accounting photography that's professional and detail-oriented, face in sharp focus.
+```
+
+**Prompt 71:**
+```
+A photorealistic bust shot of an architect with building model and blueprints. Set in architecture office with designs and models blurred. The scene is illuminated by office lighting creating creative atmosphere, producing an architect's vision. Captured with an 85mm portrait lens, emphasizing architecture photography that's professional and creative, face in sharp focus.
+```
+
+**Prompt 72:**
+```
+A photorealistic portrait of a real estate agent showing property. Set at elegant property with house and features blurred. The scene is illuminated by natural light creating professional atmosphere, producing an agent's confidence. Captured with an 85mm portrait lens, emphasizing real estate photography that's professional and welcoming, face in sharp focus.
+```
+
+**Prompt 73:**
+```
+A photorealistic close-up of a banker at desk with financial documents. Set in bank office with professional elements blurred. The scene is illuminated by office lighting creating trustworthy atmosphere, producing a banker's reliability. Captured with an 85mm portrait lens, emphasizing banking photography that's professional and secure, face in sharp focus.
+```
+
+**Prompt 74:**
+```
+A photorealistic bust shot of an insurance agent presenting policy options. Set in professional office with desk and materials blurred. The scene is illuminated by office lighting creating helpful atmosphere, producing an agent's professionalism. Captured with an 85mm portrait lens, emphasizing insurance photography that's trustworthy and professional, face in sharp focus.
+```
+
+---
+
+## STYL 12: SPORTS & FITNESS 🏋️
+
+**Zastosowanie:** Athletes, coaches, fitness instructors
+
+---
+
+**Prompt 75:**
+```
+A photorealistic portrait of a personal trainer demonstrating workout move. Set in modern gym with equipment and weights blurred. The scene is illuminated by gym lighting creating fitness atmosphere, producing a trainer's energy. Captured with an 85mm portrait lens, emphasizing fitness photography that's motivational and professional, face in sharp focus.
+```
+
+**Prompt 76:**
+```
+A photorealistic close-up of a yoga instructor in meditation pose. Set in peaceful yoga studio with mats and natural elements blurred. The scene is illuminated by soft natural light creating zen atmosphere, producing an instructor's peace. Captured with an 85mm portrait lens, emphasizing yoga photography that's serene and professional, face in sharp focus.
+```
+
+**Prompt 77:**
+```
+A photorealistic bust shot of a boxing coach with gloves and ring. Set at boxing gym with ring and training equipment blurred. The scene is illuminated by gym lighting creating intense atmosphere, producing a coach's toughness. Captured with an 85mm portrait lens, emphasizing boxing photography that's gritty and motivational, face in sharp focus.
+```
+
+**Prompt 78:**
+```
+A photorealistic portrait of a soccer coach with ball and whistle. Set on soccer field with players and goal blurred. The scene is illuminated by natural field light creating sports atmosphere, producing a coach's leadership. Captured with an 85mm portrait lens, emphasizing coaching photography that's authoritative and passionate, face in sharp focus.
+```
+
+**Prompt 79:**
+```
+A photorealistic close-up of a martial arts instructor in gi with black belt. Set in dojo with mats and students blurred. The scene is illuminated by dojo lighting creating disciplined atmosphere, producing an instructor's mastery. Captured with an 85mm portrait lens, emphasizing martial arts photography that's respectful and powerful, face in sharp focus.
+```
+
+**Prompt 80:**
+```
+A photorealistic bust shot of a swimming coach with stopwatch at pool. Set at pool deck with swimmers and water blurred. The scene is illuminated by pool area lighting creating competitive atmosphere, producing a coach's dedication. Captured with an 85mm portrait lens, emphasizing swim coaching photography that's professional and supportive, face in sharp focus.
+```
+
+---
+
+## STYL 13: AGRICULTURE & OUTDOORS 🌾
+
+**Zastosowanie:** Farmers, ranchers, outdoor workers
+
+---
+
+**Prompt 81:**
+```
+A photorealistic portrait of a farmer in field with crops at sunrise. Set in agricultural field with wheat or corn blurred. The scene is illuminated by golden sunrise creating pastoral atmosphere, producing a farmer's connection to land. Captured with an 85mm portrait lens, emphasizing farming photography that's authentic and hardworking, face in sharp focus.
+```
+
+**Prompt 82:**
+```
+A photorealistic close-up of a rancher with cowboy hat and cattle. Set on ranch with livestock and barn blurred. The scene is illuminated by natural outdoor light creating western atmosphere, producing a rancher's life. Captured with an 85mm portrait lens, emphasizing ranching photography that's rugged and authentic, face in sharp focus.
+```
+
+**Prompt 83:**
+```
+A photorealistic bust shot of a vineyard owner among grapevines. Set in vineyard with rows of grapes and hills blurred. The scene is illuminated by warm sunlight creating wine country atmosphere, producing a vintner's passion. Captured with an 85mm portrait lens, emphasizing vineyard photography that's sophisticated and natural, face in sharp focus.
+```
+
+**Prompt 84:**
+```
+A photorealistic portrait of a beekeeper in protective suit with hive. Set at apiary with beehives and bees blurred. The scene is illuminated by natural daylight creating nature atmosphere, producing a beekeeper's care. Captured with an 85mm portrait lens, emphasizing beekeeping photography that's unique and natural, face in sharp focus.
+```
+
+**Prompt 85:**
+```
+A photorealistic close-up of a fisherman with catch on fishing boat. Set on fishing vessel with ocean and nets blurred. The scene is illuminated by maritime light creating seafaring atmosphere, producing a fisherman's trade. Captured with an 85mm portrait lens, emphasizing fishing photography that's authentic and maritime, face in sharp focus.
+```
+
+**Prompt 86:**
+```
+A photorealistic bust shot of a park ranger in uniform in forest. Set in national park with trees and nature blurred. The scene is illuminated by natural forest light creating conservation atmosphere, producing a ranger's dedication. Captured with an 85mm portrait lens, emphasizing park service photography that's natural and authoritative, face in sharp focus.
+```
+
+---
+
+## STYL 14: HOSPITALITY & SERVICE 🏨
+
+**Zastosowanie:** Hotel, restaurant, customer service
+
+---
+
+**Prompt 87:**
+```
+A photorealistic portrait of a hotel concierge in uniform at desk. Set in luxury hotel lobby with elegant decor blurred. The scene is illuminated by hotel lighting creating hospitable atmosphere, producing a concierge's professionalism. Captured with an 85mm portrait lens, emphasizing hospitality photography that's polished and welcoming, face in sharp focus.
+```
+
+**Prompt 88:**
+```
+A photorealistic close-up of a waiter taking order with professional smile. Set in upscale restaurant with diners and tables blurred. The scene is illuminated by restaurant lighting creating service atmosphere, producing a waiter's attentiveness. Captured with an 85mm portrait lens, emphasizing restaurant service photography that's professional and friendly, face in sharp focus.
+```
+
+**Prompt 89:**
+```
+A photorealistic bust shot of a bartender mixing cocktail with flair. Set behind bar with bottles and mixology tools blurred. The scene is illuminated by bar lighting creating cocktail atmosphere, producing a bartender's skill. Captured with an 85mm portrait lens, emphasizing mixology photography that's stylish and professional, face in sharp focus.
+```
+
+**Prompt 90:**
+```
+A photorealistic portrait of a tour guide with group at landmark. Set at tourist attraction with monument and visitors blurred. The scene is illuminated by natural daylight creating informative atmosphere, producing a guide's knowledge. Captured with an 85mm portrait lens, emphasizing tour guide photography that's enthusiastic and knowledgeable, face in sharp focus.
+```
+
+---
+
+## STYL 15: MEDIA & JOURNALISM 📰
+
+**Zastosowanie:** Reporters, journalists, broadcasters
+
+---
+
+**Prompt 91:**
+```
+A photorealistic portrait of a news reporter with microphone on location. Set at news scene with camera crew and event blurred. The scene is illuminated by natural or field lighting creating reportage atmosphere, producing a reporter's professionalism. Captured with an 85mm portrait lens, emphasizing journalism photography that's credible and dynamic, face in sharp focus.
+```
+
+**Prompt 92:**
+```
+A photorealistic close-up of a TV anchor at news desk with teleprompter. Set in broadcast studio with cameras and monitors blurred. The scene is illuminated by studio lighting creating broadcast atmosphere, producing an anchor's authority. Captured with an 85mm portrait lens, emphasizing broadcast journalism photography that's polished and professional, face in sharp focus.
+```
+
+**Prompt 93:**
+```
+A photorealistic bust shot of a radio host with headphones at console. Set in radio studio with equipment and soundproofing blurred. The scene is illuminated by studio lighting creating radio atmosphere, producing a host's personality. Captured with an 85mm portrait lens, emphasizing radio photography that's authentic and engaging, face in sharp focus.
+```
+
+**Prompt 94:**
+```
+A photorealistic portrait of a photojournalist with camera at event. Set at news event with action and people blurred. The scene is illuminated by ambient event light creating documentary atmosphere, producing a photojournalist's dedication. Captured with an 85mm portrait lens, emphasizing photojournalism photography that's authentic and professional, face in sharp focus.
+```
+
+---
+
+## STYL 16: RETAIL & SALES 🛍️
+
+**Zastosowanie:** Shop workers, sales professionals, retail
+
+---
+
+**Prompt 95:**
+```
+A photorealistic portrait of a boutique owner in stylish shop. Set in fashion boutique with clothing and displays blurred. The scene is illuminated by shop lighting creating retail atmosphere, producing an owner's pride. Captured with an 85mm portrait lens, emphasizing retail photography that's welcoming and stylish, face in sharp focus.
+```
+
+**Prompt 96:**
+```
+A photorealistic close-up of a bookstore clerk surrounded by books. Set in independent bookstore with shelves and titles blurred. The scene is illuminated by cozy shop light creating literary atmosphere, producing a bookseller's knowledge. Captured with an 85mm portrait lens, emphasizing bookshop photography that's intellectual and warm, face in sharp focus.
+```
+
+**Prompt 97:**
+```
+A photorealistic bust shot of a jeweler examining gemstone with loupe. Set in jewelry store with displays and precious items blurred. The scene is illuminated by display lighting creating luxury atmosphere, producing a jeweler's expertise. Captured with an 85mm portrait lens, emphasizing jewelry retail photography that's elegant and professional, face in sharp focus.
+```
+
+**Prompt 98:**
+```
+A photorealistic portrait of a florist arranging display in shop. Set in flower shop with blooms and arrangements blurred. The scene is illuminated by natural shop light creating floral atmosphere, producing a florist's artistry. Captured with an 85mm portrait lens, emphasizing flower shop photography that's colorful and welcoming, face in sharp focus.
+```
+
+---
+
+## STYL 17: SPIRITUAL & WELLNESS 🧘
+
+**Zastosowanie:** Spiritual leaders, wellness practitioners, therapists
+
+---
+
+**Prompt 99:**
+```
+A photorealistic portrait of a meditation instructor in peaceful pose. Set in meditation space with candles and calm elements blurred. The scene is illuminated by soft natural light creating tranquil atmosphere, producing an instructor's serenity. Captured with an 85mm portrait lens, emphasizing meditation photography that's peaceful and centered, face in sharp focus.
+```
+
+**Prompt 100:**
+```
+A photorealistic close-up of a massage therapist in spa setting. Set in spa room with peaceful decor and treatment table blurred. The scene is illuminated by soft spa lighting creating healing atmosphere, producing a therapist's care. Captured with an 85mm portrait lens, emphasizing spa photography that's calming and professional, face in sharp focus.
+```
+
+**Prompt 101:**
+```
+A photorealistic bust shot of an acupuncturist with needles and chart. Set in treatment room with traditional medicine elements blurred. The scene is illuminated by soft clinical light creating healing atmosphere, producing a practitioner's expertise. Captured with an 85mm portrait lens, emphasizing alternative medicine photography that's professional and calming, face in sharp focus.
+```
+
+**Prompt 102:**
+```
+A photorealistic portrait of a life coach in inspiring office setting. Set in coaching office with motivational elements blurred. The scene is illuminated by natural window light creating empowering atmosphere, producing a coach's positivity. Captured with an 85mm portrait lens, emphasizing life coaching photography that's inspiring and professional, face in sharp focus.
+```
+
+---
+
+## STYL 18: MILITARY & DEFENSE 🎖️
+
+**Zastosowanie:** Military personnel, veterans, defense
+
+---
+
+**Prompt 103:**
+```
+A photorealistic portrait of a soldier in dress uniform with medals. Set with flag and military elements blurred. The scene is illuminated by formal lighting creating respectful atmosphere, producing a soldier's honor. Captured with an 85mm portrait lens, emphasizing military photography that's dignified and patriotic, face in sharp focus.
+```
+
+**Prompt 104:**
+```
+A photorealistic close-up of a Navy sailor in uniform on ship. Set on naval vessel with ocean and equipment blurred. The scene is illuminated by maritime light creating seafaring atmosphere, producing a sailor's duty. Captured with an 85mm portrait lens, emphasizing naval photography that's professional and proud, face in sharp focus.
+```
+
+**Prompt 105:**
+```
+A photorealistic bust shot of an Air Force pilot in flight suit. Set in hangar with fighter jet and aircraft blurred. The scene is illuminated by hangar lighting creating aviation atmosphere, producing a pilot's courage. Captured with an 85mm portrait lens, emphasizing Air Force photography that's heroic and professional, face in sharp focus.
+```
+
+**Prompt 106:**
+```
+A photorealistic portrait of a veteran with flag at memorial. Set at military memorial with monuments blurred. The scene is illuminated by natural respectful light creating honorable atmosphere, producing a veteran's sacrifice. Captured with an 85mm portrait lens, emphasizing veteran photography that's respectful and dignified, face in sharp focus.
+```
+
+---
+
+## STYL 19: AUTOMOTIVE 🚗
+
+**Zastosowanie:** Auto industry professionals
+
+---
+
+**Prompt 107:**
+```
+A photorealistic portrait of a car salesman next to luxury vehicle. Set in showroom with cars and displays blurred. The scene is illuminated by showroom lighting creating sales atmosphere, producing a salesman's confidence. Captured with an 85mm portrait lens, emphasizing auto sales photography that's professional and persuasive, face in sharp focus.
+```
+
+**Prompt 108:**
+```
+A photorealistic close-up of an auto detailer polishing car finish. Set in detailing bay with car and products blurred. The scene is illuminated by work lighting creating perfectionist atmosphere, producing a detailer's precision. Captured with an 85mm portrait lens, emphasizing auto detailing photography that's meticulous and professional, face in sharp focus.
+```
+
+**Prompt 109:**
+```
+A photorealistic bust shot of a race mechanic working on race car. Set in pit garage with racing equipment and team blurred. The scene is illuminated by garage lighting creating racing atmosphere, producing a mechanic's expertise. Captured with an 85mm portrait lens, emphasizing racing photography that's technical and intense, face in sharp focus.
+```
+
+**Prompt 110:**
+```
+A photorealistic portrait of a driving instructor in car with student. Set in vehicle with road and driving elements blurred. The scene is illuminated by natural car light creating teaching atmosphere, producing an instructor's patience. Captured with an 85mm portrait lens, emphasizing driving instruction photography that's calm and professional, face in sharp focus.
+```
+
+---
+
+## STYL 20: ANIMALS & PETS PROFESSIONALS 🐕
+
+**Zastosowanie:** Animal care professionals
+
+---
+
+**Prompt 111:**
+```
+A photorealistic portrait of a dog trainer working with canine. Set in training facility with dogs and equipment blurred. The scene is illuminated by natural light creating training atmosphere, producing a trainer's connection. Captured with an 85mm portrait lens, emphasizing dog training photography that's professional and caring, face in sharp focus.
+```
+
+**Prompt 112:**
+```
+A photorealistic close-up of a pet groomer styling dog with scissors. Set in grooming salon with pet and tools blurred. The scene is illuminated by salon lighting creating grooming atmosphere, producing a groomer's skill. Captured with an 85mm portrait lens, emphasizing pet grooming photography that's gentle and professional, face in sharp focus.
+```
+
+**Prompt 113:**
+```
+A photorealistic bust shot of a zookeeper feeding exotic animal. Set in zoo with enclosure and animals blurred. The scene is illuminated by natural zoo light creating wildlife atmosphere, producing a keeper's dedication. Captured with an 85mm portrait lens, emphasizing zookeeper photography that's adventurous and caring, face in sharp focus.
+```
+
+**Prompt 114:**
+```
+A photorealistic portrait of a horse trainer with equine at stable. Set in stable or paddock with horses and barn blurred. The scene is illuminated by natural stable light creating equestrian atmosphere, producing a trainer's bond. Captured with an 85mm portrait lens, emphasizing equestrian photography that's authentic and skilled, face in sharp focus.
+```
+
+---
+
+## BONUS: UNIQUE & NICHE PROFESSIONS
+
+**Prompt 115:**
+```
+A photorealistic portrait of a mountain guide on peak with gear. Set on mountain summit with vista and climbing equipment blurred. The scene is illuminated by mountain sunlight creating adventure atmosphere, producing a guide's expertise. Captured with an 85mm portrait lens, emphasizing mountain guide photography that's rugged and experienced, face in sharp focus.
+```
+
+**Prompt 116:**
+```
+A photorealistic close-up of a sommelier at wine tasting with glass. Set in wine cellar with barrels and bottles blurred. The scene is illuminated by cellar lighting creating sophisticated atmosphere, producing a sommelier's refinement. Captured with an 85mm portrait lens, emphasizing wine expert photography that's elegant and knowledgeable, face in sharp focus.
+```
+
+**Prompt 117:**
+```
+A photorealistic bust shot of an archaeologist at dig site with artifacts. Set at excavation with ancient ruins and tools blurred. The scene is illuminated by natural site light creating discovery atmosphere, producing an archaeologist's passion. Captured with an 85mm portrait lens, emphasizing archaeology photography that's adventurous and scholarly, face in sharp focus.
+```
+
+**Prompt 118:**
+```
+A photorealistic portrait of a lighthouse keeper at historic lighthouse. Set at lighthouse with ocean and tower blurred. The scene is illuminated by lighthouse beam creating maritime atmosphere, producing a keeper's solitude. Captured with an 85mm portrait lens, emphasizing lighthouse photography that's atmospheric and unique, face in sharp focus.
+```
+
+**Prompt 119:**
+```
+A photorealistic close-up of a bomb disposal expert in protective suit. Set at safe distance with equipment and team blurred. The scene is illuminated by natural light creating tense atmosphere, producing an expert's bravery. Captured with an 85mm portrait lens, emphasizing bomb disposal photography that's intense and heroic, face in sharp focus.
+```
+
+**Prompt 120:**
+```
+A photorealistic bust shot of a wildlife photographer with camera in nature. Set in wilderness with animals and landscape blurred. The scene is illuminated by natural outdoor light creating adventurous atmosphere, producing a photographer's passion. Captured with an 85mm portrait lens, emphasizing nature photography that's authentic and dedicated, face in sharp focus.
+```
+
+---
+
+✅ **KATEGORIA 8 COMPLETE: 120 PROFESSION PROMPTS!**
+
+---
+
+# 🔢 PARY - ANNIVERSARY NUMBERS EXPANSION
+
+**Koncepcja:** Para trzyma cyfrę oznaczającą rocznicę - idealny prezent na rocznicę!
+**Total prompts:** 15
+**Zastosowanie:** Anniversary gifts, milestone celebrations, commemorative photos
+
+---
+
+## ANNIVERSARY NUMBERS - RÓŻNE STYLE
+
+**Prompt 123:**
+```
+A photorealistic portrait of a couple holding large golden number "1" between them smiling. Set against elegant backdrop with romantic elements blurred. The scene is illuminated by soft romantic lighting creating first anniversary atmosphere, producing a one year milestone moment. Captured with an 85mm portrait lens, emphasizing anniversary photography that's romantic and celebratory, faces in sharp focus.
+```
+
+**Prompt 124:**
+```
+A photorealistic close-up of a couple each holding one side of wooden number "5" outdoors. Set in nature with trees and greenery blurred beautifully. The scene is illuminated by natural golden hour creating anniversary atmosphere, producing a five years together celebration. Captured with an 85mm portrait lens, emphasizing milestone photography that's natural and genuine, faces in sharp focus.
+```
+
+**Prompt 125:**
+```
+A photorealistic bust shot of a couple with illuminated number "10" in front of them. Set in urban setting with city lights and skyline blurred. The scene is illuminated by evening lighting and glowing number creating decade atmosphere, producing a ten year milestone pride. Captured with an 85mm portrait lens, emphasizing anniversary photography that's modern and striking, faces in sharp focus.
+```
+
+**Prompt 126:**
+```
+A photorealistic portrait of a couple holding elegant floral number "15" made of flowers. Set at garden or elegant venue with florals and decor blurred. The scene is illuminated by natural soft light creating sophisticated atmosphere, producing a fifteen year elegance. Captured with an 85mm portrait lens, emphasizing floral anniversary photography that's beautiful and refined, faces in sharp focus.
+```
+
+**Prompt 127:**
+```
+A photorealistic close-up of a couple with silver metallic number "20" between them. Set in elegant formal setting with sophisticated decor blurred. The scene is illuminated by formal lighting creating milestone atmosphere, producing a twenty year achievement. Captured with an 85mm portrait lens, emphasizing anniversary photography that's elegant and commemorative, faces in sharp focus.
+```
+
+**Prompt 128:**
+```
+A photorealistic bust shot of a couple holding golden number "25" for silver anniversary. Set at celebration venue with silver decorations and elegance blurred. The scene is illuminated by warm celebration lighting creating silver anniversary atmosphere, producing a twenty-five year triumph. Captured with an 85mm portrait lens, emphasizing silver anniversary photography that's prestigious and joyful, faces in sharp focus.
+```
+
+**Prompt 129:**
+```
+A photorealistic portrait of a couple with large golden number "50" for golden anniversary. Set at anniversary party with gold decorations and family blurred. The scene is illuminated by warm golden lighting creating golden anniversary atmosphere, producing a fifty year legacy. Captured with an 85mm portrait lens, emphasizing golden anniversary photography that's dignified and celebratory, faces in sharp focus.
+```
+
+**Prompt 130:**
+```
+A photorealistic close-up of a couple playfully holding sparkler number "3". Set at evening outdoor setting with twilight and elements blurred. The scene is illuminated by sparkler glow and twilight creating playful atmosphere, producing a three year fun moment. Captured with an 85mm portrait lens, emphasizing anniversary photography that's fun and romantic, faces in sharp focus.
+```
+
+**Prompt 131:**
+```
+A photorealistic bust shot of a couple with neon light number "7" behind them. Set in modern urban setting with city and neon blurred. The scene is illuminated by neon glow creating contemporary atmosphere, producing a seven year modern celebration. Captured with an 85mm portrait lens, emphasizing modern anniversary photography that's trendy and bold, faces in sharp focus.
+```
+
+**Prompt 132:**
+```
+A photorealistic portrait of a couple holding balloon number "2" at beach sunset. Set at beach with ocean and sunset colors blurred. The scene is illuminated by warm sunset glow creating romantic atmosphere, producing a two year beach celebration. Captured with an 85mm portrait lens, emphasizing beach anniversary photography that's romantic and beautiful, faces in sharp focus.
+```
+
+**Prompt 133:**
+```
+A photorealistic close-up of a couple with wooden rustic number "4" in countryside. Set in rural landscape with barn and fields blurred. The scene is illuminated by natural daylight creating rustic atmosphere, producing a four year country charm. Captured with an 85mm portrait lens, emphasizing rustic anniversary photography that's authentic and warm, faces in sharp focus.
+```
+
+**Prompt 134:**
+```
+A photorealistic bust shot of a couple holding crystal number "30" elegantly. Set in upscale venue with luxury decor and champagne blurred. The scene is illuminated by elegant lighting creating milestone atmosphere, producing a thirty year sophistication. Captured with an 85mm portrait lens, emphasizing pearl anniversary photography that's luxurious and refined, faces in sharp focus.
+```
+
+**Prompt 135:**
+```
+A photorealistic portrait of a couple with large number "40" made of ruby red roses. Set at elegant garden or venue with flowers blurred. The scene is illuminated by soft natural light creating ruby anniversary atmosphere, producing a forty year beauty. Captured with an 85mm portrait lens, emphasizing ruby anniversary photography that's elegant and romantic, faces in sharp focus.
+```
+
+**Prompt 136:**
+```
+A photorealistic close-up of a couple each holding candles forming number "6". Set in intimate indoor setting with romantic ambiance and candlelight blurred. The scene is illuminated by candlelight creating intimate atmosphere, producing a six year romance. Captured with an 85mm portrait lens, emphasizing candlelit anniversary photography that's intimate and warm, faces in sharp focus.
+```
+
+**Prompt 137:**
+```
+A photorealistic bust shot of a couple with chalk-drawn number "8" on ground below them. Set on urban street or sidewalk with city elements blurred. The scene is illuminated by natural daylight creating creative atmosphere, producing an eight year creative celebration. Captured with an 85mm portrait lens, emphasizing creative anniversary photography that's unique and fun, faces in sharp focus.
+```
+
+---
+
+✅ **PARY ANNIVERSARY NUMBERS COMPLETE: 15 NEW PROMPTS!**
+
+---
+
+# 🎉 CATEGORIES 7 & 8 + ANNIVERSARY SUMMARY
+
+## 📊 TOTAL NEW PROMPTS ADDED:
+
+| Kategoria | Prompty | Opis |
+|-----------|---------|------|
+| **KATEGORIA 7: Z CELEBRYTAMI** | 70 | "Ty i..." z ikonami (Freddie Mercury, Einstein, Marilyn Monroe, etc.) |
+| **KATEGORIA 8: ZAWODY & PASJE** | 120 | Zawody od piekarza po astronoma - "od chuja" różnych! |
+| **PARY: Anniversary Numbers** | 15 | Para trzyma cyfry 1, 2, 3, 5, 10, 15, 20, 25, 30, 40, 50 |
+| **GRAND TOTAL** | **205** | **NEW PROMPTS!** |
+
+---
+
+## 📈 UPDATED TOTAL COUNTS:
+
+| # | Kategoria | Before | New | After | Total Styles |
+|---|-----------|--------|-----|-------|--------------|
+| 1 | 👩 KOBIETY | 317 | - | **317** | 31 |
+| 2 | 👨 FACECI | 162 | - | **162** | 19 |
+| 3 | 💑 PARY | 122 | +15 | **137** | 17 (+anniversary) |
+| 4 | 👥 PRZYJACIELE | 107 | - | **107** | 16 |
+| 5 | 👶 DZIECI | 107 | - | **107** | 16 |
+| 6 | 🐾 ZWIERZĘTA | 107 | - | **107** | 16 |
+| 7 | 🎭 **Z CELEBRYTAMI** | 0 | +70 | **70** | 10 (NEW!) |
+| 8 | 👨‍🍳 **ZAWODY & PASJE** | 0 | +120 | **120** | 20 (NEW!) |
+| | **MEGA TOTAL** | 922 | +205 | **1,127** | **145** |
+
+---
+
+## 🎭 KATEGORIA 7 BREAKDOWN (70 prompts):
+
+**10 styles po 7 celebrytów/ikon:**
+1. Music Legends (Freddie, Bowie, Elvis, Kurt, Amy, Lennon, MJ, Marley, Prince, etc.) - 10
+2. Hollywood Icons (Marilyn, Audrey, James Dean, Bogart, Grace Kelly) - 5
+3. Historical Figures (Einstein, Frida, Cleopatra, da Vinci, Curie, Napoleon, Lincoln, MLK) - 8
+4. Sports Legends (Ali, Jordan, Maradona, Serena, Pelé) - 5
+5. Pop Culture Icons (Jobs, Diana, Warhol, Dalí, Picasso, Bob Ross, Sagan) - 7
+6. Literary Icons (Hemingway, Shakespeare, Austen, Poe, Angelou) - 5
+7. Fashion Icons (Chanel, Lagerfeld, Wintour) - 3
+8. Political Leaders (JFK, Churchill, Mandela, Gandhi) - 4
+9. Explorers & Adventurers (Amelia Earhart, Neil Armstrong, Cousteau) - 3
+10. Philosophers & Thinkers (Socrates, Tesla, Turing) - 3
+BONUS: Fantasy Icons (Sherlock, Chaplin, Rosie, Mona Lisa) - 4
+MORE: (Beyoncé, Sinatra, Tupac, Cash, Hendrix, Lucy, Robin, Bruce Lee, Elon, Oprah, Malala, Ramsay, Mr Rogers) - 13
+
+---
+
+## 👨‍🍳 KATEGORIA 8 BREAKDOWN (120 prompts):
+
+**20 style categories - zawody "od chuja":**
+1. Culinary Arts (baker, pastry chef, chef, barista, chocolatier, sommelier, pizzaiolo, butcher) - 8
+2. Medical & Healthcare (doctor, nurse, surgeon, dentist, paramedic, pharmacist, vet, therapist) - 8
+3. Emergency Services (firefighter, police, lifeguard, coast guard) - 4
+4. Construction & Trades (worker, mechanic, electrician, carpenter, plumber, welder, painter, mason) - 8
+5. Aviation & Transportation (pilot, flight attendant, train engineer, ship captain, trucker, race driver) - 6
+6. Education & Teaching (teacher, professor, kindergarten, personal trainer, music teacher, dance instructor) - 6
+7. Creative Arts (painter, sculptor, photographer, designer, tattoo artist, jeweler, florist, potter) - 8
+8. Fashion & Beauty (hairstylist, makeup artist, barber, fashion designer, nail tech, model) - 6
+9. Science & Technology (scientist, developer, chemist, engineer, data analyst, astronomer) - 6
+10. Entertainment (actor, musician, dancer, comedian, singer, magician, circus, DJ) - 8
+11. Business & Professional (lawyer, accountant, architect, real estate, banker, insurance) - 6
+12. Sports & Fitness (trainer, yoga instructor, boxing coach, soccer coach, martial arts, swim coach) - 6
+13. Agriculture & Outdoors (farmer, rancher, vintner, beekeeper, fisherman, park ranger) - 6
+14. Hospitality & Service (concierge, waiter, bartender, tour guide) - 4
+15. Media & Journalism (reporter, TV anchor, radio host, photojournalist) - 4
+16. Retail & Sales (boutique owner, bookstore clerk, jeweler, florist) - 4
+17. Spiritual & Wellness (meditation instructor, massage therapist, acupuncturist, life coach) - 4
+18. Military & Defense (soldier, Navy sailor, Air Force pilot, veteran) - 4
+19. Automotive (car salesman, auto detailer, race mechanic, driving instructor) - 4
+20. Animals & Pets (dog trainer, pet groomer, zookeeper, horse trainer) - 4
+BONUS: Unique Professions (mountain guide, sommelier, archaeologist, lighthouse keeper, bomb disposal, wildlife photographer) - 6
+
+---
+
+## 🔢 PARY ANNIVERSARY NUMBERS (15 prompts):
+
+Numbers included: 1, 2, 3, 4, 5, 6, 7, 8, 10, 15, 20, 25, 30, 40, 50
+Styles: golden numbers, wooden, illuminated, floral, metallic, sparklers, neon, balloons, rustic, crystal, roses, candles, chalk
+
+---
+
+**GRAND TOTAL: 1,127 PROMPTS!** 🚀🔥
+
+**All 100% Nano Banana optimized for Gemini 2.5 Flash Image!**
+
+---
