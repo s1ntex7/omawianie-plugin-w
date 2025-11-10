@@ -83,20 +83,101 @@
 
 **KLUCZOWA ZASADA:** Pierwsze zdanie jest ALWAYS widoczne - to hook!
 
-### Kategorie emocji:
+**WASZ STYL (z analizy 13 postów):**
+- ✅ **KRÓTKIE** - często 2-5 słów
+- ✅ **OSTRE** - bez zbędnych słów, konkretne
+- ✅ **MĘSKIE** - mocny, pewny ton
+- ✅ **MINIMAL EMOJI** - głównie 🔥 dla nowości/hot content
+- ✅ **BEZ PRZESADY** - poważny ale z mrugnięciem oka
 
-#### 1. **CIEKAWE** (intrygujące, educate)
-Cel: Wzbudzić ciekawość, dać wartość
+---
+
+### 📊 PRAWDZIWE PRZYKŁADY Z WASZYCH POSTÓW:
+
+**Ultra krótkie (2-3 słowa):**
+- "Master Gold."
+- "DBX Ninja."
+- "Pokaż kły."
+- "ProFighter Bordeaux."
+
+**Krótkie z kontekstem (4-8 słów):**
+- "Dobrze się dobić na worku."
+- "Brzmi jak zagranie szachowe, ale gość leży."
+- "ProFighter, gdy anatomia pięści spotyka brutalną siłę."
+
+**Event/announcement:**
+- "Kolejna gala - 28 listopada, Będzin."
+- "Puchar Polski Street Workout 2025. 🔥"
+
+---
+
+### Kategorie emocji (ZAKTUALIZOWANE waszym stylem):
+
+#### 1. **ULTRA KRÓTKIE** (product focus, minimalistyczne)
+Cel: Nazwa produktu/akcji, zero bełkotu
 
 ```
-"Wiesz dlaczego zawodowcy UFC wybierają rękawice z wkładkami DBX-Roll?"
-"3 sekundy różnicy między amatorską a profesjonalną ochroną głowy."
-"Każdy mistrz zaczynał jako amator, który zadał sobie jedno pytanie..."
-"20 lat temu postawiliśmy sobie jedno wyzwanie: stworzyć niezniszczalny worek."
-"Testowaliśmy ten produkt przez 6 miesięcy. Przetrwał."
+"Master Gold."
+"ProFighter Bordeaux."
+"DBX Ninja."
+"Hammer Series."
+"Nowa kolekcja."
+"Train hard."
+"Pokaż kły."
+"Bez kompromisów."
+"20 lat doświadczenia."
+"Polski sprzęt."
 ```
 
-#### 2. **PROWOKUJĄCE** (z klasą, bez agresji)
+#### 2. **KRÓTKIE Z HUMOREM** (subtelny, inteligentny)
+Cel: Mrugnięcie okiem, ale z klasą
+
+```
+"Brzmi jak zagranie szachowe, ale gość leży."
+"Dobrze się dobić na worku."
+"Ruch, który ratuje twarz."
+"Twój worek przeżył więcej niż Twoje postanowienia."
+"Ring nie pamięta wymówek."
+"Najtańsze rękawice kosztują Cię najdrożej."
+"Jeśli worek pachnie - czas na zmiany."
+"Polski produkt. Żadnych wymówek."
+"Trening nie czeka. Sprzęt gotowy."
+"Bez stresu. Bez błędów. Tylko refleks."
+```
+
+#### 3. **TECHNICZNE** (edukacyjne, wartość)
+Cel: Pokaz expertise, give value
+
+```
+"ProFighter, gdy anatomia pięści spotyka brutalną siłę."
+"Dlaczego wkładka DBX-Roll zmienia wszystko?"
+"7 warstw ochrony. Każda ma swoją rolę."
+"Różnica między treningowymi a sparingowymi? 90% nie wie."
+"Technologia z UFC. Dostępna dla każdego."
+"System stabilizacji nadgarstka - podwójne zapięcie na rzep."
+"Pianka Polygonal Fusion - anatomicznie formowana."
+"Wzmocniona konstrukcja PU + tkanina Blacktop."
+"Skuteczna ochrona górnej szczęki - grubsza konstrukcja."
+"Testowane przez zawodowców. Polecane dla każdego."
+```
+
+#### 4. **PROWOKUJĄCE** (z klasą, mocne)
+Cel: Zatrzymać scroll, strong statement
+
+```
+"Pokaż kły."
+"W ringu nie ma miejsca na kompromisy."
+"Amatorzy kupują sprzęt. Profesjonaliści inwestują."
+"Jeśli Twój sprzęt nie przeszedł testów UFC, to Ty jesteś testem."
+"Mistrzostwo to suma małych decyzji."
+"Nie każdy worek wytrzyma Twój trening."
+"Twój sprzęt powinien wytrzymać dłużej niż wymówki."
+"Polski produkt. Światowy standard."
+"Nie produkujemy wystarczająco dobrze. Produkujemy najlepiej."
+"Ręcznie szyte. Testowane brutalnie."
+```
+
+#### 5. **MOTYWUJĄCE** (energia, Train Hard Hit Harder)
 Cel: Zatrzymać scroll, wywołać reakcję, ale premium
 
 ```
