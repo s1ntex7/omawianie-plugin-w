@@ -1,0 +1,182 @@
+# ============================================================================
+# CARGO.TOML ADDITIONS FOR APLIKACJA 4.0
+# ============================================================================
+# Purpose: All dependencies needed for 18 plugins + shared modules
+# Instructions: Copy sections below and add to src-tauri/Cargo.toml
+# ============================================================================
+
+[dependencies]
+# ============================================================================
+# EXISTING DEPENDENCIES (already in Aplikacja 3.0 - KEEP THESE!)
+# ============================================================================
+tauri = { version = "2.3.1", features = ["tray-icon", "protocol-asset"] }
+tauri-plugin-shell = "2"
+tauri-plugin-dialog = "2"
+tauri-plugin-fs = "2"
+tauri-plugin-global-shortcut = "2"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tokio = { version = "1", features = ["full"] }
+reqwest = { version = "0.12", features = ["json"] }
+rdev = "0.5.3"                   # Keyboard listener (text expansion)
+screenshots = "0.10"             # Screen capture
+image = "0.25"                   # Image processing
+arboard = "3.4.1"               # Clipboard access
+once_cell = "1.20"              # Static initialization
+tracing = "0.1"                 # Logging
+tracing-subscriber = "0.3"      # Logging subscriber
+
+# ============================================================================
+# NEW: SHARED MODULES
+# ============================================================================
+
+# Overlay Manager (egui + eframe for native overlays)
+egui = "0.29.1"
+eframe = "0.29.1"
+
+# Storage Engine (SQLite with full-text search)
+rusqlite = { version = "0.32", features = ["bundled", "chrono"] }
+chrono = "0.4"
+
+# File Processor (filesystem watching)
+notify = "6.1"
+
+# ============================================================================
+# NEW: PLUGIN-SPECIFIC DEPENDENCIES
+# ============================================================================
+
+# QR Generator
+qrcode = "0.14"
+base64 = "0.22"
+
+# Image Resizer / File Converter (imageproc for annotations)
+imageproc = "0.25"
+
+# OCR (optional - tesseract)
+# tesseract = "0.14"  # Uncomment if using local Tesseract
+
+# System Tray (Audio Switcher)
+tray-icon = "0.14"
+
+# URL Shortener (HTTP client already via reqwest)
+
+# Screen Recorder (no additional deps - uses ffmpeg CLI)
+
+# Browser Bridge (no additional deps - uses stdin/stdout)
+
+# ============================================================================
+# PLATFORM-SPECIFIC DEPENDENCIES
+# ============================================================================
+
+[target.'cfg(windows)'.dependencies]
+windows = { version = "0.58", features = [
+    # Core
+    "Win32_Foundation",
+    "Win32_System_Com",
+
+    # Window Management (Desk Pins, Window Manager)
+    "Win32_UI_WindowsAndMessaging",
+
+    # Audio Switcher
+    "Win32_Media_Audio",
+
+    # Additional features (add as needed)
+    # "Win32_Graphics_Gdi",           # For GDI operations
+    # "Win32_System_Threading",       # For process management
+]}
+
+[target.'cfg(target_os = "macos")'.dependencies]
+# Audio Switcher (macOS)
+coreaudio-rs = "0.11"
+cocoa = "0.25"
+
+# Core Graphics (for Color Picker, Screenshot Tool)
+core-graphics = "0.23"
+
+[target.'cfg(target_os = "linux")'.dependencies]
+# Audio Switcher (Linux PulseAudio)
+libpulse-binding = "2.28"
+
+# X11 (for window management, color picking)
+x11rb = "0.13"
+
+# ============================================================================
+# DEV DEPENDENCIES (for testing)
+# ============================================================================
+
+[dev-dependencies]
+criterion = "0.5"  # Benchmarking
+
+# ============================================================================
+# BUILD SETTINGS
+# ============================================================================
+
+[profile.release]
+opt-level = 3           # Maximum optimization
+lto = true              # Link-time optimization (slower build, faster runtime)
+codegen-units = 1       # Better optimization (slower build)
+strip = true            # Strip debug symbols (smaller binary)
+panic = "abort"         # Smaller binary size
+
+[profile.dev]
+opt-level = 0           # Fast compilation
+incremental = true      # Faster rebuilds
+
+# ============================================================================
+# BINARY TARGETS (for standalone tools)
+# ============================================================================
+
+[[bin]]
+name = "overlay_egui"
+path = "bin/overlay_egui.rs"
+required-features = []
+
+# Add more binaries as needed:
+# [[bin]]
+# name = "test_screenshot"
+# path = "bin/test_screenshot.rs"
+
+# ============================================================================
+# NOTES FOR TERMINAL AGENT
+# ============================================================================
+#
+# 1. Copy relevant sections to src-tauri/Cargo.toml
+#
+# 2. Keep existing dependencies! Don't remove anything already there.
+#
+# 3. After adding dependencies, run:
+#    ```bash
+#    cd src-tauri
+#    cargo check
+#    ```
+#    This will download and compile all crates (~5-10 minutes first time).
+#
+# 4. If you get version conflicts:
+#    - Check existing Cargo.toml for version numbers
+#    - Use `cargo update` to resolve conflicts
+#    - Prefer newer versions if compatible
+#
+# 5. Platform-specific deps are only compiled on that platform:
+#    - windows deps: Only on Windows
+#    - macos deps: Only on macOS
+#    - linux deps: Only on Linux
+#
+# 6. Optional dependencies (commented out):
+#    - Uncomment only when implementing that specific feature
+#    - Example: Uncomment `tesseract` when implementing OCR plugin
+#
+# 7. Build profiles:
+#    - `cargo build` → uses [profile.dev] (fast, unoptimized)
+#    - `cargo build --release` → uses [profile.release] (slow build, fast runtime)
+#    - Always test with `--release` before production!
+#
+# 8. Binary targets:
+#    - `overlay_egui` is for Screenshot Tool POC testing
+#    - Run with: `cargo run --bin overlay_egui`
+#
+# 9. Troubleshooting:
+#    - "Failed to compile X": Check version compatibility, try updating
+#    - "Linker error": May need additional system libraries (see plugin docs)
+#    - "Out of memory": Close other apps, use `--release` mode
+#
+# ============================================================================
