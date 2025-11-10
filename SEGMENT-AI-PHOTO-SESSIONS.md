@@ -2649,3 +2649,714 @@ A photorealistic portrait of friends having deep conversation on porch or outdoo
 ---
 
 ✅ **KATEGORIA PRZYJACIELE COMPLETE: 50 PROMPTS** ✅
+
+---
+---
+---
+
+# 👶 KATEGORIA 5: DZIECI (CHILDREN)
+
+**Total prompts w tej kategorii: 50**
+
+---
+
+## STYL 1: NEWBORN & BABY 👶
+
+**Zastosowanie:** Newborn photography, infant portraits, milestone photos
+
+---
+
+**Prompt 1:**
+```
+A photorealistic close-up portrait of a newborn baby sleeping peacefully, tiny features and delicate skin visible. Set on soft white blankets with minimal neutral background. The scene is illuminated by soft natural window light creating gentle atmosphere, producing a tender precious mood. Captured with an 85mm portrait lens, emphasizing newborn photography that's soft and heartwarming, face in sharp focus.
+```
+
+**Prompt 2:**
+```
+A photorealistic bust shot of a baby around 6 months old sitting supported, big curious eyes looking at camera. Set against a simple clean background with soft textures. The scene is illuminated by bright soft natural light creating fresh cheerful atmosphere, producing a sweet innocent vibe. Captured with an 85mm portrait lens at baby's eye level, emphasizing milestone baby photography that's genuine and adorable, face in sharp focus.
+```
+
+**Prompt 3:**
+```
+A photorealistic portrait of a toddler around 1-2 years old with genuine smile, showing personality and joy. Set in simple home environment or neutral backdrop. The scene is illuminated by natural window light creating warm authentic atmosphere, producing a playful happy mood. Captured with an 85mm portrait lens, emphasizing toddler portrait that's natural and joyful, face in sharp focus.
+```
+
+**Prompt 4:**
+```
+A photorealistic close-up of a baby laughing genuinely, pure joy and wonder captured on face. Set against soft neutral background. The scene is illuminated by bright natural light creating happy atmosphere, producing an authentic joyful moment. Captured with an 85mm portrait lens, emphasizing candid baby photography that's heartwarming and real, face in sharp focus.
+```
+
+**Prompt 5:**
+```
+A photorealistic bust shot of a baby in cute outfit - knit sweater or simple onesie, curious expression. Set on clean white or cream background. The scene is illuminated by soft even studio lighting creating clean professional atmosphere, producing a timeless baby portrait mood. Captured with an 85mm portrait lens, emphasizing classic baby photography that's polished and sweet, face in sharp focus.
+```
+
+---
+
+## STYL 2: PLAYFUL KIDS 🎈
+
+**Zastosowanie:** Children playing, fun moments, energetic portraits
+
+---
+
+**Prompt 6:**
+```
+A photorealistic portrait of a child around 3-5 years old playing with toys, genuine engagement and concentration. Set in colorful playroom with toys blurred around. The scene is illuminated by bright natural light creating vibrant playful atmosphere, producing an authentic childhood mood. Captured with an 85mm portrait lens candidly, emphasizing documentary child photography that's natural and joyful, face in sharp focus.
+```
+
+**Prompt 7:**
+```
+A photorealistic close-up of a child laughing while playing, pure happiness and energy captured mid-moment. Set in outdoor playground or park with play equipment blurred behind. The scene is illuminated by natural daylight creating bright cheerful atmosphere, producing a fun energetic vibe. Captured with an 85mm portrait lens with fast shutter, emphasizing action child photography that's dynamic and genuine, face in sharp focus.
+```
+
+**Prompt 8:**
+```
+A photorealistic bust shot of a child blowing bubbles, concentrated expression with bubbles floating around. Set in outdoor garden or park with greenery blurred behind. The scene is illuminated by golden hour sunlight creating magical atmosphere, producing a whimsical playful mood. Captured with an 85mm portrait lens, emphasizing childhood play photography that's enchanting and sweet, face in sharp focus.
+```
+
+**Prompt 9:**
+```
+A photorealistic portrait of a child on swing or slide, mid-play with joyful expression. Set at playground with equipment and park blurred around. The scene is illuminated by bright natural daylight creating active outdoor atmosphere, producing a carefree childhood vibe. Captured with an 85mm portrait lens, emphasizing playground child photography that's energetic and authentic, face in sharp focus.
+```
+
+**Prompt 10:**
+```
+A photorealistic close-up of a child making funny face or silly expression, personality shining through. Set against simple background. The scene is illuminated by natural light creating playful atmosphere, producing a genuine character moment. Captured with an 85mm portrait lens, emphasizing candid personality child portrait that's fun and real, face in sharp focus.
+```
+
+---
+
+## STYL 3: OUTDOOR NATURE 🌳
+
+**Zastosowanie:** Children in nature, outdoor portraits, natural settings
+
+---
+
+**Prompt 11:**
+```
+A photorealistic portrait of a child in autumn park, playing with fallen leaves with joy. Set among colorful fall foliage blurred softly around. The scene is illuminated by golden autumn sunlight filtering through trees, creating a warm seasonal atmosphere. Captured with an 85mm portrait lens, emphasizing autumn child photography that's magical and nostalgic, face in sharp focus.
+```
+
+**Prompt 12:**
+```
+A photorealistic close-up of a child picking flowers in meadow, concentrated gentle expression. Set in wildflower field with blooms blurred beautifully around. The scene is illuminated by soft natural sunlight creating dreamy atmosphere, producing a peaceful natural mood. Captured with an 85mm portrait lens with bokeh, emphasizing nature child portrait that's serene and beautiful, face in sharp focus.
+```
+
+**Prompt 13:**
+```
+A photorealistic bust shot of a child on beach, building sandcastle or playing with sand. Set at beach with ocean and sky blurred in background. The scene is illuminated by bright summer sunlight creating vibrant coastal atmosphere, producing a carefree vacation vibe. Captured with an 85mm portrait lens, emphasizing beach child photography that's joyful and fresh, face in sharp focus.
+```
+
+**Prompt 14:**
+```
+A photorealistic portrait of a child running through grass field, hair flowing with movement and genuine smile. Set in open meadow with grass and wildflowers blurred around. The scene is illuminated by golden hour creating warm glowing atmosphere, producing a free-spirited childhood mood. Captured with an 85mm portrait lens with motion, emphasizing outdoor child action that's dynamic and beautiful, face in sharp focus.
+```
+
+**Prompt 15:**
+```
+A photorealistic close-up of a child examining nature - looking at butterfly, flower, or leaf with wonder. Set in garden or park with greenery blurred behind. The scene is illuminated by soft natural daylight creating curious exploration atmosphere, producing a discovery learning vibe. Captured with an 85mm portrait lens, emphasizing nature discovery child moment that's genuine and educational, face in sharp focus.
+```
+
+---
+
+## STYL 4: CREATIVE & ARTISTIC 🎨
+
+**Zastosowanie:** Creative activities, artistic child portraits, expressive photos
+
+---
+
+**Prompt 16:**
+```
+A photorealistic portrait of a child painting or drawing, creative concentration with art supplies visible. Set at art table or studio with colorful artwork blurred around. The scene is illuminated by natural window light creating authentic creative atmosphere, producing an artistic learning mood. Captured with an 85mm portrait lens, emphasizing creative child photography that's genuine and inspiring, face in sharp focus.
+```
+
+**Prompt 17:**
+```
+A photorealistic close-up of a child in dance or ballet pose, graceful movement and concentration. Set in dance studio with mirrors and barre blurred behind. The scene is illuminated by soft studio lighting creating elegant atmosphere, producing an artistic performance vibe. Captured with an 85mm portrait lens, emphasizing dance child portrait that's beautiful and expressive, face in sharp focus.
+```
+
+**Prompt 18:**
+```
+A photorealistic bust shot of a child dressed in costume for imaginative play - superhero, princess, or character. Set in simple home environment with props blurred around. The scene is illuminated by natural light creating playful creative atmosphere, producing an imaginative storytelling mood. Captured with an 85mm portrait lens, emphasizing dress-up child photography that's whimsical and fun, face in sharp focus.
+```
+
+**Prompt 19:**
+```
+A photorealistic portrait of a child playing musical instrument - small violin, keyboard, or drums. Set in music room or home with instrument and learning materials blurred behind. The scene is illuminated by warm natural light creating passionate learning atmosphere, producing an artistic education vibe. Captured with an 85mm portrait lens, emphasizing music child portrait that's authentic and inspiring, face in sharp focus.
+```
+
+**Prompt 20:**
+```
+A photorealistic close-up of a child in dramatic black and white, expressive artistic portrait. Set against minimal dark background. The scene is illuminated by single directional light creating artistic shadows, producing a fine art mood. Captured with an 85mm portrait lens in black and white, emphasizing fine art child photography that's timeless and striking, face in sharp focus with high contrast.
+```
+
+---
+
+## STYL 5: SCHOOL & LEARNING 📚
+
+**Zastosowanie:** Back to school, learning moments, educational settings
+
+---
+
+**Prompt 21:**
+```
+A photorealistic portrait of a child with backpack ready for school, excited or nervous expression. Set at home doorway or school entrance with environment blurred behind. The scene is illuminated by natural morning light creating authentic back-to-school atmosphere, producing a milestone educational mood. Captured with an 85mm portrait lens, emphasizing school child photography that's genuine and memorable, face in sharp focus.
+```
+
+**Prompt 22:**
+```
+A photorealistic close-up of a child reading book, concentrated expression with book held up. Set in library, classroom, or reading nook with books blurred around. The scene is illuminated by soft natural reading light creating focused learning atmosphere, producing a studious peaceful vibe. Captured with an 85mm portrait lens, emphasizing reading child portrait that's educational and calm, face in sharp focus.
+```
+
+**Prompt 23:**
+```
+A photorealistic bust shot of a child doing homework or craft project at desk, focused concentration. Set at study table with school supplies and learning materials blurred around. The scene is illuminated by desk lamp and natural window light creating productive atmosphere, producing a learning development mood. Captured with an 85mm portrait lens, emphasizing study child photography that's authentic and relatable, face in sharp focus.
+```
+
+**Prompt 24:**
+```
+A photorealistic portrait of a child in school uniform or first-day outfit, proud confident expression. Set against simple school or home background. The scene is illuminated by bright natural light creating fresh optimistic atmosphere, producing a milestone achievement vibe. Captured with an 85mm portrait lens, emphasizing school portrait child photography that's classic and polished, face in sharp focus.
+```
+
+**Prompt 25:**
+```
+A photorealistic close-up of a child with graduation cap or academic achievement props, celebrating success. Set at school or home with educational elements blurred behind. The scene is illuminated by natural light creating proud celebration atmosphere, producing a triumphant learning mood. Captured with an 85mm portrait lens, emphasizing academic achievement child moment that's joyful and significant, face in sharp focus.
+```
+
+---
+
+## STYL 6: SEASONAL & HOLIDAYS 🎄
+
+**Zastosowanie:** Holiday photos, seasonal child portraits, festive moments
+
+---
+
+**Prompt 26:**
+```
+A photorealistic portrait of a child in cozy winter wear - knit hat and scarf, snow falling around. Set in winter landscape with snow and trees blurred behind. The scene is illuminated by soft winter daylight creating magical seasonal atmosphere, producing a warm cozy holiday mood. Captured with an 85mm portrait lens, emphasizing winter child photography that's enchanting and festive, face in sharp focus.
+```
+
+**Prompt 27:**
+```
+A photorealistic close-up of a child holding Christmas present with excited expression, wonder in eyes. Set near Christmas tree with lights and decorations blurred behind. The scene is illuminated by warm twinkle lights and natural light creating festive atmosphere, producing a joyful holiday magic vibe. Captured with an 85mm portrait lens, emphasizing Christmas child moment that's heartwarming and magical, face in sharp focus.
+```
+
+**Prompt 28:**
+```
+A photorealistic bust shot of a child in Halloween costume trick-or-treating, happy excited expression. Set at decorated porch or Halloween setting with decorations blurred around. The scene is illuminated by evening porch lights creating festive spooky atmosphere, producing a fun Halloween celebration mood. Captured with an 85mm portrait lens, emphasizing Halloween child photography that's playful and seasonal, face in sharp focus.
+```
+
+**Prompt 29:**
+```
+A photorealistic portrait of a child at Easter egg hunt, finding eggs with delight. Set in spring garden with flowers and Easter decorations blurred behind. The scene is illuminated by soft spring sunlight creating fresh seasonal atmosphere, producing a joyful spring celebration vibe. Captured with an 85mm portrait lens, emphasizing Easter child moment that's sweet and festive, face in sharp focus.
+```
+
+**Prompt 30:**
+```
+A photorealistic close-up of a child at summer celebration - Fourth of July or summer party. Set at outdoor party with decorations and summer elements blurred around. The scene is illuminated by golden hour summer light creating vibrant festive atmosphere, producing a joyful summer holiday mood. Captured with an 85mm portrait lens, emphasizing summer celebration child photography that's cheerful and bright, face in sharp focus.
+```
+
+---
+
+## STYL 7: LIFESTYLE HOME 🏠
+
+**Zastosowanie:** Everyday moments, home life, candid family photos
+
+---
+
+**Prompt 31:**
+```
+A photorealistic portrait of a child baking or cooking with parent, flour on face with joyful expression. Set in bright kitchen with baking ingredients and utensils blurred around. The scene is illuminated by natural kitchen window light creating warm domestic atmosphere, producing an authentic family bonding mood. Captured with an 85mm portrait lens candidly, emphasizing lifestyle cooking child moment that's genuine and heartwarming, face in sharp focus.
+```
+
+**Prompt 32:**
+```
+A photorealistic close-up of a child waking up in morning, sleepy sweet expression in bed. Set in bedroom with soft bedding and morning light. The scene is illuminated by gentle morning sunlight streaming through window creating peaceful atmosphere, producing a tender morning moment vibe. Captured with an 85mm portrait lens, emphasizing morning child photography that's soft and intimate, face in sharp focus.
+```
+
+**Prompt 33:**
+```
+A photorealistic bust shot of a child playing with pet - dog or cat, gentle loving interaction. Set in home living room or yard with pet and home elements blurred around. The scene is illuminated by natural light creating warm authentic atmosphere, producing a loving companionship mood. Captured with an 85mm portrait lens, emphasizing child-pet photography that's genuine and sweet, face in sharp focus.
+```
+
+**Prompt 34:**
+```
+A photorealistic portrait of a child helping with household chores - folding laundry or tidying, concentrated helpful expression. Set in home environment with domestic elements blurred behind. The scene is illuminated by natural home lighting creating authentic everyday atmosphere, producing a learning responsibility vibe. Captured with an 85mm portrait lens, emphasizing lifestyle child moment that's real and relatable, face in sharp focus.
+```
+
+**Prompt 35:**
+```
+A photorealistic close-up of a child watching TV or playing video game, relaxed entertainment expression. Set on couch in living room with home decor blurred around. The scene is illuminated by ambient room and screen light creating cozy downtime atmosphere, producing a modern childhood leisure mood. Captured with an 85mm portrait lens, emphasizing everyday child life that's authentic and contemporary, face in sharp focus.
+```
+
+---
+
+## STYL 8: FORMAL & PORTRAIT 👔
+
+**Zastosowanie:** Formal portraits, professional child photos, special occasions
+
+---
+
+**Prompt 36:**
+```
+A photorealistic portrait of a child in formal dress-up outfit - suit, dress, or Sunday best. Set against a clean neutral studio background. The scene is illuminated by professional studio lighting creating polished atmosphere, producing a classic formal portrait mood. Captured with an 85mm portrait lens, emphasizing traditional child portrait photography that's timeless and refined, face in sharp focus.
+```
+
+**Prompt 37:**
+```
+A photorealistic close-up of a child in First Communion or religious ceremony outfit, reverent peaceful expression. Set in church or formal venue with soft religious decor blurred behind. The scene is illuminated by soft natural church lighting creating sacred atmosphere, producing a spiritual milestone mood. Captured with an 85mm portrait lens, emphasizing religious ceremony child portrait that's meaningful and beautiful, face in sharp focus.
+```
+
+**Prompt 38:**
+```
+A photorealistic bust shot of a child in birthday party formal wear, celebrating special occasion. Set at party venue with elegant decorations blurred behind. The scene is illuminated by warm party lighting creating celebratory atmosphere, producing a joyful formal celebration vibe. Captured with an 85mm portrait lens, emphasizing birthday formal child photography that's festive and special, face in sharp focus.
+```
+
+**Prompt 39:**
+```
+A photorealistic portrait of a child in cultural traditional outfit - ethnic dress or ceremonial clothing. Set against appropriate cultural backdrop. The scene is illuminated by natural or studio lighting creating respectful cultural atmosphere, producing a heritage celebration mood. Captured with an 85mm portrait lens, emphasizing cultural child portrait that's authentic and meaningful, face in sharp focus.
+```
+
+**Prompt 40:**
+```
+A photorealistic close-up of a child in dance recital or performance costume, pre-show nervous excitement. Set backstage or at venue with performance elements blurred behind. The scene is illuminated by stage or dressing room lighting creating anticipatory atmosphere, producing a performance milestone vibe. Captured with an 85mm portrait lens, emphasizing performance child moment that's authentic and memorable, face in sharp focus.
+```
+
+---
+
+## STYL 9: STUDIO PROFESSIONAL 📸
+
+**Zastosowanie:** Clean studio backgrounds, professional child portraits
+
+---
+
+**Prompt 41:**
+```
+A photorealistic portrait of a child against pure white seamless background, simple casual outfit. The scene is illuminated by bright even studio lighting with no shadows creating clean minimal aesthetic. Captured with an 85mm portrait lens at child's eye level, emphasizing high-key child photography that's fresh and professional, face in sharp focus.
+```
+
+**Prompt 42:**
+```
+A photorealistic close-up of a child against dark grey studio backdrop, wearing neutral clothing. The scene is illuminated by subtle studio lighting with soft shadows creating sophisticated atmosphere. Captured with an 85mm portrait lens, emphasizing contemporary studio child portrait that's refined and artistic, face in sharp focus.
+```
+
+**Prompt 43:**
+```
+A photorealistic bust shot of a child against vibrant colored background - soft pastels or bold colors. The scene is illuminated by professional studio lighting creating cheerful modern atmosphere. Captured with an 85mm portrait lens with saturated colors, emphasizing colorful studio child photography that's playful and eye-catching, face in sharp focus.
+```
+
+**Prompt 44:**
+```
+A photorealistic portrait of a child in black and white studio setting, classic timeless composition. The scene is illuminated by soft directional lighting creating gentle shadows and artistic mood. Captured with an 85mm portrait lens in black and white, emphasizing fine art child studio portrait that's elegant and timeless, face in sharp focus with classic contrast.
+```
+
+**Prompt 45:**
+```
+A photorealistic close-up of a child against textured studio backdrop - soft fabric or natural material. The scene is illuminated by natural-looking studio light creating warm authentic atmosphere. Captured with an 85mm portrait lens with shallow depth of field, emphasizing textured studio child portrait that's contemporary and soft, face in sharp focus.
+```
+
+---
+
+## STYL 10: CANDID DOCUMENTARY 📷
+
+**Zastosowanie:** Real moments, unposed, authentic childhood
+
+---
+
+**Prompt 46:**
+```
+A photorealistic portrait of a child in mid-laugh during play, pure genuine joy captured spontaneously. Set in everyday environment with natural blur around. The scene is illuminated by available natural light creating authentic atmosphere. Captured with an 85mm portrait lens candidly without direction, emphasizing documentary child photography that's honest and joyful, face in sharp focus.
+```
+
+**Prompt 47:**
+```
+A photorealistic close-up of a child concentrating on task or exploration, natural focused expression. Set in home or outdoor environment with context blurred behind. The scene is illuminated by natural environmental lighting creating genuine atmosphere. Captured with an 85mm portrait lens unobtrusively, emphasizing candid child moment that's real and authentic, face in sharp focus.
+```
+
+**Prompt 48:**
+```
+A photorealistic bust shot of a child interacting with siblings or friends, natural social moment. Set in playroom or outdoor space with play elements blurred around. The scene is illuminated by natural daylight creating authentic interaction atmosphere. Captured with an 85mm portrait lens in documentary style, emphasizing lifestyle child social photography that's genuine and heartwarming, face in sharp focus.
+```
+
+**Prompt 49:**
+```
+A photorealistic portrait of a child discovering something new, wonder and curiosity on face. Set in natural exploration environment with discovery context blurred behind. The scene is illuminated by soft natural light creating magical discovery atmosphere. Captured with an 85mm portrait lens, emphasizing childhood wonder moment that's authentic and precious, face in sharp focus.
+```
+
+**Prompt 50:**
+```
+A photorealistic close-up of a child in quiet peaceful moment - thinking, daydreaming, or resting. Set in comfortable familiar environment with soft blur around. The scene is illuminated by gentle natural light creating serene contemplative atmosphere. Captured with an 85mm portrait lens quietly, emphasizing intimate child moment that's tender and real, face in sharp focus.
+```
+
+---
+
+✅ **KATEGORIA DZIECI COMPLETE: 50 PROMPTS** ✅
+
+---
+---
+---
+
+# 🐾 KATEGORIA 6: ZWIERZĘTA (ANIMALS/PETS)
+
+**Total prompts w tej kategorii: 50**
+
+---
+
+## STYL 1: DOGS 🐕
+
+**Zastosowanie:** Dog portraits, pet photography, canine portraits
+
+---
+
+**Prompt 1:**
+```
+A photorealistic close-up portrait of a golden retriever or labrador with friendly expression, tongue out happily. Set in outdoor park or yard with greenery blurred behind. The scene is illuminated by natural daylight creating warm cheerful atmosphere, producing a joyful playful dog mood. Captured with an 85mm portrait lens at dog's eye level, emphasizing dog portrait photography that's genuine and happy, face in sharp focus with beautiful eyes.
+```
+
+**Prompt 2:**
+```
+A photorealistic bust shot of a husky or shepherd with alert intelligent expression, ears perked. Set against a simple neutral background. The scene is illuminated by soft natural light creating clean professional atmosphere, producing a noble dignified dog presence. Captured with an 85mm portrait lens, emphasizing professional dog portrait that's striking and characterful, face in sharp focus.
+```
+
+**Prompt 3:**
+```
+A photorealistic portrait of a small dog - terrier, chihuahua, or pom with curious expression. Set in cozy home environment with furniture blurred behind. The scene is illuminated by natural window light creating warm domestic atmosphere, producing an adorable pet personality. Captured with an 85mm portrait lens, emphasizing small dog photography that's cute and genuine, face in sharp focus.
+```
+
+**Prompt 4:**
+```
+A photorealistic close-up of a puppy with big innocent eyes, sweet expression. Set on soft blanket or neutral surface. The scene is illuminated by soft diffused light creating gentle tender atmosphere, producing a precious baby dog mood. Captured with an 85mm portrait lens, emphasizing puppy portrait that's heartwarming and adorable, face in sharp focus with soft features.
+```
+
+**Prompt 5:**
+```
+A photorealistic bust shot of a working breed dog - border collie, cattle dog in alert pose. Set in outdoor field or farm with landscape blurred behind. The scene is illuminated by bright natural daylight creating active working atmosphere, producing an intelligent energetic dog presence. Captured with an 85mm portrait lens, emphasizing working dog photography that's authentic and powerful, face in sharp focus.
+```
+
+---
+
+## STYL 2: CATS 🐱
+
+**Zastosowanie:** Cat portraits, feline photography, kitty photos
+
+---
+
+**Prompt 6:**
+```
+A photorealistic close-up portrait of a domestic cat with striking eyes looking directly at camera. Set against simple neutral background. The scene is illuminated by soft natural light creating mysterious elegant atmosphere, producing a captivating feline presence. Captured with an 85mm portrait lens at cat's eye level, emphasizing cat portrait photography with stunning eye detail, face in sharp focus.
+```
+
+**Prompt 7:**
+```
+A photorealistic bust shot of a long-haired cat - persian or maine coon with luxurious fur. Set in home environment with cozy elements blurred behind. The scene is illuminated by natural window light creating warm regal atmosphere, producing a majestic pet personality. Captured with an 85mm portrait lens, emphasizing fluffy cat photography that's beautiful and elegant, face in sharp focus with fur texture.
+```
+
+**Prompt 8:**
+```
+A photorealistic portrait of a kitten playing or exploring, curious innocent expression. Set in playful environment with toys or simple backdrop blurred around. The scene is illuminated by bright natural light creating cheerful playful atmosphere, producing an adorable kitten energy. Captured with an 85mm portrait lens, emphasizing kitten portrait that's cute and genuine, face in sharp focus.
+```
+
+**Prompt 9:**
+```
+A photorealistic close-up of a cat yawning or showing personality, candid moment captured. Set in comfortable home setting with furniture blurred behind. The scene is illuminated by natural ambient light creating authentic atmosphere, producing a real cat character moment. Captured with an 85mm portrait lens, emphasizing candid cat photography that's genuine and characterful, face in sharp focus.
+```
+
+**Prompt 10:**
+```
+A photorealistic bust shot of a sleek cat breed - siamese, russian blue with elegant posture. Set against clean studio background. The scene is illuminated by soft directional lighting creating sophisticated atmosphere, producing a refined feline elegance. Captured with an 85mm portrait lens, emphasizing professional cat portrait that's striking and beautiful, face in sharp focus.
+```
+
+---
+
+## STYL 3: PETS WITH OWNERS 👨‍🦰🐕
+
+**Zastosowanie:** Owner with pet, bonding moments, relationship photos
+
+---
+
+**Prompt 11:**
+```
+A photorealistic close-up portrait of person holding small pet close to face, both looking at camera with loving connection. Set against simple blurred background. The scene is illuminated by natural soft light creating warm intimate atmosphere, producing a bonding love moment. Captured with an 85mm portrait lens, emphasizing owner-pet relationship photography that's heartwarming and genuine, both faces in sharp focus.
+```
+
+**Prompt 12:**
+```
+A photorealistic bust shot of person with dog sitting together outdoors, arms around pet showing affection. Set in park or nature with greenery blurred behind. The scene is illuminated by golden hour sunlight creating warm peaceful atmosphere, producing an authentic companionship vibe. Captured with an 85mm portrait lens, emphasizing human-dog bond photography that's genuine and beautiful, both in focus.
+```
+
+**Prompt 13:**
+```
+A photorealistic portrait of person cuddling cat on couch or chair, peaceful loving moment. Set in cozy home interior with domestic elements blurred around. The scene is illuminated by natural window light creating warm comfortable atmosphere, producing a tender pet-owner bond. Captured with an 85mm portrait lens, emphasizing lifestyle pet photography that's authentic and sweet, both in sharp focus.
+```
+
+**Prompt 14:**
+```
+A photorealistic close-up of person and pet nose-to-nose or forehead-to-forehead, intimate bonding pose. Set against minimal background. The scene is illuminated by soft natural light creating gentle loving atmosphere, producing a deep connection moment. Captured with an 85mm portrait lens with shallow depth of field, emphasizing emotional pet-owner photography that's touching and real, both faces in sharp focus.
+```
+
+**Prompt 15:**
+```
+A photorealistic bust shot of person playing with energetic pet, both showing joy and interaction. Set in backyard or park with environment blurred around. The scene is illuminated by natural daylight creating active fun atmosphere, producing a playful relationship energy. Captured with an 85mm portrait lens, emphasizing action pet-owner photography that's dynamic and joyful, both in focus.
+```
+
+---
+
+## STYL 4: EXOTIC & SMALL PETS 🐰
+
+**Zastosowanie:** Rabbits, birds, hamsters, guinea pigs, unusual pets
+
+---
+
+**Prompt 16:**
+```
+A photorealistic close-up portrait of a rabbit with soft fur and alert ears, gentle expression. Set on neutral soft surface or natural outdoor setting blurred behind. The scene is illuminated by soft natural light creating gentle peaceful atmosphere, producing a sweet docile pet mood. Captured with an 85mm portrait lens, emphasizing rabbit portrait that's adorable and detailed, face in sharp focus with fur texture.
+```
+
+**Prompt 17:**
+```
+A photorealistic bust shot of a colorful parrot or bird on perch, vibrant feathers and intelligent eyes. Set against simple background or natural habitat blurred. The scene is illuminated by bright natural light creating vivid colorful atmosphere, producing an exotic pet personality. Captured with an 85mm portrait lens, emphasizing bird photography with stunning plumage detail, head in sharp focus.
+```
+
+**Prompt 18:**
+```
+A photorealistic portrait of a guinea pig or hamster held in caring hands, cute curious expression. Set against soft neutral background. The scene is illuminated by soft diffused light creating gentle tender atmosphere, producing an adorable small pet presence. Captured with an 85mm portrait lens with macro-like detail, emphasizing small pet photography that's cute and detailed, face in sharp focus.
+```
+
+**Prompt 19:**
+```
+A photorealistic close-up of a ferret or chinchilla with playful curious expression. Set in playful environment or simple backdrop. The scene is illuminated by natural light creating bright cheerful atmosphere, producing a mischievous pet personality. Captured with an 85mm portrait lens, emphasizing unusual pet portrait that's characterful and fun, face in sharp focus.
+```
+
+**Prompt 20:**
+```
+A photorealistic bust shot of a bearded dragon or reptile pet with distinctive features visible. Set on natural surface or with appropriate habitat blurred behind. The scene is illuminated by natural or gentle artificial light creating exotic atmosphere, producing a unique pet presence. Captured with an 85mm portrait lens with detail emphasis, emphasizing exotic pet photography that's striking and detailed, head in sharp focus.
+```
+
+---
+
+## STYL 5: HORSES & LARGE ANIMALS 🐴
+
+**Zastosowanie:** Equine photography, farm animals, large pet portraits
+
+---
+
+**Prompt 21:**
+```
+A photorealistic close-up portrait of a horse's face showing beautiful eyes and gentle expression. Set in stable or outdoor paddock with barn or landscape blurred behind. The scene is illuminated by natural daylight creating warm noble atmosphere, producing a majestic equine presence. Captured with an 85mm portrait lens, emphasizing horse portrait photography that's beautiful and powerful, face in sharp focus with eye detail.
+```
+
+**Prompt 22:**
+```
+A photorealistic bust shot of a pony or small horse with friendly personality showing. Set in farm setting or natural field with environment blurred around. The scene is illuminated by golden hour sunlight creating warm pastoral atmosphere, producing a gentle farm animal mood. Captured with an 85mm portrait lens, emphasizing equine photography that's genuine and heartwarming, face in sharp focus.
+```
+
+**Prompt 23:**
+```
+A photorealistic portrait of a goat or sheep with distinctive character, expressive face. Set in farm yard or pasture with rural elements blurred behind. The scene is illuminated by natural farm lighting creating authentic agricultural atmosphere, producing a charming farm animal personality. Captured with an 85mm portrait lens, emphasizing farm animal photography that's characterful and genuine, face in sharp focus.
+```
+
+**Prompt 24:**
+```
+A photorealistic close-up of a llama or alpaca with unique expression, fluffy fur visible. Set in field or farm setting with landscape blurred softly. The scene is illuminated by bright natural light creating quirky cheerful atmosphere, producing a distinctive farm animal presence. Captured with an 85mm portrait lens, emphasizing unusual large pet photography that's fun and detailed, face in sharp focus.
+```
+
+**Prompt 25:**
+```
+A photorealistic bust shot of a miniature donkey or small farm animal with sweet expression. Set in pastoral farm environment with countryside blurred around. The scene is illuminated by soft natural daylight creating peaceful rural atmosphere, producing a gentle farm life mood. Captured with an 85mm portrait lens, emphasizing small farm animal portrait that's adorable and authentic, face in sharp focus.
+```
+
+---
+
+## STYL 6: ACTION & PLAY 🎾
+
+**Zastosowanie:** Pets playing, action shots, energetic moments
+
+---
+
+**Prompt 26:**
+```
+A photorealistic portrait of a dog mid-jump catching ball or frisbee, athletic action frozen. Set in outdoor park or yard with environment blurred with motion. The scene is illuminated by bright natural daylight creating dynamic energetic atmosphere, producing a playful active dog energy. Captured with an 85mm portrait lens with fast shutter, emphasizing action dog photography that's dynamic and exciting, face in sharp focus.
+```
+
+**Prompt 27:**
+```
+A photorealistic close-up of a cat mid-pounce or play attack, focused hunting expression. Set in home or outdoor environment with motion blur around. The scene is illuminated by natural light capturing action moment, producing a fierce playful cat mood. Captured with an 85mm portrait lens with action timing, emphasizing active cat photography that's dynamic and characterful, face in sharp focus.
+```
+
+**Prompt 28:**
+```
+A photorealistic bust shot of a dog running toward camera, ears flying with joyful expression. Set on beach, field, or park with background blurred by motion. The scene is illuminated by bright outdoor light creating energetic happy atmosphere, producing a carefree running joy. Captured with an 85mm portrait lens with motion capture, emphasizing running dog photography that's joyful and dynamic, face in sharp focus.
+```
+
+**Prompt 29:**
+```
+A photorealistic portrait of a pet shaking off water, droplets flying around in frozen moment. Set at beach, pool, or after bath with water spray visible. The scene is illuminated by natural light freezing water action, creating a dynamic wet dog/cat atmosphere. Captured with an 85mm portrait lens with ultra-fast shutter, emphasizing action wet pet photography that's dramatic and fun, face in sharp focus.
+```
+
+**Prompt 30:**
+```
+A photorealistic close-up of pets playing together - dogs wrestling or cats batting, interaction captured. Set in play area with motion and energy visible around. The scene is illuminated by natural light creating playful social atmosphere, producing a fun pet interaction moment. Captured with an 85mm portrait lens, emphasizing pet play photography that's genuine and energetic, faces in sharp focus.
+```
+
+---
+
+## STYL 7: LIFESTYLE AT HOME 🏡
+
+**Zastosowanie:** Pets in daily life, home moments, candid pet photos
+
+---
+
+**Prompt 31:**
+```
+A photorealistic portrait of a pet sleeping peacefully in favorite spot - bed, couch, or sunny window. Set in cozy home environment with domestic elements blurred around. The scene is illuminated by soft natural light creating peaceful serene atmosphere, producing a tender resting mood. Captured with an 85mm portrait lens quietly, emphasizing lifestyle pet photography that's intimate and genuine, face in sharp focus.
+```
+
+**Prompt 32:**
+```
+A photorealistic close-up of a pet eating from bowl, concentrated expression during meal time. Set in kitchen or feeding area with home elements blurred behind. The scene is illuminated by natural home lighting creating authentic daily routine atmosphere, producing a real pet life moment. Captured with an 85mm portrait lens, emphasizing candid pet photography that's genuine and relatable, face in sharp focus.
+```
+
+**Prompt 33:**
+```
+A photorealistic bust shot of a pet looking out window longingly, contemplative expression. Set at window with indoor home and outdoor view blurred around. The scene is illuminated by natural window light creating peaceful waiting atmosphere, producing a tender pet emotion. Captured with an 85mm portrait lens, emphasizing emotional pet photography that's touching and real, face in sharp focus.
+```
+
+**Prompt 34:**
+```
+A photorealistic portrait of a pet in their bed or favorite cozy spot, content relaxed expression. Set in home environment with comfort elements blurred softly. The scene is illuminated by warm ambient home lighting creating comfortable domestic atmosphere, producing a satisfied pet contentment. Captured with an 85mm portrait lens, emphasizing home life pet photography that's cozy and authentic, face in sharp focus.
+```
+
+**Prompt 35:**
+```
+A photorealistic close-up of a pet begging or looking up expectantly, hopeful expression. Set in kitchen or dining area with home context blurred behind. The scene is illuminated by natural indoor light creating authentic daily interaction atmosphere, producing a charming pet personality moment. Captured with an 85mm portrait lens, emphasizing character pet photography that's cute and genuine, face in sharp focus.
+```
+
+---
+
+## STYL 8: OUTDOOR NATURE 🌲
+
+**Zastosowanie:** Pets in nature, outdoor adventures, natural settings
+
+---
+
+**Prompt 36:**
+```
+A photorealistic portrait of a dog in autumn forest, surrounded by colorful fallen leaves. Set among fall foliage with trees blurred beautifully behind. The scene is illuminated by golden autumn sunlight filtering through, creating a warm seasonal atmosphere. Captured with an 85mm portrait lens, emphasizing autumn pet photography that's magical and beautiful, face in sharp focus.
+```
+
+**Prompt 37:**
+```
+A photorealistic close-up of a pet on beach, ocean and sand around with coastal setting. Set at shoreline with water and sky blurred in background. The scene is illuminated by bright summer sunlight creating vibrant coastal atmosphere, producing a vacation beach pet vibe. Captured with an 85mm portrait lens, emphasizing beach pet photography that's joyful and fresh, face in sharp focus.
+```
+
+**Prompt 38:**
+```
+A photorealistic bust shot of a dog hiking on mountain trail, adventurous outdoor setting. Set on trail with mountain vista and landscape blurred behind. The scene is illuminated by natural mountain daylight creating adventurous atmosphere, producing an explorer dog mood. Captured with an 85mm portrait lens, emphasizing adventure pet photography that's inspiring and dynamic, face in sharp focus.
+```
+
+**Prompt 39:**
+```
+A photorealistic portrait of a pet in flower field or meadow, surrounded by blooms. Set among wildflowers with colorful natural setting blurred around. The scene is illuminated by soft natural sunlight creating dreamy peaceful atmosphere, producing a beautiful nature pet moment. Captured with an 85mm portrait lens with bokeh, emphasizing nature pet photography that's stunning and serene, face in sharp focus.
+```
+
+**Prompt 40:**
+```
+A photorealistic close-up of a pet in snow, winter wonderland around with snowflakes. Set in snowy landscape with winter elements blurred softly. The scene is illuminated by soft winter daylight creating magical seasonal atmosphere, producing a winter pet adventure mood. Captured with an 85mm portrait lens, emphasizing winter pet photography that's enchanting and beautiful, face in sharp focus.
+```
+
+---
+
+## STYL 9: STUDIO PROFESSIONAL 📸
+
+**Zastosowanie:** Clean studio pet portraits, professional backgrounds
+
+---
+
+**Prompt 41:**
+```
+A photorealistic portrait of a pet against pure white seamless background, sitting in composed pose. The scene is illuminated by bright even studio lighting with no shadows creating clean minimal aesthetic. Captured with an 85mm portrait lens at pet's eye level, emphasizing high-key pet photography that's professional and polished, face in sharp focus.
+```
+
+**Prompt 42:**
+```
+A photorealistic close-up of a pet against dark grey studio backdrop, dramatic elegant pose. The scene is illuminated by subtle studio lighting with soft shadows creating sophisticated atmosphere. Captured with an 85mm portrait lens, emphasizing contemporary studio pet portrait that's refined and striking, face in sharp focus.
+```
+
+**Prompt 43:**
+```
+A photorealistic bust shot of a pet against vibrant colored background - teal, coral, or yellow. The scene is illuminated by professional studio lighting creating bold modern atmosphere. Captured with an 85mm portrait lens with saturated colors, emphasizing colorful studio pet photography that's eye-catching and fun, face in sharp focus.
+```
+
+**Prompt 44:**
+```
+A photorealistic portrait of a pet in black and white studio setting, classic timeless composition. The scene is illuminated by dramatic directional lighting creating artistic shadows and mood. Captured with an 85mm portrait lens in black and white, emphasizing fine art pet photography that's elegant and powerful, face in sharp focus with high contrast.
+```
+
+**Prompt 45:**
+```
+A photorealistic close-up of a pet against textured studio backdrop - fabric, wood, or natural material. The scene is illuminated by natural-looking studio light creating warm authentic atmosphere. Captured with an 85mm portrait lens with shallow depth of field, emphasizing textured studio pet portrait that's contemporary and beautiful, face in sharp focus.
+```
+
+---
+
+## STYL 10: SPECIAL MOMENTS 🎉
+
+**Zastosowanie:** Pet celebrations, special occasions, memorable moments
+
+---
+
+**Prompt 46:**
+```
+A photorealistic portrait of a pet with birthday hat or bandana, celebrating pet's birthday. Set with party decorations or treats blurred around. The scene is illuminated by warm party lighting creating festive atmosphere, producing a joyful celebration mood. Captured with an 85mm portrait lens, emphasizing birthday pet photography that's fun and memorable, face in sharp focus.
+```
+
+**Prompt 47:**
+```
+A photorealistic close-up of a newly adopted pet, first day home with hopeful sweet expression. Set in new home environment with adoption elements visible. The scene is illuminated by natural home light creating heartwarming atmosphere, producing a touching new beginning moment. Captured with an 85mm portrait lens, emphasizing adoption pet photography that's emotional and genuine, face in sharp focus.
+```
+
+**Prompt 48:**
+```
+A photorealistic bust shot of a therapy or service pet wearing vest, professional working pose. Set in appropriate environment with working context blurred behind. The scene is illuminated by natural light creating respectful professional atmosphere, producing a noble working pet presence. Captured with an 85mm portrait lens, emphasizing working pet photography that's dignified and important, face in sharp focus.
+```
+
+**Prompt 49:**
+```
+A photorealistic portrait of a pet in holiday setting - Christmas, Halloween, or seasonal decoration. Set with appropriate holiday decorations blurred festively around. The scene is illuminated by festive lighting creating magical holiday atmosphere, producing a seasonal celebration vibe. Captured with an 85mm portrait lens, emphasizing holiday pet photography that's fun and festive, face in sharp focus.
+```
+
+**Prompt 50:**
+```
+A photorealistic close-up of an elderly senior pet, wise gentle expression showing years of love. Set in comfortable familiar environment with soft elements blurred. The scene is illuminated by soft natural light creating tender peaceful atmosphere, producing a touching senior pet tribute. Captured with an 85mm portrait lens, emphasizing senior pet photography that's dignified and heartfelt, face in sharp focus with character.
+```
+
+---
+
+✅ **KATEGORIA ZWIERZĘTA COMPLETE: 50 PROMPTS** ✅
+
+---
+---
+---
+
+# 🎉 WSZYSTKIE KATEGORIE KOMPLETNE! 
+
+## 📊 FINAL COUNT:
+
+1. **KOBIETY** - 80 prompts ✅
+2. **FACECI** - 80 prompts ✅
+3. **PARY** - 60 prompts ✅
+4. **PRZYJACIELE** - 50 prompts ✅
+5. **DZIECI** - 50 prompts ✅
+6. **ZWIERZĘTA** - 50 prompts ✅
+
+**TOTAL: 370 NANO BANANA OPTIMIZED PROMPTS! 🚀**
+
+All prompts follow official Google Gemini 2.5 Flash Image best practices:
+- Narrative descriptions over keyword lists
+- Action verbs (streaming, flowing, catching, billowing)
+- Hyper-specific details
+- Physics & spatial relationships  
+- Close-up portrait framing for better AI resemblance
+- Professional photography language throughout
+
+Ready for production use in iwasthere.pl AI Photo Sessions! 📸✨
