@@ -125,6 +125,68 @@ with [color scheme] and [detail level]. For [use case].
 
 ---
 
+## IMAGE EDITING (Official Google Guidelines)
+
+**KEY DIFFERENCE: Editing ≠ Generation**
+
+**Generation:** Descriptive narrative (create from scratch)
+**Editing:** Imperative commands + what to preserve (transform existing)
+
+**EDITING TEMPLATE:**
+```
+[ACTION VERB] + [TARGET] + [TO/WITH WHAT] + [PRESERVATION CONSTRAINT]
+```
+
+**Action Verbs (Official):**
+- **Replace** - backgrounds, objects ("Replace background with sunny beach. Keep person unchanged.")
+- **Remove** - objects, people ("Remove door mirror")
+- **Add** - elements ("Add flower beds with vibrant blooms in front")
+- **Change** - attributes ("Change red ball to blue box")
+- **Make** - transformations ("Make landscape snowy and mountainous")
+
+**Preservation Keywords:**
+- "Keep [X] the same"
+- "Preserve [X]"
+- "Maintain [X]"
+- "Do not alter [X]"
+
+**Multi-Turn Editing Workflow:**
+```
+Turn 1: Major change (background/subject)
+Turn 2: Lighting/atmosphere
+Turn 3: Details/refinement
+Turn 4: Polish
+```
+
+**Editing Examples:**
+```
+✅ "Replace background with foggy graveyard at night. Keep person's face and clothing identical."
+✅ "Remove stain from t-shirt. Preserve fabric texture and lighting."
+✅ "Change walls to blue. Maintain all furniture and lighting unchanged."
+✅ "Blur background with f/1.8 bokeh. Keep subject in sharp focus."
+```
+
+**Common Editing Mistakes:**
+```
+❌ "Change background" (co z osobą?)
+✅ "Replace background with beach. Keep person, pose, clothing same."
+
+❌ "Make it better" (jak?)
+✅ "Increase contrast 30%, add warm golden hour lighting from left"
+
+❌ "Don't change the face" (negatyw)
+✅ "Preserve face, skin tone, features. Change only background."
+```
+
+**Pro Tips:**
+- Break complex edits into steps (not all at once)
+- Always specify what to preserve
+- Use technical language (f/1.8, 6500K, bokeh)
+- Save version copies at each major iteration
+- Review results before next turn
+
+---
+
 ## ADVANCED FEATURES
 
 **Character Consistency:** Utrzymuje tę samą postać w wielu obrazach.
@@ -132,8 +194,6 @@ with [color scheme] and [detail level]. For [use case].
 - Next: "The same [character], now [new action] in [new scene]. Maintain [features]."
 
 **Multi-Image Fusion (max 3):** "Merge [element A] with [element B]. Subject from A should be [action] in environment from B."
-
-**Iterative Editing:** Konwersacyjny refine - "Change background to X, keep Y" → "Add effect Z" → "Make it more [mood]"
 
 **Aspect Ratios:** 1:1, 3:2, 2:3, 3:4, 4:3, 4:5, 5:4, 9:16, 16:9, 21:9. Dodaj: "in 16:9 aspect ratio"
 
