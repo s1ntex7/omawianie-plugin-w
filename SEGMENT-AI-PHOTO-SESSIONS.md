@@ -2307,3 +2307,345 @@ A photorealistic bust shot of a couple walking dog together in park, natural smi
 ---
 
 ✅ **KATEGORIA PARY COMPLETE: 60 PROMPTS** ✅
+
+---
+---
+---
+
+# 👥 KATEGORIA 4: PRZYJACIELE (FRIENDS/GROUPS)
+
+**Total prompts w tej kategorii: 50**
+
+---
+
+## STYL 1: CASUAL FUN 🎉
+
+**Zastosowanie:** Friend groups, hanging out, spontaneous fun
+
+---
+
+**Prompt 1:**
+```
+A photorealistic close-up portrait of a group of friends laughing together genuinely, faces close in frame showing pure joy. Set in casual outdoor setting with natural elements blurred behind. The scene is illuminated by natural daylight creating bright happy atmosphere, producing an authentic friendship mood. Captured with an 85mm portrait lens candidly, emphasizing group friendship photography that's joyful and real, faces in sharp focus.
+```
+
+**Prompt 2:**
+```
+A photorealistic bust shot of three to four friends in casual wear, arms around each other's shoulders in close group pose. Set on urban street or park with environment blurred softly. The scene is illuminated by golden hour sunlight creating warm friendly atmosphere, producing a cheerful group vibe. Captured with an 85mm portrait lens at eye level, emphasizing lifestyle friend group style that's authentic and happy, faces in sharp focus.
+```
+
+**Prompt 3:**
+```
+A photorealistic portrait of friends sitting together at cafe table, coffee cups and snacks visible, engaged in animated conversation. Set in trendy cafe with interior blurred around. The scene is illuminated by natural window light creating relaxed atmosphere, producing a genuine social mood. Captured with an 85mm portrait lens candidly, emphasizing candid friend photography that's natural and relatable, faces in sharp focus.
+```
+
+**Prompt 4:**
+```
+A photorealistic close-up of friends toasting drinks together, glasses clinking in center of frame with happy faces around. Set in restaurant or bar with ambient background blurred. The scene is illuminated by warm interior lighting creating celebratory atmosphere, producing a joyful social vibe. Captured with an 85mm portrait lens from unique angle, emphasizing celebration friend moment that's fun and spontaneous, faces in sharp focus.
+```
+
+**Prompt 5:**
+```
+A photorealistic bust shot of friends taking group selfie together, arms extended with phone visible, genuine smiles and laughter. Set at outdoor location with scenic view blurred behind. The scene is illuminated by natural daylight creating vibrant atmosphere, producing an authentic modern friendship mood. Captured with an 85mm portrait lens from selfie perspective, emphasizing contemporary friend group style that's genuine and fun, faces in sharp focus.
+```
+
+---
+
+## STYL 2: ADVENTURE SQUAD ⛰️
+
+**Zastosowanie:** Friends exploring, outdoor adventures, travel groups
+
+---
+
+**Prompt 6:**
+```
+A photorealistic portrait of friends hiking together on mountain trail, backpacks and outdoor gear visible, triumphant expressions. Set on mountain path with epic vista blurred behind. The scene is illuminated by bright natural mountain light creating adventurous atmosphere, producing an inspiring outdoor mood. Captured with an 85mm portrait lens at eye level, emphasizing adventure friend group photography that's energetic and uplifting, faces in sharp focus.
+```
+
+**Prompt 7:**
+```
+A photorealistic close-up of friends at beach bonfire, faces illuminated by fire glow with ocean blurred in background. The scene is illuminated by warm campfire light mixing with twilight blue hour, creating a cozy beach atmosphere. Captured with an 85mm portrait lens, emphasizing beach friend gathering that's warm and memorable, faces in sharp focus with fire glow on features.
+```
+
+**Prompt 8:**
+```
+A photorealistic bust shot of friends on road trip in convertible or van, wind in hair with open road blurred behind. The scene is illuminated by golden hour creating adventurous travel atmosphere, producing a free-spirited mood. Captured with an 85mm portrait lens from inside vehicle, emphasizing road trip friend photography that's spontaneous and joyful, faces in sharp focus.
+```
+
+**Prompt 9:**
+```
+A photorealistic portrait of friends at scenic overlook celebrating arrival, high-fiving or cheering together. Set at mountain summit or viewpoint with landscape blurred dramatically behind. The scene is illuminated by bright natural light creating triumphant atmosphere, producing an achievement friendship vibe. Captured with an 85mm portrait lens, emphasizing outdoor adventure group that's inspiring and genuine, faces in sharp focus.
+```
+
+**Prompt 10:**
+```
+A photorealistic close-up of friends camping, sitting around tent with wilderness blurred around them. The scene is illuminated by soft morning light creating peaceful camping atmosphere, producing an authentic outdoor bonding mood. Captured with an 85mm portrait lens candidly, emphasizing camping friend group style that's natural and adventurous, faces in sharp focus.
+```
+
+---
+
+## STYL 3: URBAN LIFESTYLE 🏙️
+
+**Zastosowanie:** City friends, urban exploration, street style groups
+
+---
+
+**Prompt 11:**
+```
+A photorealistic portrait of friends walking through city street together, casual urban fashion with cityscape blurred behind. The scene is illuminated by natural daylight creating vibrant city atmosphere, producing a modern urban friendship vibe. Captured with an 85mm portrait lens candidly, emphasizing urban lifestyle friend group that's stylish and authentic, faces in sharp focus.
+```
+
+**Prompt 12:**
+```
+A photorealistic bust shot of friends at rooftop location, city skyline and buildings blurred in background. The scene is illuminated by golden hour mixing with city lights creating sophisticated urban atmosphere, producing a trendy social mood. Captured with an 85mm portrait lens from slight angle, emphasizing rooftop friend photography that's contemporary and cool, faces in sharp focus.
+```
+
+**Prompt 13:**
+```
+A photorealistic close-up of friends at neon-lit urban location at night, colorful lights reflecting on faces. Set in trendy city district with neon signs blurred behind. The scene is illuminated by colorful neon lighting creating vibrant nightlife atmosphere, producing an energetic city vibe. Captured with an 85mm portrait lens, emphasizing urban night friend group that's dynamic and modern, faces in sharp focus.
+```
+
+**Prompt 14:**
+```
+A photorealistic portrait of friends at street art or graffiti wall, posing casually with colorful mural blurred behind. The scene is illuminated by natural overcast light creating authentic street atmosphere, producing a cool urban artistic mood. Captured with an 85mm portrait lens, emphasizing street style friend photography that's edgy and genuine, faces in sharp focus.
+```
+
+**Prompt 15:**
+```
+A photorealistic bust shot of friends at trendy urban cafe or juice bar, holding drinks with modern interior blurred around. The scene is illuminated by bright natural light through windows creating fresh contemporary atmosphere, producing a lifestyle urban vibe. Captured with an 85mm portrait lens candidly, emphasizing millennial/gen-z friend group that's authentic and relatable, faces in sharp focus.
+```
+
+---
+
+## STYL 4: CELEBRATION PARTY 🎊
+
+**Zastosowanie:** Birthdays, celebrations, party moments
+
+---
+
+**Prompt 16:**
+```
+A photorealistic close-up of friends celebrating birthday, holding cake with candles lit, faces glowing in candlelight. Set at party venue with decorations blurred softly behind. The scene is illuminated by warm candlelight and party lighting creating festive atmosphere, producing a joyful celebration mood. Captured with an 85mm portrait lens, emphasizing birthday friend moment that's warm and memorable, faces in sharp focus.
+```
+
+**Prompt 17:**
+```
+A photorealistic portrait of friends at party throwing confetti in air, mid-celebration with colorful paper floating around. Set at celebration venue with party decor blurred in background. The scene is illuminated by bright party lighting creating energetic festive atmosphere, producing a joyful spontaneous vibe. Captured with an 85mm portrait lens with fast shutter to freeze confetti, emphasizing party friend photography that's dynamic and fun, faces in sharp focus.
+```
+
+**Prompt 18:**
+```
+A photorealistic bust shot of friends dancing together at celebration, arms up with genuine joy and movement. Set at party or event with lights and people blurred around. The scene is illuminated by colorful party lighting creating vibrant celebratory atmosphere, producing an energetic fun mood. Captured with an 85mm portrait lens with slight motion blur, emphasizing dance party friend moment that's spontaneous and happy, faces in sharp focus.
+```
+
+**Prompt 19:**
+```
+A photorealistic close-up of friends making toast at celebration dinner, glasses raised with elegant setting. Set at restaurant or home dining with table and decor blurred behind. The scene is illuminated by warm ambient candlelight creating sophisticated celebration atmosphere, producing a heartfelt social vibe. Captured with an 85mm portrait lens, emphasizing elegant friend celebration that's genuine and classy, faces in sharp focus.
+```
+
+**Prompt 20:**
+```
+A photorealistic portrait of friends in New Year's or holiday celebration, party hats and festive accessories, cheering together. Set at party venue with holiday decorations blurred around. The scene is illuminated by festive party lights creating magical celebration atmosphere, producing a joyful holiday mood. Captured with an 85mm portrait lens, emphasizing holiday friend gathering that's fun and festive, faces in sharp focus.
+```
+
+---
+
+## STYL 5: SPORTS & ACTIVITIES ⚽
+
+**Zastosowanie:** Team sports, group activities, fitness friends
+
+---
+
+**Prompt 21:**
+```
+A photorealistic bust shot of friends in sports jerseys or athletic wear, arms around each other after game or workout. Set at sports field or gym with equipment blurred behind. The scene is illuminated by natural daylight or gym lighting creating energetic athletic atmosphere, producing a team spirit mood. Captured with an 85mm portrait lens, emphasizing sports friend group photography that's authentic and motivational, faces in sharp focus.
+```
+
+**Prompt 22:**
+```
+A photorealistic close-up of friends high-fiving or celebrating sports achievement together, pure joy on faces. Set at sports venue with field or court blurred in background. The scene is illuminated by bright natural or stadium lighting creating triumphant atmosphere, producing a victorious team vibe. Captured with an 85mm portrait lens with fast shutter, emphasizing sports celebration friend moment that's dynamic and inspiring, faces in sharp focus.
+```
+
+**Prompt 23:**
+```
+A photorealistic portrait of friends at fitness class or yoga session together, in athletic poses with studio blurred around. The scene is illuminated by bright gym lighting creating healthy active atmosphere, producing a wellness friendship mood. Captured with an 85mm portrait lens, emphasizing fitness friend group that's motivational and authentic, faces in sharp focus.
+```
+
+**Prompt 24:**
+```
+A photorealistic bust shot of friends on bikes or skateboard together, casual athletic wear with urban park blurred behind. The scene is illuminated by golden hour sunlight creating active outdoor atmosphere, producing a youthful energetic vibe. Captured with an 85mm portrait lens, emphasizing active lifestyle friend photography that's fun and genuine, faces in sharp focus.
+```
+
+**Prompt 25:**
+```
+A photorealistic close-up of friends at bowling alley or arcade, celebrating strike or win together with excitement. Set in entertainment venue with games and lights blurred around. The scene is illuminated by colorful venue lighting creating fun playful atmosphere, producing a joyful gaming mood. Captured with an 85mm portrait lens, emphasizing entertainment friend moment that's spontaneous and happy, faces in sharp focus.
+```
+
+---
+
+## STYL 6: CREATIVE & ARTISTIC 🎨
+
+**Zastosowanie:** Creative friend groups, artistic collectives, maker spaces
+
+---
+
+**Prompt 26:**
+```
+A photorealistic portrait of friends in art studio or creative space, paint or creative materials visible, collaborative energy. Set among easels and artwork blurred in background. The scene is illuminated by natural studio window light creating authentic creative atmosphere, producing an artistic friendship vibe. Captured with an 85mm portrait lens candidly, emphasizing creative friend group photography that's genuine and inspiring, faces in sharp focus.
+```
+
+**Prompt 27:**
+```
+A photorealistic bust shot of musician friends with instruments, casual jam session vibe in music space. Set in music studio or practice room with instruments and equipment blurred around. The scene is illuminated by warm ambient studio lighting creating passionate creative atmosphere, producing an authentic musical bond. Captured with an 85mm portrait lens, emphasizing music friend group that's soulful and genuine, faces in sharp focus.
+```
+
+**Prompt 28:**
+```
+A photorealistic close-up of friends at maker space or workshop, working on project together with tools visible. Set in creative workspace with materials and projects blurred behind. The scene is illuminated by natural workspace lighting creating collaborative atmosphere, producing a maker community vibe. Captured with an 85mm portrait lens, emphasizing creative collaboration friend photography that's authentic and inspirational, faces in sharp focus.
+```
+
+**Prompt 29:**
+```
+A photorealistic portrait of friends at photography or film shoot, cameras and creative gear visible, working together. Set at creative location with equipment and scene blurred around. The scene is illuminated by natural or setup lighting creating professional creative atmosphere, producing a collaborative artist mood. Captured with an 85mm portrait lens, emphasizing creative professional friend group that's genuine and driven, faces in sharp focus.
+```
+
+**Prompt 30:**
+```
+A photorealistic bust shot of friends at gallery opening or art event, dressed creatively with artwork blurred in background. The scene is illuminated by gallery lighting creating sophisticated artistic atmosphere, producing a cultured social vibe. Captured with an 85mm portrait lens, emphasizing artistic friend gathering that's stylish and genuine, faces in sharp focus.
+```
+
+---
+
+## STYL 7: STUDY & WORK 📚
+
+**Zastosowanie:** Study groups, coworking friends, professional colleagues
+
+---
+
+**Prompt 31:**
+```
+A photorealistic close-up of friends studying together at library or cafe, books and laptops visible, collaborative focus. Set at study table with library or cafe environment blurred behind. The scene is illuminated by natural window light creating focused studious atmosphere, producing a supportive academic friendship. Captured with an 85mm portrait lens, emphasizing study group friend photography that's genuine and relatable, faces in sharp focus.
+```
+
+**Prompt 32:**
+```
+A photorealistic portrait of coworker friends at office or coworking space, casual professional attire with workspace blurred around. The scene is illuminated by natural office lighting creating modern professional atmosphere, producing a friendly work culture vibe. Captured with an 85mm portrait lens candidly, emphasizing workplace friend group that's authentic and contemporary, faces in sharp focus.
+```
+
+**Prompt 33:**
+```
+A photorealistic bust shot of friends celebrating graduation or academic achievement together in caps and gowns. Set at campus or ceremony venue with academic setting blurred behind. The scene is illuminated by natural daylight creating triumphant celebratory atmosphere, producing a proud friendship achievement mood. Captured with an 85mm portrait lens, emphasizing graduation friend photography that's joyful and memorable, faces in sharp focus.
+```
+
+**Prompt 34:**
+```
+A photorealistic close-up of startup or creative team friends at workspace, laptops and whiteboards visible, entrepreneurial energy. Set in modern office or coworking space with startup vibe blurred around. The scene is illuminated by bright natural light creating innovative atmosphere, producing a passionate team friendship. Captured with an 85mm portrait lens, emphasizing startup friend team that's driven and authentic, faces in sharp focus.
+```
+
+**Prompt 35:**
+```
+A photorealistic portrait of friends at conference or professional event, name tags visible, networking together. Set at event venue with professional environment blurred behind. The scene is illuminated by conference lighting creating professional social atmosphere, producing a supportive colleague vibe. Captured with an 85mm portrait lens, emphasizing professional friend networking that's genuine and relatable, faces in sharp focus.
+```
+
+---
+
+## STYL 8: SEASONAL & HOLIDAYS 🎄
+
+**Zastosowanie:** Holiday gatherings, seasonal friend photos
+
+---
+
+**Prompt 36:**
+```
+A photorealistic bust shot of friends in cozy winter wear, hot drinks in hands, snowy scene blurred behind. The scene is illuminated by soft winter daylight creating crisp seasonal atmosphere, producing a warm cozy friendship mood. Captured with an 85mm portrait lens, emphasizing winter friend gathering that's warm and joyful, faces in sharp focus.
+```
+
+**Prompt 37:**
+```
+A photorealistic close-up of friends at summer BBQ or outdoor party, casual summer clothing with grill and yard blurred around. The scene is illuminated by bright summer sunlight creating vibrant outdoor atmosphere, producing a relaxed summer friendship vibe. Captured with an 85mm portrait lens candidly, emphasizing summer friend gathering that's fun and authentic, faces in sharp focus.
+```
+
+**Prompt 38:**
+```
+A photorealistic portrait of friends at autumn festival or pumpkin patch, fall clothing with seasonal elements blurred behind. The scene is illuminated by golden autumn light creating warm nostalgic atmosphere, producing a cozy fall friendship mood. Captured with an 85mm portrait lens, emphasizing autumn friend activity that's genuine and seasonal, faces in sharp focus.
+```
+
+**Prompt 39:**
+```
+A photorealistic bust shot of friends at holiday party in festive attire, Christmas or holiday decorations blurred around. The scene is illuminated by warm festive lighting and twinkle lights creating magical holiday atmosphere, producing a joyful celebratory vibe. Captured with an 85mm portrait lens, emphasizing holiday friend celebration that's warm and merry, faces in sharp focus.
+```
+
+**Prompt 40:**
+```
+A photorealistic close-up of friends at beach in summer, beach gear and ocean blurred behind, sun-kissed and happy. The scene is illuminated by bright summer sunlight creating vibrant coastal atmosphere, producing a carefree vacation friendship. Captured with an 85mm portrait lens, emphasizing beach friend moment that's fun and relaxed, faces in sharp focus.
+```
+
+---
+
+## STYL 9: STUDIO CLEAN 📸
+
+**Zastosowanie:** Professional friend group portraits, clean studio shots
+
+---
+
+**Prompt 41:**
+```
+A photorealistic portrait of friends in coordinating casual outfits against white seamless background, arranged in close group composition. The scene is illuminated by bright even studio lighting creating clean minimal aesthetic. Captured with an 85mm portrait lens at eye level, emphasizing high-key friend group photography that's fresh and professional, faces in sharp focus.
+```
+
+**Prompt 42:**
+```
+A photorealistic bust shot of friends against dark grey studio backdrop, wearing neutral tones in artistic arrangement. The scene is illuminated by subtle studio lighting with soft shadows creating sophisticated atmosphere. Captured with an 85mm portrait lens, emphasizing contemporary studio friend portrait that's refined and classy, faces in sharp focus.
+```
+
+**Prompt 43:**
+```
+A photorealistic close-up of friends against vibrant colored studio background - teal, coral, or yellow, playful close poses. The scene is illuminated by professional studio lighting creating bold modern atmosphere. Captured with an 85mm portrait lens with saturated colors, emphasizing fashion-forward friend group that's stylish and eye-catching, faces in sharp focus.
+```
+
+**Prompt 44:**
+```
+A photorealistic portrait of friends in black and white studio setting, artistic poses with dramatic lighting. The scene is illuminated by single dramatic light source creating chiaroscuro effect and artistic mood. Captured with an 85mm portrait lens, emphasizing fine art friend group photography that's timeless and striking, faces in sharp focus with high contrast.
+```
+
+**Prompt 45:**
+```
+A photorealistic bust shot of friends against textured studio backdrop - brick or industrial, casual urban styling. The scene is illuminated by natural-looking studio light creating authentic edgy atmosphere. Captured with an 85mm portrait lens with shallow depth of field, emphasizing urban studio friend portrait that's contemporary and cool, faces in sharp focus.
+```
+
+---
+
+## STYL 10: CANDID MOMENTS 📷
+
+**Zastosowanie:** Documentary style, real moments, unposed
+
+---
+
+**Prompt 46:**
+```
+A photorealistic close-up of friends in mid-conversation, animated expressions and natural gestures captured authentically. Set in everyday environment with natural blur around. The scene is illuminated by available natural light creating genuine atmosphere. Captured with an 85mm portrait lens candidly without posing, emphasizing documentary friend photography that's honest and real, faces in sharp focus.
+```
+
+**Prompt 47:**
+```
+A photorealistic portrait of friends cooking or preparing food together in kitchen, natural collaboration and laughter. Set in home kitchen with cooking elements and ingredients blurred around. The scene is illuminated by natural kitchen lighting creating warm domestic atmosphere. Captured with an 85mm portrait lens in documentary style, emphasizing lifestyle friend moment that's genuine and heartwarming, faces in sharp focus.
+```
+
+**Prompt 48:**
+```
+A photorealistic bust shot of friends watching movie or game together, authentic reactions and emotions on faces. Set on couch in living room with TV glow and home environment blurred behind. The scene is illuminated by ambient room and screen light creating cozy intimate atmosphere. Captured with an 85mm portrait lens, emphasizing candid friend gathering that's real and relatable, faces in sharp focus.
+```
+
+**Prompt 49:**
+```
+A photorealistic close-up of friends playing board game or cards, concentrated and joyful expressions captured mid-game. Set at table with game pieces and snacks blurred around. The scene is illuminated by natural or ambient indoor lighting creating playful social atmosphere. Captured with an 85mm portrait lens candidly, emphasizing game night friend moment that's authentic and fun, faces in sharp focus.
+```
+
+**Prompt 50:**
+```
+A photorealistic portrait of friends having deep conversation on porch or outdoor seating, genuine connection visible on faces. Set in comfortable outdoor space with natural environment blurred softly around. The scene is illuminated by golden hour or soft natural light creating peaceful intimate atmosphere. Captured with an 85mm portrait lens unobtrusively, emphasizing authentic friend bonding that's real and meaningful, faces in sharp focus.
+```
+
+---
+
+✅ **KATEGORIA PRZYJACIELE COMPLETE: 50 PROMPTS** ✅
