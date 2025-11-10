@@ -6649,3 +6649,481 @@ All prompts are fully **Nano Banana optimized** for Google Gemini 2.5 Flash Imag
 - ✅ Photography language (85mm lens, lighting specifications)
 
 ---
+# 🎨 ABSTRACT & SURREAL ART EXPANSION
+## All Categories - Artistic, Conceptual, Dreamlike Photography
+
+---
+
+## 👩 KOBIETY - STYL 31: ABSTRACT & SURREAL ART 🎭
+
+**Zastosowanie:** Abstract photography, surreal art, conceptual portraits, editorial art
+
+---
+
+**Prompt 306:**
+```
+A photorealistic portrait of a woman holding giant oversized peony flower larger than her head. Set against minimal background with soft bokeh. The scene is illuminated by soft directional light creating dreamlike atmosphere, producing a surreal scale distortion. Captured with an 85mm portrait lens, emphasizing conceptual art photography that's whimsical and striking, face in sharp focus with oversized prop.
+```
+
+**Prompt 307:**
+```
+A photorealistic close-up of a woman with flowing white silk fabric floating and swirling around her face mid-air. Set against clean background with fabric creating abstract shapes. The scene is illuminated by bright studio lighting freezing fabric motion, creating ethereal atmosphere. Captured with an 85mm portrait lens with fast shutter, emphasizing fabric manipulation photography that's dynamic and surreal, face in sharp focus.
+```
+
+**Prompt 308:**
+```
+A photorealistic bust shot of a woman with geometric face paint - triangles, lines, shapes in bold colors. Set against neutral background letting face art shine. The scene is illuminated by clean beauty lighting creating artistic atmosphere, producing a geometric art moment. Captured with an 85mm portrait lens, emphasizing face paint art photography that's bold and contemporary, face in sharp focus.
+```
+
+**Prompt 309:**
+```
+A photorealistic portrait of a woman with prism creating rainbow light splits across her face. Set against dark background with light prism effects visible. The scene is illuminated by directional light through prism creating spectrum atmosphere, producing a light refraction art. Captured with an 85mm portrait lens, emphasizing prism photography that's colorful and unique, face in sharp focus.
+```
+
+**Prompt 310:**
+```
+A photorealistic close-up of a woman emerging from colorful smoke/fog clouds. Set in studio with vibrant colored smoke swirling around her. The scene is illuminated by dramatic lighting through smoke creating mysterious atmosphere, producing a smoke art moment. Captured with an 85mm portrait lens, emphasizing smoke photography that's ethereal and dramatic, face in sharp focus.
+```
+
+**Prompt 311:**
+```
+A photorealistic bust shot of a woman with mirror fragments creating kaleidoscope reflection effect. Set with mirrors creating multiple reflections and fractured image. The scene is illuminated by studio lighting creating surreal atmosphere, producing a mirror art distortion. Captured with an 85mm portrait lens, emphasizing reflection photography that's abstract and artistic, face in sharp focus.
+```
+
+**Prompt 312:**
+```
+A photorealistic portrait of a woman bathed in neon RGB lighting - pink, blue, green split. Set against dark background with colored gel lights. The scene is illuminated by neon colored strobes creating futuristic atmosphere, producing a cyberpunk color moment. Captured with an 85mm portrait lens, emphasizing neon lighting photography that's vibrant and modern, face in sharp focus.
+```
+
+**Prompt 313:**
+```
+A photorealistic close-up of a woman with gold leaf body paint creating artistic patterns. Set against black background letting gold details shine. The scene is illuminated by directional light catching metallic sheen, creating luxe atmosphere. Captured with an 85mm portrait lens, emphasizing body art photography that's elegant and artistic, face in sharp focus.
+```
+
+**Prompt 314:**
+```
+A photorealistic bust shot of a woman with giant oversized red apple next to her face for scale. Set against seamless background with surreal prop scale. The scene is illuminated by clean studio lighting creating surreal atmosphere, producing an oversized fruit concept. Captured with an 85mm portrait lens, emphasizing conceptual photography that's playful and striking, face in sharp focus.
+```
+
+**Prompt 315:**
+```
+A photorealistic portrait of a woman with large ethereal butterfly wings attached, fairy-like. Set with dreamy background and magical elements blurred. The scene is illuminated by soft backlight creating fantasy atmosphere, producing a winged goddess moment. Captured with an 85mm portrait lens, emphasizing fantasy photography that's enchanting and surreal, face in sharp focus.
+```
+
+**Prompt 316:**
+```
+A photorealistic close-up of a woman with light painting trails creating abstract shapes around her. Set in dark studio with long exposure light streaks visible. The scene is illuminated by moving light sources creating dynamic atmosphere, producing a light painting art. Captured with an 85mm portrait lens with long exposure, emphasizing light art photography that's creative and abstract, face in sharp focus.
+```
+
+**Prompt 317:**
+```
+A photorealistic bust shot of a woman with floating geometric shapes - cubes, spheres suspended around her. Set in studio with 3D geometric props appearing to levitate. The scene is illuminated by dramatic lighting creating depth atmosphere, producing a geometric levitation art. Captured with an 85mm portrait lens, emphasizing surreal photography that's architectural and striking, face in sharp focus.
+```
+
+---
+
+## 👨 FACECI - STYL 19: ABSTRACT & SURREAL ART 🎭
+
+**Zastosowanie:** Conceptual male portraits, artistic photography, editorial abstract
+
+---
+
+**Prompt 151:**
+```
+A photorealistic portrait of a man with face partially obscured by colored smoke clouds. Set against dark background with smoke creating mystery. The scene is illuminated by dramatic side lighting through smoke creating moody atmosphere, producing a smoke obscured identity. Captured with an 85mm portrait lens, emphasizing abstract male photography that's mysterious and artistic, face in sharp focus through haze.
+```
+
+**Prompt 152:**
+```
+A photorealistic close-up of a man with shattered mirror effect creating fragmented reflection. Set with broken mirror pieces creating kaleidoscope distortion. The scene is illuminated by studio lighting creating surreal atmosphere, producing a fractured identity concept. Captured with an 85mm portrait lens, emphasizing reflection art photography that's conceptual and striking, face in sharp focus.
+```
+
+**Prompt 153:**
+```
+A photorealistic bust shot of a man holding giant oversized vinyl record larger than torso. Set against minimal background with surreal scale prop. The scene is illuminated by clean lighting creating conceptual atmosphere, producing an oversized music prop art. Captured with an 85mm portrait lens, emphasizing scale photography that's playful and artistic, face in sharp focus.
+```
+
+**Prompt 154:**
+```
+A photorealistic portrait of a man with neon light tubes creating geometric frame around him. Set in dark space with colored neon creating structure. The scene is illuminated by neon glow creating futuristic atmosphere, producing a neon geometry art. Captured with an 85mm portrait lens, emphasizing neon art photography that's modern and bold, face in sharp focus.
+```
+
+**Prompt 155:**
+```
+A photorealistic close-up of a man with paint splash frozen mid-action hitting face. Set in studio with colorful paint captured mid-flight. The scene is illuminated by high-speed flash freezing motion, creating dynamic atmosphere. Captured with an 85mm portrait lens with ultra-fast shutter, emphasizing paint action photography that's explosive and striking, face in sharp focus.
+```
+
+**Prompt 156:**
+```
+A photorealistic bust shot of a man levitating/floating with invisible wire effect. Set against seamless background appearing to defy gravity. The scene is illuminated by even studio lighting creating surreal atmosphere, producing a levitation illusion. Captured with an 85mm portrait lens, emphasizing levitation photography that's magical and conceptual, face in sharp focus.
+```
+
+**Prompt 157:**
+```
+A photorealistic portrait of a man with double exposure cityscape overlaid on his profile. Set blending face with urban architecture creating artistic overlay. The scene is illuminated by natural light creating dreamy atmosphere, producing a double exposure art. Captured with an 85mm portrait lens, emphasizing multiple exposure photography that's artistic and layered, face in sharp focus.
+```
+
+**Prompt 158:**
+```
+A photorealistic close-up of a man with crystal prism held to eye creating rainbow refraction. Set with light splitting through prism creating spectrum. The scene is illuminated by bright light through crystal creating colorful atmosphere, producing a prism vision art. Captured with an 85mm portrait lens, emphasizing prism photography that's colorful and unique, face in sharp focus.
+```
+
+**Prompt 159:**
+```
+A photorealistic bust shot of a man with flowing black ink in water creating abstract background. Set with ink diffusing in water behind him creating organic shapes. The scene is illuminated by backlight through water creating ethereal atmosphere, producing an ink art moment. Captured with an 85mm portrait lens, emphasizing ink water photography that's fluid and abstract, face in sharp focus.
+```
+
+**Prompt 160:**
+```
+A photorealistic portrait of a man with oversized sculptural geometric mask, avant-garde. Set against minimal background with bold artistic mask prop. The scene is illuminated by dramatic lighting creating avant-garde atmosphere, producing a sculptural art piece. Captured with an 85mm portrait lens, emphasizing wearable art photography that's bold and architectural, face in sharp focus where visible.
+```
+
+**Prompt 161:**
+```
+A photorealistic close-up of a man with metallic gold paint on half of face. Set against black background with dramatic paint division. The scene is illuminated by hard light catching metallic texture, creating luxe atmosphere. Captured with an 85mm portrait lens, emphasizing metallic body art photography that's striking and elegant, face in sharp focus.
+```
+
+**Prompt 162:**
+```
+A photorealistic bust shot of a man surrounded by floating paper sheets creating abstract composition. Set with white paper suspended in air around him. The scene is illuminated by clean lighting creating dynamic atmosphere, producing a paper levitation art. Captured with an 85mm portrait lens, emphasizing levitating objects photography that's whimsical and artistic, face in sharp focus.
+```
+
+---
+
+## 💑 PARY - STYL 17: ABSTRACT & SURREAL ART 🎭
+
+**Zastosowanie:** Conceptual couple photography, artistic romance, editorial abstract
+
+---
+
+**Prompt 111:**
+```
+A photorealistic portrait of a couple with colored powder explosion between them mid-throw. Set in studio with vibrant powder bursting between faces. The scene is illuminated by high-speed flash freezing powder motion, creating dynamic atmosphere. Captured with an 85mm portrait lens with fast shutter, emphasizing powder explosion photography that's colorful and explosive, faces in sharp focus.
+```
+
+**Prompt 112:**
+```
+A photorealistic close-up of a couple with prism creating rainbow light split across both faces. Set against dark background with light spectrum visible. The scene is illuminated by directional light through prism creating colorful atmosphere, producing a shared light art. Captured with an 85mm portrait lens, emphasizing prism couple photography that's colorful and symbolic, faces in sharp focus.
+```
+
+**Prompt 113:**
+```
+A photorealistic bust shot of a couple surrounded by floating white balloons creating dreamy scene. Set in studio with helium balloons suspended around them. The scene is illuminated by soft lighting creating whimsical atmosphere, producing a balloon levitation romance. Captured with an 85mm portrait lens, emphasizing floating elements photography that's dreamy and romantic, faces in sharp focus.
+```
+
+**Prompt 114:**
+```
+A photorealistic portrait of a couple with smoke clouds in complementary colors merging between them. Set in dark studio with colored smoke (pink & blue) meeting in middle. The scene is illuminated by dramatic lighting through smoke creating ethereal atmosphere, producing a smoke connection art. Captured with an 85mm portrait lens, emphasizing smoke photography that's symbolic and artistic, faces in sharp focus.
+```
+
+**Prompt 115:**
+```
+A photorealistic close-up of a couple with mirror placed between creating reflection illusion. Set with mirror creating visual trick and symmetry. The scene is illuminated by even lighting creating surreal atmosphere, producing a mirror reflection concept. Captured with an 85mm portrait lens, emphasizing reflection photography that's artistic and clever, faces in sharp focus.
+```
+
+**Prompt 116:**
+```
+A photorealistic bust shot of a couple with flowing silk fabric connecting them mid-air. Set in studio with white silk creating flowing connection between them. The scene is illuminated by bright lighting freezing fabric motion, creating elegant atmosphere. Captured with an 85mm portrait lens with fast shutter, emphasizing fabric art photography that's graceful and symbolic, faces in sharp focus.
+```
+
+**Prompt 117:**
+```
+A photorealistic portrait of a couple bathed in neon RGB split lighting - different colors each. Set against dark background with complementary gel lights. The scene is illuminated by colored strobes (blue/pink) creating contrast atmosphere, producing a neon duality art. Captured with an 85mm portrait lens, emphasizing color contrast photography that's vibrant and modern, faces in sharp focus.
+```
+
+**Prompt 118:**
+```
+A photorealistic close-up of a couple with geometric shapes (triangles, circles) floating around them. Set in studio with 3D props appearing to levitate around couple. The scene is illuminated by dramatic lighting creating depth atmosphere, producing a geometric romance art. Captured with an 85mm portrait lens, emphasizing surreal photography that's architectural and striking, faces in sharp focus.
+```
+
+**Prompt 119:**
+```
+A photorealistic bust shot of a couple with double exposure nature scene overlaid (trees, mountains). Set blending faces with landscape creating artistic overlay. The scene is illuminated by natural light creating dreamy atmosphere, producing a nature connection art. Captured with an 85mm portrait lens, emphasizing double exposure photography that's poetic and layered, faces in sharp focus.
+```
+
+**Prompt 120:**
+```
+A photorealistic portrait of a couple with oversized heart-shaped balloon between them, whimsical. Set with giant prop creating playful romantic scale. The scene is illuminated by soft lighting creating sweet atmosphere, producing an oversized love prop. Captured with an 85mm portrait lens, emphasizing conceptual romance photography that's playful and striking, faces in sharp focus.
+```
+
+**Prompt 121:**
+```
+A photorealistic close-up of a couple with light painting creating heart shape around them. Set in dark space with long exposure light trails forming heart. The scene is illuminated by moving light sources creating magical atmosphere, producing a light art romance. Captured with an 85mm portrait lens with long exposure, emphasizing light painting photography that's romantic and creative, faces in sharp focus.
+```
+
+**Prompt 122:**
+```
+A photorealistic bust shot of a couple with confetti frozen mid-air suspended around them. Set in studio with colorful confetti captured mid-fall. The scene is illuminated by bright flash freezing motion, creating celebration atmosphere. Captured with an 85mm portrait lens with fast shutter, emphasizing frozen moment photography that's joyful and artistic, faces in sharp focus.
+```
+
+---
+
+## 👥 PRZYJACIELE - STYL 16: ABSTRACT & SURREAL ART 🎭
+
+**Zastosowanie:** Creative group photography, artistic friendship, conceptual portraits
+
+---
+
+**Prompt 96:**
+```
+A photorealistic portrait of friend group with colored smoke bombs creating vibrant clouds. Set outdoors with multiple colored smoke creating rainbow atmosphere. The scene is illuminated by natural daylight through colorful smoke, creating festival atmosphere. Captured with an 85mm portrait lens, emphasizing smoke bomb photography that's vibrant and fun, faces in sharp focus.
+```
+
+**Prompt 97:**
+```
+A photorealistic close-up of friends with paint splash fight frozen mid-action. Set in studio with colorful paint captured flying between friends. The scene is illuminated by high-speed flash freezing paint motion, creating dynamic atmosphere. Captured with an 85mm portrait lens with ultra-fast shutter, emphasizing paint action photography that's chaotic and joyful, faces in sharp focus.
+```
+
+**Prompt 98:**
+```
+A photorealistic bust shot of friend group jumping in unison appearing to levitate. Set against seamless background all airborne together. The scene is illuminated by bright studio lighting creating dynamic atmosphere, producing a group levitation moment. Captured with an 85mm portrait lens with fast shutter, emphasizing jumping photography that's energetic and striking, faces in sharp focus.
+```
+
+**Prompt 99:**
+```
+A photorealistic portrait of friends with neon light sticks creating geometric patterns. Set in dark space with neon creating colorful frame around group. The scene is illuminated by neon glow creating rave atmosphere, producing a neon geometry art. Captured with an 85mm portrait lens, emphasizing neon photography that's vibrant and modern, faces in sharp focus.
+```
+
+**Prompt 100:**
+```
+A photorealistic close-up of friend group with mirror creating kaleidoscope multiplication effect. Set with mirrors creating multiple reflections of group. The scene is illuminated by studio lighting creating surreal atmosphere, producing a mirror art moment. Captured with an 85mm portrait lens, emphasizing reflection photography that's trippy and artistic, faces in sharp focus.
+```
+
+**Prompt 101:**
+```
+A photorealistic bust shot of friends with oversized geometric props - giant dice, cubes. Set in studio with surreal scale props creating playful scene. The scene is illuminated by clean lighting creating conceptual atmosphere, producing an oversized game concept. Captured with an 85mm portrait lens, emphasizing scale photography that's playful and striking, faces in sharp focus.
+```
+
+**Prompt 102:**
+```
+A photorealistic portrait of friend group with flowing colored fabric creating abstract waves. Set with multiple colored fabrics floating and flowing around group. The scene is illuminated by bright lighting freezing fabric motion, creating dynamic atmosphere. Captured with an 85mm portrait lens with fast shutter, emphasizing fabric art photography that's graceful and vibrant, faces in sharp focus.
+```
+
+**Prompt 103:**
+```
+A photorealistic close-up of friends with double exposure cityscape overlaid on group. Set blending faces with urban elements creating artistic overlay. The scene is illuminated by natural light creating dreamy atmosphere, producing a city connection art. Captured with an 85mm portrait lens, emphasizing multiple exposure photography that's artistic and meaningful, faces in sharp focus.
+```
+
+**Prompt 104:**
+```
+A photorealistic bust shot of friend group with light painting creating abstract shapes. Set in dark studio with long exposure light trails around group. The scene is illuminated by moving light sources creating magical atmosphere, producing a light art moment. Captured with an 85mm portrait lens with long exposure, emphasizing light painting photography that's creative and dynamic, faces in sharp focus.
+```
+
+**Prompt 105:**
+```
+A photorealistic portrait of friends with prisms creating rainbow light effects on all faces. Set with multiple prisms splitting light creating spectrum. The scene is illuminated by directional light through prisms creating colorful atmosphere, producing a group prism art. Captured with an 85mm portrait lens, emphasizing prism photography that's colorful and unique, faces in sharp focus.
+```
+
+**Prompt 106:**
+```
+A photorealistic close-up of friend group with floating paper airplanes suspended around them. Set in studio with white paper planes appearing to levitate. The scene is illuminated by clean lighting creating whimsical atmosphere, producing a paper flight moment. Captured with an 85mm portrait lens, emphasizing levitation photography that's playful and artistic, faces in sharp focus.
+```
+
+**Prompt 107:**
+```
+A photorealistic bust shot of friends with confetti cannon explosion captured mid-burst. Set in studio with colorful confetti exploding around group. The scene is illuminated by bright flash freezing confetti motion, creating celebration atmosphere. Captured with an 85mm portrait lens with fast shutter, emphasizing explosion photography that's joyful and dynamic, faces in sharp focus.
+```
+
+---
+
+## 👶 DZIECI - STYL 16: ABSTRACT & SURREAL ART 🎭
+
+**Zastosowanie:** Creative child photography, whimsical portraits, imaginative art
+
+---
+
+**Prompt 96:**
+```
+A photorealistic portrait of a child with oversized lollipop larger than their head, whimsical. Set against colorful background with surreal candy scale. The scene is illuminated by bright playful lighting creating candy land atmosphere, producing an oversized sweet concept. Captured with an 85mm portrait lens, emphasizing conceptual child photography that's playful and striking, face in sharp focus.
+```
+
+**Prompt 97:**
+```
+A photorealistic close-up of a child with bubbles floating and reflecting rainbow colors. Set with soap bubbles suspended around face creating magical moment. The scene is illuminated by soft natural light through bubbles creating iridescent atmosphere, producing a bubble magic art. Captured with an 85mm portrait lens, emphasizing bubble photography that's enchanting and delicate, face in sharp focus.
+```
+
+**Prompt 98:**
+```
+A photorealistic bust shot of a child wearing colorful butterfly wings appearing to fly. Set against dreamy background with wings creating fantasy. The scene is illuminated by soft backlight creating ethereal atmosphere, producing a butterfly child moment. Captured with an 85mm portrait lens, emphasizing fantasy photography that's whimsical and magical, face in sharp focus.
+```
+
+**Prompt 99:**
+```
+A photorealistic portrait of a child with colorful balloons appearing to lift them up. Set in studio with helium balloons creating levitation illusion. The scene is illuminated by bright lighting creating joyful atmosphere, producing a balloon lift concept. Captured with an 85mm portrait lens, emphasizing levitation photography that's playful and dreamy, face in sharp focus.
+```
+
+**Prompt 100:**
+```
+A photorealistic close-up of a child with gentle confetti falling like snow around them. Set with colorful paper confetti suspended and falling softly. The scene is illuminated by soft lighting creating magical atmosphere, producing a confetti snow moment. Captured with an 85mm portrait lens with slight motion, emphasizing falling confetti photography that's gentle and enchanting, face in sharp focus.
+```
+
+**Prompt 101:**
+```
+A photorealistic bust shot of a child holding giant oversized flower bigger than their face. Set against minimal background with surreal botanical scale. The scene is illuminated by soft natural light creating whimsical atmosphere, producing an oversized bloom concept. Captured with an 85mm portrait lens, emphasizing scale photography that's sweet and striking, face in sharp focus.
+```
+
+**Prompt 102:**
+```
+A photorealistic portrait of a child with colorful smoke gently surrounding them, magical. Set in studio with pastel colored smoke creating dreamy clouds. The scene is illuminated by soft lighting through smoke creating ethereal atmosphere, producing a cloud child moment. Captured with an 85mm portrait lens, emphasizing smoke photography that's gentle and magical, face in sharp focus.
+```
+
+**Prompt 103:**
+```
+A photorealistic close-up of a child with face paint creating imaginative animal features. Set against neutral background letting creative face art shine. The scene is illuminated by clean lighting creating playful atmosphere, producing a face paint imagination. Captured with an 85mm portrait lens, emphasizing face art photography that's creative and fun, face in sharp focus.
+```
+
+**Prompt 104:**
+```
+A photorealistic bust shot of a child with paper stars floating around creating night sky. Set in studio with white paper stars appearing to levitate. The scene is illuminated by soft lighting creating dreamy atmosphere, producing a star child moment. Captured with an 85mm portrait lens, emphasizing levitation photography that's whimsical and sweet, face in sharp focus.
+```
+
+**Prompt 105:**
+```
+A photorealistic portrait of a child with light bokeh creating magical sparkle background. Set with beautiful bokeh lights creating fairy tale atmosphere. The scene is illuminated by multiple soft lights creating sparkle effect, producing a magical light moment. Captured with an 85mm portrait lens with wide aperture, emphasizing bokeh photography that's enchanting and dreamy, face in sharp focus.
+```
+
+**Prompt 106:**
+```
+A photorealistic close-up of a child blowing glitter creating sparkle explosion. Set with gold glitter captured mid-air creating magical burst. The scene is illuminated by directional light catching glitter sparkle, creating celebration atmosphere. Captured with an 85mm portrait lens with fast shutter, emphasizing glitter photography that's magical and joyful, face in sharp focus.
+```
+
+**Prompt 107:**
+```
+A photorealistic bust shot of a child with rainbow light projected across their face. Set against dark background with spectrum colors creating art. The scene is illuminated by prism light creating colorful atmosphere, producing a rainbow child moment. Captured with an 85mm portrait lens, emphasizing light art photography that's colorful and whimsical, face in sharp focus.
+```
+
+---
+
+## 🐾 ZWIERZĘTA - STYL 16: ABSTRACT & SURREAL ART 🎭
+
+**Zastosowanie:** Creative pet photography, artistic animal portraits, conceptual pets
+
+---
+
+**Prompt 96:**
+```
+A photorealistic portrait of a dog with colorful paint powder creating rainbow explosion around face. Set in studio with vibrant powder bursting around pet. The scene is illuminated by bright flash freezing powder motion, creating festive atmosphere. Captured with an 85mm portrait lens with fast shutter, emphasizing powder art photography that's colorful and striking, face in sharp focus.
+```
+
+**Prompt 97:**
+```
+A photorealistic close-up of a cat with bokeh lights creating magical sparkle background. Set with beautiful colorful bokeh creating fairy tale atmosphere. The scene is illuminated by multiple soft lights creating sparkle effect, producing a magical pet moment. Captured with an 85mm portrait lens with wide aperture, emphasizing bokeh photography that's enchanting and beautiful, face in sharp focus.
+```
+
+**Prompt 98:**
+```
+A photorealistic bust shot of a dog with neon RGB lighting creating cyberpunk pet aesthetic. Set against dark background with colored gel lights (pink/blue). The scene is illuminated by neon strobes creating futuristic atmosphere, producing a neon pet art. Captured with an 85mm portrait lens, emphasizing neon pet photography that's vibrant and modern, face in sharp focus.
+```
+
+**Prompt 99:**
+```
+A photorealistic portrait of a cat with flowing fabric creating abstract waves around them. Set with colorful silk floating and flowing around pet. The scene is illuminated by bright lighting freezing fabric motion, creating elegant atmosphere. Captured with an 85mm portrait lens with fast shutter, emphasizing fabric art photography that's graceful and artistic, face in sharp focus.
+```
+
+**Prompt 100:**
+```
+A photorealistic close-up of a dog with double exposure nature scene overlaid (forest, mountains). Set blending pet face with landscape creating artistic overlay. The scene is illuminated by natural light creating dreamy atmosphere, producing a nature spirit pet. Captured with an 85mm portrait lens, emphasizing double exposure photography that's artistic and mystical, face in sharp focus.
+```
+
+**Prompt 101:**
+```
+A photorealistic bust shot of a cat with prism creating rainbow light across face. Set against dark background with light spectrum visible. The scene is illuminated by directional light through prism creating colorful atmosphere, producing a prism pet art. Captured with an 85mm portrait lens, emphasizing prism photography that's colorful and unique, face in sharp focus.
+```
+
+**Prompt 102:**
+```
+A photorealistic portrait of a dog with smoke creating mysterious atmosphere around them. Set in studio with colored smoke swirling around pet. The scene is illuminated by dramatic lighting through smoke creating ethereal atmosphere, producing a smoke pet moment. Captured with an 85mm portrait lens, emphasizing smoke photography that's dramatic and artistic, face in sharp focus.
+```
+
+**Prompt 103:**
+```
+A photorealistic close-up of a white cat with colorful paint splatters on fur, artistic. Set against clean background with abstract paint accents. The scene is illuminated by clean lighting creating artistic atmosphere, producing a painted pet concept. Captured with an 85mm portrait lens, emphasizing paint art photography that's colorful and creative, face in sharp focus.
+```
+
+**Prompt 104:**
+```
+A photorealistic bust shot of a dog with oversized bow tie larger than their head, whimsical. Set against minimal background with surreal accessory scale. The scene is illuminated by bright lighting creating playful atmosphere, producing an oversized fashion prop. Captured with an 85mm portrait lens, emphasizing scale photography that's humorous and striking, face in sharp focus.
+```
+
+**Prompt 105:**
+```
+A photorealistic portrait of a cat with mirror creating kaleidoscope reflection effect. Set with mirrors creating multiple reflections and patterns. The scene is illuminated by studio lighting creating surreal atmosphere, producing a mirror pet art. Captured with an 85mm portrait lens, emphasizing reflection photography that's trippy and artistic, face in sharp focus.
+```
+
+**Prompt 106:**
+```
+A photorealistic close-up of a dog with light painting creating abstract shapes around face. Set in dark studio with long exposure light trails visible. The scene is illuminated by moving light sources creating magical atmosphere, producing a light art pet. Captured with an 85mm portrait lens with long exposure, emphasizing light painting photography that's creative and dynamic, face in sharp focus.
+```
+
+**Prompt 107:**
+```
+A photorealistic bust shot of a pet with floating bubbles creating dreamy scene around them. Set with soap bubbles suspended creating whimsical atmosphere. The scene is illuminated by soft natural light through bubbles creating iridescent glow, producing a bubble pet magic. Captured with an 85mm portrait lens, emphasizing bubble photography that's enchanting and playful, face in sharp focus.
+```
+
+---
+
+✅ **ABSTRACT & SURREAL ART COMPLETE FOR ALL 6 CATEGORIES!**
+
+**72 NEW PROMPTS ADDED!**
+
+---
+
+## 🎨 ABSTRACT EXPANSION SUMMARY:
+
+| Kategoria | Nowe Abstract Prompts |
+|-----------|----------------------|
+| **KOBIETY** | +12 (306-317) |
+| **FACECI** | +12 (151-162) |
+| **PARY** | +12 (111-122) |
+| **PRZYJACIELE** | +12 (96-107) |
+| **DZIECI** | +12 (96-107) |
+| **ZWIERZĘTA** | +12 (96-107) |
+| **TOTAL** | **+72** |
+
+---
+
+## 🎭 ABSTRACT TECHNIQUES INCLUDED:
+
+✨ **Props & Scale:**
+- Oversized flowers, fruit, vinyl, candy, accessories
+- Giant geometric shapes floating/levitating
+- Surreal scale distortion
+
+🎨 **Paint & Color:**
+- Face/body paint geometric patterns
+- Paint splash frozen mid-action
+- Colored powder explosions
+- Glitter bursts
+
+💨 **Smoke & Fog:**
+- Colored smoke clouds (single/multiple colors)
+- Smoke bombs outdoor
+- Gentle pastel smoke for kids
+
+🪞 **Mirrors & Reflections:**
+- Mirror kaleidoscope effects
+- Shattered mirror fragments
+- Multiple reflection tricks
+
+🌈 **Light Effects:**
+- Prism rainbow refraction
+- Light painting trails
+- Neon RGB lighting
+- Bokeh sparkle backgrounds
+
+🎪 **Fabric & Movement:**
+- Flowing silk mid-air
+- Fabric manipulation
+- Frozen fabric motion
+
+✨ **Other Effects:**
+- Double exposure overlays
+- Levitation illusions
+- Floating objects (balloons, bubbles, confetti, paper)
+- Confetti/glitter explosions
+
+---
+
+**GRAND TOTAL NOW: 850 + 72 = 922 PROMPTS!** 🚀🎨
+
+---
