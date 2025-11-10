@@ -1258,5 +1258,592 @@ professional photography, high quality, 50mm lens, shallow depth of field
 
 ---
 
-**Czekam na feedback do Części 1! Jak podoba się struktura i prompty dla kobiet?**
-**Zatwierdzasz i robię dalej resztę kategorii?** 🚀📸
+---
+---
+---
+
+# 👨 KATEGORIA 2: FACECI (MEN)
+
+**Total prompts w tej kategorii: 80**
+
+---
+
+## STYL 1: PROFESSIONAL BUSINESS 💼
+
+**Zastosowanie:** Corporate headshots, executive portraits, LinkedIn, business professional
+
+---
+
+### 1.1 Corporate Executive
+
+**Prompt 1:**
+```
+A photorealistic headshot of a confident businessman in a sharp charcoal suit with crisp white shirt and silk tie, arms crossed professionally at chest level. Set in a modern office with glass walls and city skyline blurred softly behind. The scene is illuminated by bright natural office lighting falling evenly on his face, creating an authoritative and professional atmosphere. Captured with an 85mm portrait lens at eye level, emphasizing executive corporate presence and commanding confidence, face in sharp focus.
+```
+
+**Prompt 2:**
+```
+A photorealistic bust shot of a professional man sitting at his desk with focused expression, wearing a navy blue tailored suit. Set in a minimalist executive office with sleek furniture and plants visible in soft blur behind. The scene is illuminated by natural window light streaming from the side, creating a competent and contemporary atmosphere. Captured with an 85mm portrait lens from a slight angle, emphasizing modern business leadership and professional presence, face in sharp focus.
+```
+
+**Prompt 3:**
+```
+A photorealistic portrait of a CEO standing with hands in pockets confidently, wearing an impeccable black power suit. Set against floor-to-ceiling windows with urban cityscape fading into soft blur behind him. The scene is illuminated by golden hour sunlight catching his face, creating a successful and powerful atmosphere. Captured with an 85mm portrait lens from a slightly low angle to emphasize authority, cinematic corporate style with commanding presence, face in sharp focus.
+```
+
+**Prompt 4:**
+```
+A photorealistic headshot of a businessman in a burgundy tie and grey suit looking directly at camera with confident expression. Set against a corporate logo wall visible in soft focus behind. The scene is illuminated by professional studio lighting creating clean even light on his face, producing an authoritative atmosphere. Captured with an 85mm portrait lens straight-on with shallow depth of field, emphasizing corporate communications style and direct professional presence, face in sharp focus.
+```
+
+**Prompt 5:**
+```
+A photorealistic bust shot of a young professional in smart business casual - white shirt with rolled sleeves, sitting in modern co-working space. Set against exposed brick and greenery blurred in the background. The scene is illuminated by natural window light streaming onto his face, creating an approachable and modern mood. Captured with an 85mm portrait lens at eye level, emphasizing contemporary startup culture and relaxed professionalism, face in sharp focus.
+```
+
+---
+
+### 1.2 Business Casual
+
+**Prompt 6:**
+```
+A photorealistic portrait of a professional man in a soft grey sweater over collared shirt, sitting with coffee cup near face. Set in a bright modern office with large windows blurred softly behind. The scene is illuminated by warm natural light flooding the space, creating an inviting and authentic atmosphere. Captured with an 85mm portrait lens from a slight angle, emphasizing lifestyle business portrait style with approachable energy, face in sharp focus.
+```
+
+**Prompt 7:**
+```
+A photorealistic headshot of a creative professional in casual blazer without tie, natural confident expression. Set against a neutral grey studio background. The scene is illuminated by soft studio lighting with subtle shadows, creating a clean and modern atmosphere. Captured with an 85mm portrait lens at eye level, emphasizing professional yet relaxed presence, face in sharp focus.
+```
+
+**Prompt 8:**
+```
+A photorealistic bust shot of a man in crisp white oxford shirt with top button undone, laptop edge visible at bottom of frame. Set in a creative agency space with design elements blurred behind. The scene is illuminated by bright airy natural light, creating a fresh contemporary mood. Captured with an 85mm portrait lens from slight angle, emphasizing modern creative professional style, face in sharp focus.
+```
+
+---
+
+## STYL 2: CASUAL LIFESTYLE 👕
+
+**Zastosowanie:** Natural, everyday, authentic, relatable portraits
+
+---
+
+### 2.1 Everyday Casual
+
+**Prompt 9:**
+```
+A photorealistic close-up portrait of a man in comfortable casual hoodie, sitting on couch with genuine smile. Set in a cozy living room with plants and warm textures visible in soft blur behind. The scene is illuminated by natural window light falling on his face, creating a warm and relaxed atmosphere. Captured with an 85mm portrait lens candidly from the side, emphasizing lifestyle home photography that's authentic and approachable, face in sharp focus.
+```
+
+**Prompt 10:**
+```
+A photorealistic portrait of a man in denim jacket and basic t-shirt, hands in pockets with confident casual stance. Set on an urban street with graffiti wall blurred in the background. The scene is illuminated by natural daylight creating even lighting, producing a cool and effortless vibe. Captured with an 85mm portrait lens at slight angle, emphasizing street style casual photography that's authentic and modern, face in sharp focus.
+```
+
+**Prompt 11:**
+```
+A photorealistic bust shot of a man in flannel shirt over t-shirt, sitting at outdoor cafe with coffee. Set against cafe exterior with people and street life blurred softly behind. The scene is illuminated by soft overcast natural light on his face, creating a relaxed everyday atmosphere. Captured with an 85mm portrait lens from slight angle, emphasizing candid lifestyle photography that's genuine and relatable, face in sharp focus.
+```
+
+**Prompt 12:**
+```
+A photorealistic portrait of a bearded man in simple black t-shirt, genuine laugh captured mid-moment. Set in a casual setting with friends out of focus in background. The scene is illuminated by natural light creating authentic mood, producing a joyful and real atmosphere. Captured with an 85mm portrait lens candidly, emphasizing documentary lifestyle style that's emotional and natural, face in sharp focus.
+```
+
+---
+
+### 2.2 Outdoor Casual
+
+**Prompt 13:**
+```
+A photorealistic portrait of a man in casual outdoor jacket, standing in autumn forest with fallen leaves blurred around. The scene is illuminated by soft natural sunlight filtering through trees onto his face, creating a peaceful outdoor atmosphere. Captured with an 85mm portrait lens at eye level during golden hour, emphasizing lifestyle nature photography that's warm and adventurous, face in sharp focus.
+```
+
+**Prompt 14:**
+```
+A photorealistic close-up portrait of a man on a beach wearing casual linen shirt, ocean and sunset colors blurred softly behind. The scene is illuminated by golden sunset light falling on his face, creating a tranquil vacation atmosphere. Captured with an 85mm portrait lens from the side, emphasizing lifestyle travel photography that's free and peaceful, face in sharp focus.
+```
+
+**Prompt 15:**
+```
+A photorealistic bust shot of a man in hiking gear with backpack strap visible, mountain landscape blurred in background. The scene is illuminated by bright natural daylight creating crisp clear lighting, producing an adventurous outdoor mood. Captured with an 85mm portrait lens at eye level, emphasizing outdoor adventure lifestyle that's inspiring and active, face in sharp focus.
+```
+
+---
+
+## STYL 3: ATHLETIC FITNESS 💪
+
+**Zastosowanie:** Gym, sports, fitness, athletic portraits
+
+---
+
+### 3.1 Gym Training
+
+**Prompt 16:**
+```
+A photorealistic close-up portrait of an athletic man in moisture-wicking training shirt, intense focused expression. Set in a modern gym with equipment blurred in the background. The scene is illuminated by bright gym lighting creating defined shadows on his face, producing a determined and powerful atmosphere. Captured with an 85mm portrait lens from a slight low angle, emphasizing athletic strength and fitness dedication, face in sharp focus with sweat detail visible.
+```
+
+**Prompt 17:**
+```
+A photorealistic bust shot of a muscular man in black tank top, arms visible showing defined physique. Set against gym mirrors and weights blurred softly behind. The scene is illuminated by dramatic gym lighting highlighting his facial features and muscle definition, creating a motivational fitness atmosphere. Captured with an 85mm portrait lens at eye level, emphasizing athletic bodybuilding style that's powerful and inspiring, face in sharp focus.
+```
+
+**Prompt 18:**
+```
+A photorealistic portrait of a fit man in athletic compression shirt, holding water bottle near face during training break. Set in a boxing gym with punching bags blurred in background. The scene is illuminated by natural light from gym windows mixing with artificial lights, creating a gritty athletic mood. Captured with an 85mm portrait lens from slight angle, emphasizing sports training photography that's authentic and intense, face in sharp focus.
+```
+
+---
+
+### 3.2 Sports Action
+
+**Prompt 19:**
+```
+A photorealistic close-up portrait of a runner in technical running gear, caught mid-breath during training with determination in his eyes. Set on an outdoor track with stadium blurred behind. The scene is illuminated by natural daylight creating dynamic lighting, producing an energetic athletic atmosphere. Captured with an 85mm portrait lens with fast shutter to freeze moment, emphasizing sports photography that's dynamic and powerful, face in sharp focus.
+```
+
+**Prompt 20:**
+```
+A photorealistic bust shot of a basketball player in team jersey, basketball held near chest. Set on an indoor court with hoops and lines blurred in background. The scene is illuminated by bright court lighting creating even professional lighting, producing a competitive sports atmosphere. Captured with an 85mm portrait lens at eye level, emphasizing athletic team sports style that's confident and professional, face in sharp focus.
+```
+
+---
+
+## STYL 4: FASHION EDITORIAL 🕴️
+
+**Zastosowanie:** High fashion, editorial, street style, designer wear
+
+---
+
+### 4.1 High Fashion
+
+**Prompt 21:**
+```
+A photorealistic portrait of a male model in dramatic black designer coat with architectural collar, strong angular head position. Set against a white seamless background. The scene is illuminated by high-contrast studio lighting on his face, creating a bold and editorial atmosphere. Captured with an 85mm portrait lens at eye level with high contrast, emphasizing GQ-style fashion photography that's sharp and striking, face in sharp focus.
+```
+
+**Prompt 22:**
+```
+A photorealistic bust shot of a man in minimalist all-black designer outfit with clean lines. Set against a grey studio background. The scene is illuminated by soft even studio lighting on his face, creating a sophisticated and minimal atmosphere. Captured with an 85mm portrait lens straight-on, emphasizing minimalist fashion editorial that's refined and modern, face in sharp focus.
+```
+
+**Prompt 23:**
+```
+A photorealistic close-up portrait of a fashion-forward man in luxury turtleneck and designer jacket, intense gaze. Set in an urban environment with modern architecture blurred behind. The scene is illuminated by natural overcast lighting falling on his face, creating a contemporary fashion mood. Captured with an 85mm portrait lens from slight angle, emphasizing street style editorial photography that's edgy and sophisticated, face in sharp focus.
+```
+
+**Prompt 24:**
+```
+A photorealistic portrait of a model in avant-garde layered menswear with mixed textures and patterns. Set against a solid colored backdrop. The scene is illuminated by dramatic studio lighting creating shadows on his face, producing a bold editorial atmosphere. Captured with an 85mm portrait lens with artistic composition, emphasizing high fashion editorial style that's creative and striking, face in sharp focus.
+```
+
+---
+
+### 4.2 Street Style
+
+**Prompt 25:**
+```
+A photorealistic bust shot of a stylish man in designer streetwear - oversized hoodie and statement jacket. Set on an urban street with graffiti and city elements blurred behind. The scene is illuminated by natural daylight creating authentic street lighting, producing a cool contemporary vibe. Captured with an 85mm portrait lens at angle, emphasizing modern street fashion photography that's authentic and trendy, face in sharp focus.
+```
+
+**Prompt 26:**
+```
+A photorealistic portrait of a man in luxury casual wear - designer sneakers visible, premium denim and leather jacket. Set in a trendy urban location with neon signs blurred softly behind. The scene is illuminated by mixed natural and neon light on his face, creating a modern street culture atmosphere. Captured with an 85mm portrait lens, emphasizing urban fashion lifestyle that's stylish and current, face in sharp focus.
+```
+
+---
+
+## STYL 5: GROOMING STUDIO 🎩
+
+**Zastosowanie:** Clean portraits, grooming, professional headshots, barber style
+
+---
+
+### 5.1 Classic Grooming
+
+**Prompt 27:**
+```
+A photorealistic headshot of a well-groomed man with perfectly styled hair and clean shave, wearing a classic white dress shirt. Set against a pure white seamless background. The scene is illuminated by bright even studio lighting with no shadows on his face, creating a clean and fresh aesthetic. Captured with an 85mm portrait lens at eye level, emphasizing high-key grooming photography that's polished and professional, face in sharp focus.
+```
+
+**Prompt 28:**
+```
+A photorealistic close-up portrait of a bearded man with impeccably groomed beard and styled hair, wearing a charcoal suit. Set against a dark grey studio backdrop. The scene is illuminated by subtle dramatic lighting from the side creating soft shadows, producing a sophisticated masculine atmosphere. Captured with an 85mm portrait lens, emphasizing classic men's grooming portrait that's refined and elegant, face in sharp focus.
+```
+
+**Prompt 29:**
+```
+A photorealistic bust shot of a man in classic barber chair setting, freshly groomed with clean fade haircut. Set in a vintage barber shop with mirrors and tools blurred behind. The scene is illuminated by warm barbershop lighting creating nostalgic atmosphere, producing a traditional masculine mood. Captured with an 85mm portrait lens from slight angle, emphasizing classic barber culture photography that's authentic and timeless, face in sharp focus.
+```
+
+**Prompt 30:**
+```
+A photorealistic headshot of a professional man with modern hairstyle and light stubble, wearing a crisp blue shirt. Set against a neutral beige background. The scene is illuminated by soft natural-looking studio light on his face, creating a contemporary approachable atmosphere. Captured with an 85mm portrait lens straight-on, emphasizing modern professional grooming style that's clean and confident, face in sharp focus.
+```
+
+---
+
+## STYL 6: RUGGED OUTDOOR 🏔️
+
+**Zastosowanie:** Adventure, outdoors, rugged masculine, explorer
+
+---
+
+### 6.1 Mountain Adventure
+
+**Prompt 31:**
+```
+A photorealistic close-up portrait of a rugged man in outdoor technical jacket with hood, mountain peaks blurred dramatically behind him. The scene is illuminated by bright natural mountain light creating crisp atmospheric lighting, producing an adventurous explorer mood. Captured with an 85mm portrait lens at eye level, emphasizing outdoor adventure photography that's inspiring and powerful, face in sharp focus with natural windswept hair.
+```
+
+**Prompt 32:**
+```
+A photorealistic bust shot of an adventurer with light beard wearing weathered leather jacket, backpack strap visible. Set against a rocky mountain landscape fading into soft blur. The scene is illuminated by golden hour sunlight from the side creating dramatic rim lighting, producing an epic outdoor atmosphere. Captured with an 85mm portrait lens from slight low angle, emphasizing rugged adventure style that's cinematic and bold, face in sharp focus.
+```
+
+**Prompt 33:**
+```
+A photorealistic portrait of a man in flannel and denim sitting by campfire glow, forest wilderness blurred in background. The scene is illuminated by warm firelight mixing with twilight blue hour, creating a rugged camping atmosphere. Captured with an 85mm portrait lens, emphasizing outdoor lifestyle photography that's authentic and adventurous, face in sharp focus with fire glow on features.
+```
+
+---
+
+### 6.2 Urban Explorer
+
+**Prompt 34:**
+```
+A photorealistic close-up portrait of a man in urban explorer style - utility jacket and workwear, standing on industrial rooftop. Set against city skyline blurred behind him. The scene is illuminated by overcast natural light creating even moody lighting, producing an urban adventurer atmosphere. Captured with an 85mm portrait lens at eye level, emphasizing urban exploration photography that's gritty and authentic, face in sharp focus.
+```
+
+**Prompt 35:**
+```
+A photorealistic bust shot of a rugged man in workwear jacket and beanie, urban warehouse setting visible behind. The scene is illuminated by industrial natural light filtering through windows, creating a raw masculine mood. Captured with an 85mm portrait lens from slight angle, emphasizing urban industrial style that's authentic and strong, face in sharp focus.
+```
+
+---
+
+## STYL 7: CREATIVE ARTISTIC 🎨
+
+**Zastosowanie:** Artist portraits, creative professionals, musicians, artistic expression
+
+---
+
+### 7.1 Artist Portrait
+
+**Prompt 36:**
+```
+A photorealistic close-up portrait of a creative man with artistic styling - unique hairstyle and vintage clothing. Set in an art studio with paintings and creative chaos blurred behind. The scene is illuminated by natural studio window light falling on his face, creating an authentic artistic atmosphere. Captured with an 85mm portrait lens, emphasizing creative portrait style that's authentic and expressive, face in sharp focus.
+```
+
+**Prompt 37:**
+```
+A photorealistic bust shot of a musician holding guitar near his chest, wearing casual vintage band t-shirt. Set in a music studio with instruments and equipment blurred softly behind. The scene is illuminated by warm ambient studio lighting, creating a passionate creative mood. Captured with an 85mm portrait lens from slight angle, emphasizing music artist photography that's authentic and soulful, face in sharp focus.
+```
+
+**Prompt 38:**
+```
+A photorealistic portrait of a tattoo artist with visible arm tattoos, wearing black t-shirt with creative casual style. Set in a tattoo parlor with art and neon blurred in background. The scene is illuminated by mixed colorful lighting creating artistic atmosphere, producing a creative urban mood. Captured with an 85mm portrait lens, emphasizing alternative artist portrait that's edgy and authentic, face in sharp focus.
+```
+
+---
+
+### 7.2 Fine Art
+
+**Prompt 39:**
+```
+A photorealistic close-up portrait in dramatic black and white, man's face with strong features highlighted. Set against a dark background. The scene is illuminated by single dramatic light source from the side creating chiaroscuro effect, producing an intense artistic mood. Captured with an 85mm portrait lens, emphasizing fine art portrait photography that's dramatic and timeless, face in sharp focus with high contrast.
+```
+
+**Prompt 40:**
+```
+A photorealistic portrait of a contemplative man in simple dark clothing, minimalist composition. Set against a plain textured wall. The scene is illuminated by soft natural light creating subtle shadows, producing a meditative artistic atmosphere. Captured with an 85mm portrait lens, emphasizing contemporary fine art style that's minimalist and thoughtful, face in sharp focus.
+```
+
+---
+
+## STYL 8: VINTAGE RETRO 📻
+
+**Zastosowanie:** Retro styling, vintage aesthetics, nostalgic portraits
+
+---
+
+### 8.1 1950s Classic
+
+**Prompt 41:**
+```
+A photorealistic portrait of a man in classic 1950s style - slicked back hair, white t-shirt and leather jacket. Set against a vintage diner with chrome and neon blurred behind. The scene is illuminated by warm nostalgic lighting creating retro atmosphere, producing a classic Americana mood. Captured with an 85mm portrait lens with vintage color grading, emphasizing 1950s greaser style that's iconic and cool, face in sharp focus.
+```
+
+**Prompt 42:**
+```
+A photorealistic headshot of a gentleman in 1940s military-inspired style - clean cut with vintage suit and tie. Set against a classic American backdrop blurred softly. The scene is illuminated by soft period-appropriate lighting, creating a nostalgic wartime era atmosphere. Captured with an 85mm portrait lens with vintage film look, emphasizing 1940s portrait photography that's timeless and dignified, face in sharp focus.
+```
+
+---
+
+### 8.2 1970s Style
+
+**Prompt 43:**
+```
+A photorealistic bust shot of a man in 1970s aesthetic - mustache, aviator style, denim and earth tones. Set in a vintage van or retro interior blurred behind. The scene is illuminated by warm golden hour light creating groovy atmosphere, producing a free-spirited 70s vibe. Captured with an 85mm portrait lens with vintage film grain, emphasizing 1970s lifestyle photography that's nostalgic and cool, face in sharp focus.
+```
+
+**Prompt 44:**
+```
+A photorealistic portrait of a man in disco era style - open collar shirt and period hairstyle. Set against colorful geometric retro background. The scene is illuminated by warm colored studio lighting creating funky atmosphere, producing a 1970s party mood. Captured with an 85mm portrait lens with saturated vintage colors, emphasizing disco era fashion that's bold and nostalgic, face in sharp focus.
+```
+
+---
+
+### 8.3 1990s Grunge
+
+**Prompt 45:**
+```
+A photorealistic close-up portrait of a man in 90s grunge style - long hair, flannel shirt, and casual unkempt aesthetic. Set in a record store with vinyl and posters blurred behind. The scene is illuminated by natural indoor lighting creating authentic 90s mood, producing a nostalgic alternative atmosphere. Captured with an 85mm portrait lens with slight grain, emphasizing 1990s grunge photography that's authentic and raw, face in sharp focus.
+```
+
+**Prompt 46:**
+```
+A photorealistic bust shot of a man in 90s streetwear - oversized graphic tee and relaxed fit. Set on an urban street with 90s era elements blurred behind. The scene is illuminated by natural daylight creating casual atmosphere, producing a nostalgic street culture vibe. Captured with an 85mm portrait lens with muted colors, emphasizing 1990s street style that's authentic and cool, face in sharp focus.
+```
+
+---
+
+## STYL 9: CINEMATIC DRAMATIC 🎬
+
+**Zastosowanie:** Movie style, dramatic lighting, storytelling portraits
+
+---
+
+### 9.1 Film Noir
+
+**Prompt 47:**
+```
+A photorealistic close-up portrait of a man in 1940s detective style - fedora hat and trench coat, dramatic shadows across his face. Set in a foggy noir alley with street lamp blurred behind. The scene is illuminated by moody dramatic lighting creating venetian blind shadow patterns, producing a mysterious film noir atmosphere. Captured with an 85mm portrait lens in high contrast black and white, emphasizing classic noir cinematography that's atmospheric and dramatic, face in sharp focus.
+```
+
+**Prompt 48:**
+```
+A photorealistic bust shot of a man in noir style with cigarette smoke curling around (no smoking), dark suit in shadowy interior. Set against a dark background with minimal lighting. The scene is illuminated by single key light from the side creating dramatic chiaroscuro, producing a detective story mood. Captured with an 85mm portrait lens in black and white, emphasizing film noir style that's mysterious and cinematic, face in sharp focus.
+```
+
+---
+
+### 9.2 Action Cinematic
+
+**Prompt 49:**
+```
+A photorealistic portrait of a man with intense determined expression, wearing tactical or action-ready clothing. Set against a dramatic sky with clouds blurred behind. The scene is illuminated by epic natural light creating heroic atmosphere, producing an action movie mood. Captured with an 85mm portrait lens from slightly low angle, emphasizing cinematic action photography that's powerful and dramatic, face in sharp focus.
+```
+
+**Prompt 50:**
+```
+A photorealistic close-up portrait of a man backlit by dramatic sunset, rim lighting glowing around his profile. Set in an epic outdoor location with landscape blurred behind. The scene is illuminated by golden hour creating silhouette with edge lighting, producing a cinematic hero atmosphere. Captured with an 85mm portrait lens with lens flare effects, emphasizing movie poster style that's dramatic and inspiring, face in sharp focus.
+```
+
+---
+
+### 9.3 Dramatic Studio
+
+**Prompt 51:**
+```
+A photorealistic high-contrast portrait of a man with dramatic Rembrandt lighting from above, strong shadows defining his facial features. Set against a pure black background. The scene is illuminated by single dramatic spotlight creating intense mood, producing a powerful theatrical atmosphere. Captured with an 85mm portrait lens straight-on, emphasizing dramatic studio photography that's stark and emotional, face in sharp focus.
+```
+
+**Prompt 52:**
+```
+A photorealistic bust shot of a man emerging from darkness with split lighting - half face illuminated half in shadow. Set against a dark background with subtle smoke. The scene creates a mysterious and dramatic atmosphere with theatrical presence. Captured with an 85mm portrait lens, emphasizing cinematic dramatic portrait style that's powerful and artistic, face in sharp focus.
+```
+
+---
+
+## STYL 10: NATURAL LIGHT SOFT ☀️
+
+**Zastosowanie:** Golden hour, soft natural light, authentic portraits
+
+---
+
+### 10.1 Golden Hour
+
+**Prompt 53:**
+```
+A photorealistic portrait of a man in casual wear during golden hour, warm sunlight creating rim light around his face and hair. Set in an open field or natural landscape blurred softly behind. The scene is illuminated by golden sunset light creating warm glowing atmosphere, producing a peaceful contemplative mood. Captured with an 85mm portrait lens with beautiful bokeh, emphasizing golden hour photography that's warm and cinematic, face in sharp focus.
+```
+
+**Prompt 54:**
+```
+A photorealistic close-up portrait of a man with sun flare and golden light streaming across his face, genuine natural expression. Set against blurred greenery in soft focus. The scene is illuminated by backlit golden hour creating ethereal rim lighting, producing a dreamy outdoor atmosphere. Captured with an 85mm portrait lens from slightly below, emphasizing natural light portrait that's beautiful and authentic, face in sharp focus.
+```
+
+**Prompt 55:**
+```
+A photorealistic bust shot of a man sitting on hillside during sunset, contemplative expression with landscape blurred behind. The scene is illuminated by warm sunset colors creating peaceful atmosphere, producing a calm inspiring mood. Captured with an 85mm portrait lens from side angle, emphasizing lifestyle golden hour style that's serene and natural, face in sharp focus.
+```
+
+**Prompt 56:**
+```
+A photorealistic portrait of a bearded man in outdoor casual clothing, golden wheat field or tall grass blurred around him. The scene is illuminated by soft golden hour sunlight filtering through, creating a romantic natural atmosphere. Captured with an 85mm portrait lens at eye level with shallow depth of field, emphasizing outdoor natural portrait that's warm and genuine, face in sharp focus.
+```
+
+---
+
+### 10.2 Soft Window Light
+
+**Prompt 57:**
+```
+A photorealistic close-up portrait of a man by large window, soft natural light falling gently on one side of his face. Set in a minimal interior with white sheer curtains blurred behind. The scene is illuminated by diffused window light creating gentle atmospheric mood, producing a peaceful contemplative atmosphere. Captured with an 85mm portrait lens in high key lighting, emphasizing natural window light photography that's soft and intimate, face in sharp focus.
+```
+
+**Prompt 58:**
+```
+A photorealistic bust shot of a man in casual comfortable clothing, sitting in window seat with book or coffee. Set in cozy home interior blurred softly around. The scene is illuminated by soft daylight from window creating warm natural lighting, producing an authentic lifestyle mood. Captured with an 85mm portrait lens from slight angle, emphasizing lifestyle natural light that's genuine and relaxed, face in sharp focus.
+```
+
+**Prompt 59:**
+```
+A photorealistic profile portrait of a man by window with dramatic soft side lighting, minimalist composition against white wall. The scene is illuminated by natural directional window light creating beautiful shadows, producing a contemplative artistic mood. Captured with an 85mm portrait lens from the side, emphasizing fine art window light photography that's elegant and thoughtful, face in sharp focus.
+```
+
+**Prompt 60:**
+```
+A photorealistic headshot of a man in simple white t-shirt, standing near window with soft natural light. Set against a minimal neutral background. The scene is illuminated by gentle diffused window light creating clean natural atmosphere, producing a fresh authentic mood. Captured with an 85mm portrait lens straight-on, emphasizing natural light portrait style that's pure and honest, face in sharp focus.
+```
+
+---
+
+### 10.3 Overcast Natural
+
+**Prompt 61:**
+```
+A photorealistic portrait of a man in casual outdoor jacket during overcast day, even soft natural lighting on his face. Set in natural environment with trees or landscape blurred behind. The scene is illuminated by diffused cloud light creating subtle atmospheric mood, producing a calm natural atmosphere. Captured with an 85mm portrait lens at eye level, emphasizing outdoor natural light photography that's authentic and peaceful, face in sharp focus.
+```
+
+**Prompt 62:**
+```
+A photorealistic close-up portrait of a man on beach or coastal location, soft overcast light creating even skin tones. Set with ocean or coastal elements blurred in background. The scene is illuminated by cloudy day natural light producing soft flattering lighting, creating a tranquil outdoor mood. Captured with an 85mm portrait lens, emphasizing coastal lifestyle photography that's natural and serene, face in sharp focus.
+```
+
+**Prompt 63:**
+```
+A photorealistic bust shot of a man in urban environment during overcast weather, city elements blurred behind. The scene is illuminated by soft natural diffused light creating moody urban atmosphere, producing a contemporary street mood. Captured with an 85mm portrait lens from slight angle, emphasizing urban natural light style that's authentic and modern, face in sharp focus.
+```
+
+**Prompt 64:**
+```
+A photorealistic portrait of a man in park or outdoor urban setting, soft natural daylight creating even illumination. Set with greenery and park elements blurred softly around. The scene is illuminated by gentle overcast light producing natural authentic mood, creating a relaxed lifestyle atmosphere. Captured with an 85mm portrait lens, emphasizing everyday natural light photography that's genuine and approachable, face in sharp focus.
+```
+
+---
+
+## STYL BONUS: STUDIO PROFESSIONAL 📸
+
+**Zastosowanie:** Clean studio backgrounds, professional versatile portraits
+
+---
+
+### Bonus.1 High-Key Studio
+
+**Prompt 65:**
+```
+A photorealistic headshot of a man in white shirt against pure white seamless background. The scene is illuminated by bright even studio lighting with no shadows, creating a clean minimal aesthetic. Captured with an 85mm portrait lens at eye level, emphasizing high-key studio photography that's fresh and professional, face in sharp focus.
+```
+
+**Prompt 66:**
+```
+A photorealistic professional headshot of a man in casual business attire on white backdrop. The scene is illuminated by professional studio lighting creating crisp clean atmosphere, producing a catalog-ready mood. Captured with an 85mm portrait lens straight-on, emphasizing commercial studio style that's sharp and clear, face in sharp focus.
+```
+
+---
+
+### Bonus.2 Low-Key Studio
+
+**Prompt 67:**
+```
+A photorealistic dramatic close-up portrait of a man in dark clothing against black background, single key light from side. The scene is illuminated by dramatic side lighting creating strong contrast and moody atmosphere, producing an artistic intense mood. Captured with an 85mm portrait lens, emphasizing low-key studio photography that's powerful and dramatic, face in sharp focus.
+```
+
+**Prompt 68:**
+```
+A photorealistic bust shot of a man in neutral tones against dark grey studio backdrop. The scene is illuminated by subtle studio lighting with soft shadows creating sophisticated atmosphere, producing an elegant professional mood. Captured with an 85mm portrait lens at eye level, emphasizing contemporary studio portrait that's refined and polished, face in sharp focus.
+```
+
+---
+
+### Bonus.3 Colored Backdrop
+
+**Prompt 69:**
+```
+A photorealistic portrait of a man in bold navy outfit against matching blue studio background, monochromatic concept. The scene is illuminated by professional studio lighting creating vibrant atmosphere, producing a modern fashion mood. Captured with an 85mm portrait lens with saturated colors, emphasizing fashion studio style that's bold and contemporary, face in sharp focus.
+```
+
+**Prompt 70:**
+```
+A photorealistic headshot of a man in contrasting outfit against vibrant colored studio backdrop - teal, orange, or red. The scene is illuminated by even studio lighting creating fresh modern atmosphere, producing a stylish contemporary mood. Captured with an 85mm portrait lens, emphasizing commercial studio photography that's colorful and eye-catching, face in sharp focus.
+```
+
+---
+
+### Bonus.4 Textured Background
+
+**Prompt 71:**
+```
+A photorealistic bust shot of a man in casual wear against brick wall or urban texture blurred slightly. The scene is illuminated by natural-looking studio light creating authentic atmosphere, producing a modern editorial mood. Captured with an 85mm portrait lens with shallow depth of field, emphasizing textured background portrait that's contemporary and stylish, face in sharp focus.
+```
+
+**Prompt 72:**
+```
+A photorealistic portrait of a man in rugged casual style against weathered wood or industrial backdrop blurred softly. The scene is illuminated by dramatic side lighting creating masculine atmosphere, producing a strong authentic mood. Captured with an 85mm portrait lens, emphasizing rustic studio style that's bold and characterful, face in sharp focus.
+```
+
+---
+
+### Bonus.5 Environmental Portrait
+
+**Prompt 73:**
+```
+A photorealistic close-up portrait of a man in his work environment - workshop, office, or studio visible blurred behind. The scene is illuminated by natural environmental lighting creating authentic atmosphere, producing a documentary professional mood. Captured with an 85mm portrait lens with environmental context, emphasizing environmental portrait photography that's genuine and storytelling, face in sharp focus.
+```
+
+**Prompt 74:**
+```
+A photorealistic bust shot of a craftsman or professional in work attire, tools or workspace elements blurred in background. The scene is illuminated by natural workshop or studio light creating authentic working atmosphere, producing an honest occupational mood. Captured with an 85mm portrait lens, emphasizing professional environmental portrait that's real and characterful, face in sharp focus.
+```
+
+**Prompt 75:**
+```
+A photorealistic portrait of a creative professional at workspace - desk, easel, or equipment visible softly blurred around. The scene is illuminated by natural workspace lighting creating authentic creative atmosphere, producing a genuine professional mood. Captured with an 85mm portrait lens with context elements, emphasizing lifestyle professional photography that's authentic and inspiring, face in sharp focus.
+```
+
+---
+
+### Bonus.6 Seasonal & Lifestyle
+
+**Prompt 76:**
+```
+A photorealistic close-up portrait of a man in cozy winter wear - knit sweater and scarf, snowfall or winter scene blurred behind. The scene is illuminated by soft winter daylight creating crisp seasonal atmosphere, producing a warm cozy mood. Captured with an 85mm portrait lens, emphasizing seasonal winter photography that's warm and inviting, face in sharp focus.
+```
+
+**Prompt 77:**
+```
+A photorealistic portrait of a man in summer casual wear, beach or summer location blurred in background. The scene is illuminated by bright natural summer light creating vibrant atmosphere, producing a relaxed vacation mood. Captured with an 85mm portrait lens with warm tones, emphasizing summer lifestyle photography that's fresh and joyful, face in sharp focus.
+```
+
+**Prompt 78:**
+```
+A photorealistic bust shot of a man in autumn casual style - earth tones and layers, fall foliage blurred around. The scene is illuminated by golden autumn light creating warm seasonal atmosphere, producing a nostalgic cozy mood. Captured with an 85mm portrait lens, emphasizing autumn lifestyle photography that's warm and natural, face in sharp focus.
+```
+
+**Prompt 79:**
+```
+A photorealistic portrait of a man at spring outdoor location - blooming trees or fresh greenery blurred behind. The scene is illuminated by soft spring natural light creating fresh atmosphere, producing a renewing optimistic mood. Captured with an 85mm portrait lens with vibrant natural colors, emphasizing spring outdoor photography that's fresh and alive, face in sharp focus.
+```
+
+**Prompt 80:**
+```
+A photorealistic headshot of a man in urban evening setting, city lights bokeh blurred behind. The scene is illuminated by golden hour mixing with city lights creating atmospheric evening mood, producing a sophisticated urban atmosphere. Captured with an 85mm portrait lens with beautiful bokeh, emphasizing urban evening lifestyle that's stylish and contemporary, face in sharp focus.
+```
+
+---
+
+✅ **KATEGORIA FACECI COMPLETE: 80 PROMPTS** ✅
