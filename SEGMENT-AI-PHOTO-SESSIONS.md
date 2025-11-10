@@ -1847,3 +1847,463 @@ A photorealistic headshot of a man in urban evening setting, city lights bokeh b
 ---
 
 ✅ **KATEGORIA FACECI COMPLETE: 80 PROMPTS** ✅
+
+---
+---
+---
+
+# 💑 KATEGORIA 3: PARY (COUPLES)
+
+**Total prompts w tej kategorii: 60**
+
+---
+
+## STYL 1: ROMANTIC INTIMATE ❤️
+
+**Zastosowanie:** Engagement, anniversary, romantic couples, love stories
+
+---
+
+### 1.1 Close Intimate
+
+**Prompt 1:**
+```
+A photorealistic close-up portrait of a couple with foreheads touching gently, eyes closed in peaceful moment. Set in soft natural environment with blurred greenery behind. The scene is illuminated by golden hour sunlight streaming between them, creating a warm romantic atmosphere. Captured with an 85mm portrait lens at eye level with shallow depth of field, emphasizing intimate couple photography that's tender and emotional, faces in sharp focus.
+```
+
+**Prompt 2:**
+```
+A photorealistic bust shot of a couple embracing closely, her head resting on his chest while looking at camera, his arms wrapped around her. Set against a minimal neutral background. The scene is illuminated by soft natural light creating gentle shadows, producing an intimate loving atmosphere. Captured with an 85mm portrait lens, emphasizing romantic portrait style that's authentic and heartfelt, faces in sharp focus.
+```
+
+**Prompt 3:**
+```
+A photorealistic portrait of a couple sitting close together, her leaning into him with genuine smiles. Set on a cozy couch with warm home interior blurred behind. The scene is illuminated by natural window light falling softly on their faces, creating a comfortable domestic atmosphere. Captured with an 85mm portrait lens from slight angle, emphasizing lifestyle couple photography that's natural and loving, faces in sharp focus.
+```
+
+**Prompt 4:**
+```
+A photorealistic close-up of a couple's faces nearly touching, sharing an intimate laugh together. Set against a dark romantic background. The scene is illuminated by warm ambient lighting creating mood and atmosphere, producing a joyful romantic moment. Captured with an 85mm portrait lens with bokeh, emphasizing emotional couple portrait that's genuine and beautiful, faces in sharp focus.
+```
+
+**Prompt 5:**
+```
+A photorealistic portrait of a couple in close embrace, hands gently touching faces, looking into each other's eyes. Set in a natural outdoor setting with soft blur behind. The scene is illuminated by soft overcast natural light creating even flattering lighting, producing a tender romantic mood. Captured with an 85mm portrait lens, emphasizing engagement-style photography that's intimate and timeless, faces in sharp focus.
+```
+
+---
+
+### 1.2 Playful Romantic
+
+**Prompt 6:**
+```
+A photorealistic bust shot of a couple laughing together genuinely, foreheads nearly touching in joyful moment. Set against a bright airy background. The scene is illuminated by natural bright daylight creating happy atmosphere, producing a fun loving mood. Captured with an 85mm portrait lens with fast shutter to capture spontaneity, emphasizing candid couple photography that's joyful and authentic, faces in sharp focus.
+```
+
+**Prompt 7:**
+```
+A photorealistic portrait of a couple in piggyback position, both laughing with pure joy. Set in an outdoor park or natural setting blurred behind. The scene is illuminated by golden hour sunlight creating warm playful atmosphere, producing an energetic romantic vibe. Captured with an 85mm portrait lens from slight angle, emphasizing fun lifestyle couple style that's spontaneous and happy, faces in sharp focus.
+```
+
+**Prompt 8:**
+```
+A photorealistic close-up of a couple with her kissing his cheek while he grins widely. Set against a simple clean background. The scene is illuminated by bright soft studio lighting creating fresh cheerful atmosphere, producing a sweet playful mood. Captured with an 85mm portrait lens, emphasizing modern couple portrait that's affectionate and genuine, faces in sharp focus.
+```
+
+---
+
+## STYL 2: LIFESTYLE CASUAL 🏡
+
+**Zastosowanie:** Real life, home, everyday couples, authentic moments
+
+---
+
+### 2.1 Home Life
+
+**Prompt 9:**
+```
+A photorealistic portrait of a couple cooking together in kitchen, her stirring while he watches with coffee cup. Set in bright modern kitchen with ingredients blurred around. The scene is illuminated by natural kitchen window light creating warm domestic atmosphere, producing an authentic everyday mood. Captured with an 85mm portrait lens candidly, emphasizing lifestyle home photography that's genuine and relatable, faces in sharp focus.
+```
+
+**Prompt 10:**
+```
+A photorealistic bust shot of a couple on couch with mugs, wrapped in cozy blanket together. Set in living room with plants and home decor blurred behind. The scene is illuminated by soft natural light from windows creating comfortable homey atmosphere, producing a relaxed intimate mood. Captured with an 85mm portrait lens, emphasizing authentic couple lifestyle that's warm and real, faces in sharp focus.
+```
+
+**Prompt 11:**
+```
+A photorealistic close-up portrait of a couple having breakfast together, sharing food and laughing. Set at dining table with morning light and breakfast items blurred around. The scene is illuminated by golden morning sunlight streaming through windows, creating a fresh domestic atmosphere. Captured with an 85mm portrait lens candidly, emphasizing morning lifestyle photography that's authentic and joyful, faces in sharp focus.
+```
+
+**Prompt 12:**
+```
+A photorealistic portrait of a couple on balcony or porch with coffee, enjoying quiet morning together. Set with outdoor morning view blurred in background. The scene is illuminated by soft morning light creating peaceful atmosphere, producing a serene couple moment. Captured with an 85mm portrait lens, emphasizing lifestyle morning ritual that's intimate and calm, faces in sharp focus.
+```
+
+---
+
+### 2.2 Outdoor Adventure
+
+**Prompt 13:**
+```
+A photorealistic bust shot of a couple hiking together, both in outdoor gear with backpacks, mountain vista blurred behind. The scene is illuminated by bright natural daylight creating adventurous atmosphere, producing an active outdoor mood. Captured with an 85mm portrait lens at eye level, emphasizing adventure couple photography that's energetic and inspiring, faces in sharp focus.
+```
+
+**Prompt 14:**
+```
+A photorealistic portrait of a couple on beach at sunset, walking hand in hand with ocean blurred behind. The scene is illuminated by golden sunset light creating romantic coastal atmosphere, producing a dreamy vacation vibe. Captured with an 85mm portrait lens from slight angle, emphasizing beach lifestyle couple style that's beautiful and natural, faces in sharp focus.
+```
+
+**Prompt 15:**
+```
+A photorealistic close-up of a couple in autumn forest, surrounded by fall colors with leaves blurred around them. The scene is illuminated by soft autumn sunlight filtering through trees, creating a warm seasonal atmosphere. Captured with an 85mm portrait lens, emphasizing fall couple photography that's romantic and nostalgic, faces in sharp focus.
+```
+
+---
+
+## STYL 3: ELEGANT FORMAL 💍
+
+**Zastosowanie:** Wedding, engagement, formal events, dressed up
+
+---
+
+### 3.1 Wedding Style
+
+**Prompt 16:**
+```
+A photorealistic portrait of a couple in wedding attire - bride in elegant dress, groom in suit, standing close with hands clasped. Set in romantic outdoor garden with florals blurred softly behind. The scene is illuminated by natural soft daylight creating dreamy wedding atmosphere, producing an elegant romantic mood. Captured with an 85mm portrait lens with beautiful bokeh, emphasizing classic wedding photography that's timeless and beautiful, faces in sharp focus.
+```
+
+**Prompt 17:**
+```
+A photorealistic close-up of a couple in formal wedding wear, foreheads touching in tender moment. Set against a minimal elegant background. The scene is illuminated by soft natural light creating intimate wedding atmosphere, producing a heartfelt emotional mood. Captured with an 85mm portrait lens with shallow depth of field, emphasizing emotional wedding portrait that's genuine and romantic, faces in sharp focus.
+```
+
+**Prompt 18:**
+```
+A photorealistic bust shot of a couple in semi-formal attire for engagement session, holding hands while looking at each other. Set in elegant indoor location with architectural elements blurred behind. The scene is illuminated by warm ambient lighting creating sophisticated atmosphere, producing a refined romantic vibe. Captured with an 85mm portrait lens, emphasizing engagement photography that's elegant and intimate, faces in sharp focus.
+```
+
+---
+
+### 3.2 Dressed Up
+
+**Prompt 19:**
+```
+A photorealistic portrait of a couple in formal evening wear - her in elegant dress, him in suit, standing together confidently. Set in upscale urban location with city lights blurred behind. The scene is illuminated by evening golden hour mixing with city lights, creating a sophisticated glamorous atmosphere. Captured with an 85mm portrait lens from slight low angle, emphasizing high-end couple photography that's stylish and elegant, faces in sharp focus.
+```
+
+**Prompt 20:**
+```
+A photorealistic close-up of a couple dressed elegantly for date night, her adjusting his tie while smiling. Set against a romantic restaurant or hotel interior blurred softly. The scene is illuminated by warm ambient interior lighting creating intimate upscale atmosphere, producing a romantic sophisticated mood. Captured with an 85mm portrait lens, emphasizing lifestyle formal couple style that's classy and genuine, faces in sharp focus.
+```
+
+---
+
+## STYL 4: ADVENTURE TRAVEL ✈️
+
+**Zastosowanie:** Travel couples, wanderlust, exploring together
+
+---
+
+### 4.1 Urban Exploration
+
+**Prompt 21:**
+```
+A photorealistic portrait of a couple exploring city together, walking through urban streets with architecture blurred behind. The scene is illuminated by natural daylight creating vibrant city atmosphere, producing an adventurous travel mood. Captured with an 85mm portrait lens candidly, emphasizing urban travel couple photography that's authentic and energetic, faces in sharp focus.
+```
+
+**Prompt 22:**
+```
+A photorealistic bust shot of a couple with map or phone navigating city, both laughing at getting lost together. Set on colorful city street with graffiti and urban elements blurred around. The scene is illuminated by soft overcast light creating authentic travel atmosphere, producing a fun spontaneous vibe. Captured with an 85mm portrait lens, emphasizing candid travel photography that's genuine and joyful, faces in sharp focus.
+```
+
+**Prompt 23:**
+```
+A photorealistic close-up of a couple at famous landmark, taking selfie together with monument blurred in background. The scene is illuminated by bright natural tourist location lighting, creating a happy vacation atmosphere. Captured with an 85mm portrait lens from unique angle, emphasizing travel couple moment that's fun and memorable, faces in sharp focus.
+```
+
+---
+
+### 4.2 Nature Adventure
+
+**Prompt 24:**
+```
+A photorealistic portrait of a couple at mountain summit, celebrating achievement together with epic landscape blurred behind. The scene is illuminated by bright mountain sunlight creating triumphant atmosphere, producing an inspiring adventure mood. Captured with an 85mm portrait lens at eye level, emphasizing outdoor adventure couple style that's powerful and uplifting, faces in sharp focus.
+```
+
+**Prompt 25:**
+```
+A photorealistic bust shot of a couple camping, sitting by tent with wilderness blurred in background. The scene is illuminated by warm campfire glow mixing with twilight blue hour, creating a cozy outdoor atmosphere. Captured with an 85mm portrait lens, emphasizing camping couple photography that's authentic and adventurous, faces in sharp focus with fire glow on features.
+```
+
+**Prompt 26:**
+```
+A photorealistic close-up of a couple on boat or kayak together, paddling in sync with water blurred around. The scene is illuminated by golden hour sunlight on water creating magical atmosphere, producing a romantic outdoor adventure vibe. Captured with an 85mm portrait lens, emphasizing water adventure couple style that's dynamic and beautiful, faces in sharp focus.
+```
+
+---
+
+## STYL 5: ARTISTIC CREATIVE 🎨
+
+**Zastosowanie:** Creative couples, artistic portraits, unique styling
+
+---
+
+### 5.1 Fine Art Couples
+
+**Prompt 27:**
+```
+A photorealistic dramatic black and white portrait of a couple in elegant pose, strong composition with dramatic lighting. Set against a minimal dark background. The scene is illuminated by single dramatic light source creating chiaroscuro effect, producing an intense artistic mood. Captured with an 85mm portrait lens, emphasizing fine art couple photography that's timeless and powerful, faces in sharp focus with high contrast.
+```
+
+**Prompt 28:**
+```
+A photorealistic portrait of a couple in artistic fashion styling, creative poses with flowing fabric around them. Set in minimalist artistic environment. The scene is illuminated by soft directional light creating sculptural atmosphere, producing an editorial artistic vibe. Captured with an 85mm portrait lens with creative composition, emphasizing fashion couple editorial that's striking and sophisticated, faces in sharp focus.
+```
+
+**Prompt 29:**
+```
+A photorealistic close-up of a couple with creative artistic makeup or styling, faces close together. Set against a textured artistic backdrop. The scene is illuminated by dramatic studio lighting creating bold atmosphere, producing a contemporary art mood. Captured with an 85mm portrait lens, emphasizing artistic couple portrait that's unique and expressive, faces in sharp focus.
+```
+
+---
+
+### 5.2 Vintage Aesthetic
+
+**Prompt 30:**
+```
+A photorealistic portrait of a couple in 1950s vintage styling - her in retro dress, him in classic suit, romantic vintage pose. Set in retro diner or vintage car blurred behind. The scene is illuminated by warm nostalgic lighting creating authentic vintage atmosphere, producing a timeless romantic vibe. Captured with an 85mm portrait lens with vintage color grading, emphasizing 1950s couple photography that's iconic and romantic, faces in sharp focus.
+```
+
+**Prompt 31:**
+```
+A photorealistic bust shot of a couple in 1970s boho style - flowing dresses and earthy tones, free-spirited pose. Set in vintage van or bohemian setting blurred around. The scene is illuminated by golden hour creating groovy atmosphere, producing a nostalgic hippie love vibe. Captured with an 85mm portrait lens with vintage film look, emphasizing 1970s couple style that's authentic and dreamy, faces in sharp focus.
+```
+
+**Prompt 32:**
+```
+A photorealistic close-up of a couple in classic film noir style - 1940s clothing and dramatic pose. Set in noir-appropriate environment with venetian blind shadows. The scene is illuminated by dramatic noir lighting creating mysterious atmosphere, producing a cinematic vintage mood. Captured with an 85mm portrait lens in black and white, emphasizing film noir couple style that's dramatic and classic, faces in sharp focus.
+```
+
+---
+
+## STYL 6: SEASONAL THEMED 🍂
+
+**Zastosowanie:** Seasonal couple photos, holiday themed, weather-specific
+
+---
+
+### 6.1 Winter Cozy
+
+**Prompt 33:**
+```
+A photorealistic portrait of a couple in cozy winter wear - scarves and sweaters, holding hot drinks together. Set in snowy landscape or winter scene blurred behind. The scene is illuminated by soft winter daylight creating crisp seasonal atmosphere, producing a warm cozy mood. Captured with an 85mm portrait lens, emphasizing winter couple photography that's warm and romantic, faces in sharp focus.
+```
+
+**Prompt 34:**
+```
+A photorealistic close-up of a couple ice skating together, holding hands with ice rink blurred around. The scene is illuminated by winter evening lights creating magical atmosphere, producing a festive romantic vibe. Captured with an 85mm portrait lens with motion blur in background, emphasizing winter activity couple style that's joyful and seasonal, faces in sharp focus.
+```
+
+---
+
+### 6.2 Summer Bright
+
+**Prompt 35:**
+```
+A photorealistic bust shot of a couple at summer beach in swimwear and cover-ups, beach umbrellas and ocean blurred behind. The scene is illuminated by bright summer sunlight creating vibrant atmosphere, producing a relaxed vacation mood. Captured with an 85mm portrait lens, emphasizing summer beach couple photography that's fresh and joyful, faces in sharp focus.
+```
+
+**Prompt 36:**
+```
+A photorealistic portrait of a couple at summer festival or outdoor concert, dancing together with crowd blurred around. The scene is illuminated by golden hour festival lighting creating energetic atmosphere, producing a fun celebratory vibe. Captured with an 85mm portrait lens candidly, emphasizing summer lifestyle couple that's spontaneous and happy, faces in sharp focus.
+```
+
+---
+
+### 6.3 Autumn Warm
+
+**Prompt 37:**
+```
+A photorealistic close-up of a couple in autumn sweaters, surrounded by fall foliage with leaves blurred around them. The scene is illuminated by golden autumn sunlight filtering through trees, creating a warm nostalgic atmosphere. Captured with an 85mm portrait lens with beautiful bokeh, emphasizing fall couple photography that's cozy and romantic, faces in sharp focus.
+```
+
+**Prompt 38:**
+```
+A photorealistic portrait of a couple apple picking or at pumpkin patch, holding seasonal items together. Set in autumn farm setting with harvest elements blurred behind. The scene is illuminated by soft autumn daylight creating warm seasonal mood, producing a nostalgic homey atmosphere. Captured with an 85mm portrait lens, emphasizing autumn lifestyle couple that's genuine and seasonal, faces in sharp focus.
+```
+
+---
+
+## STYL 7: STUDIO PROFESSIONAL 📸
+
+**Zastosowanie:** Clean studio couples, professional portraits
+
+---
+
+### 7.1 High-Key Studio
+
+**Prompt 39:**
+```
+A photorealistic portrait of a couple in coordinating neutral outfits against pure white seamless background. The scene is illuminated by bright even studio lighting with no shadows, creating a clean minimal aesthetic. Captured with an 85mm portrait lens at eye level, emphasizing high-key couple photography that's fresh and professional, faces in sharp focus.
+```
+
+**Prompt 40:**
+```
+A photorealistic bust shot of a couple in casual elegant wear on white backdrop, natural poses touching gently. The scene is illuminated by professional studio lighting creating crisp clean atmosphere, producing a catalog-style mood. Captured with an 85mm portrait lens, emphasizing commercial couple portrait that's sharp and polished, faces in sharp focus.
+```
+
+---
+
+### 7.2 Low-Key Studio
+
+**Prompt 41:**
+```
+A photorealistic dramatic close-up of a couple against black background, dramatic side lighting creating strong shadows. The scene is illuminated by single key light from side producing moody artistic atmosphere, creating an intense romantic mood. Captured with an 85mm portrait lens, emphasizing low-key couple photography that's powerful and emotional, faces in sharp focus.
+```
+
+**Prompt 42:**
+```
+A photorealistic portrait of a couple in dark elegant clothing against dark grey backdrop. The scene is illuminated by subtle studio lighting with soft shadows creating sophisticated atmosphere, producing an elegant refined mood. Captured with an 85mm portrait lens, emphasizing contemporary studio couple portrait that's classy and timeless, faces in sharp focus.
+```
+
+---
+
+### 7.3 Colored Backdrop
+
+**Prompt 43:**
+```
+A photorealistic bust shot of a couple in coordinating outfits against vibrant teal or coral studio background. The scene is illuminated by professional studio lighting creating fresh modern atmosphere, producing a stylish contemporary mood. Captured with an 85mm portrait lens with saturated colors, emphasizing fashion couple studio style that's bold and eye-catching, faces in sharp focus.
+```
+
+**Prompt 44:**
+```
+A photorealistic portrait of a couple against monochromatic colored backdrop matching their outfits. The scene is illuminated by even studio lighting creating cohesive artistic atmosphere, producing a modern editorial vibe. Captured with an 85mm portrait lens, emphasizing creative couple studio photography that's unique and striking, faces in sharp focus.
+```
+
+---
+
+## STYL 8: CINEMATIC DRAMATIC 🎬
+
+**Zastosowanie:** Movie-style, dramatic lighting, storytelling couples
+
+---
+
+### 8.1 Film-Inspired
+
+**Prompt 45:**
+```
+A photorealistic portrait of a couple in cinematic pose backlit by dramatic sunset, rim lighting glowing around them. Set in epic outdoor location with landscape blurred behind. The scene is illuminated by golden hour creating silhouette with edge lighting, producing a romantic cinematic atmosphere. Captured with an 85mm portrait lens with lens flare, emphasizing movie poster couple style that's dramatic and beautiful, faces in sharp focus.
+```
+
+**Prompt 46:**
+```
+A photorealistic close-up of a couple in rain with umbrella, city lights bokeh blurred behind them. The scene is illuminated by neon lights and streetlights creating moody urban atmosphere, producing a cinematic romantic vibe. Captured with an 85mm portrait lens with shallow depth of field, emphasizing cinematic couple photography that's atmospheric and emot ional, faces in sharp focus.
+```
+
+**Prompt 47:**
+```
+A photorealistic bust shot of a couple in film noir style - 1940s clothing, dramatic shadows on faces. Set in noir alley with moody fog and street lamp blurred behind. The scene is illuminated by dramatic directional lighting creating venetian blind shadows, producing a mysterious cinematic mood. Captured with an 85mm portrait lens in black and white, emphasizing noir couple style that's classic and dramatic, faces in sharp focus.
+```
+
+---
+
+### 8.2 Epic Romance
+
+**Prompt 48:**
+```
+A photorealistic portrait of a couple on mountaintop or cliff edge, wind blowing through hair and clothes. Set against epic landscape vista blurred dramatically behind. The scene is illuminated by dramatic natural light creating heroic atmosphere, producing an epic romantic adventure mood. Captured with an 85mm portrait lens from slight low angle, emphasizing cinematic epic couple style that's powerful and inspiring, faces in sharp focus.
+```
+
+**Prompt 49:**
+```
+A photorealistic close-up of a couple in dramatic embrace during golden hour, sun setting behind creating rim light halo. Set in open field or beach with horizon blurred. The scene is illuminated by backlight creating magical atmospheric glow, producing a dreamy cinematic romance. Captured with an 85mm portrait lens with beautiful flare, emphasizing romantic movie-style couple that's breathtaking and emotional, faces in sharp focus.
+```
+
+**Prompt 50:**
+```
+A photorealistic portrait of a couple running together hand in hand, motion captured mid-stride with joyful expressions. Set in dramatic location - city street or natural landscape blurred with motion. The scene is illuminated by dynamic natural light creating energetic atmosphere, producing a spontaneous cinematic vibe. Captured with an 85mm portrait lens with fast shutter, emphasizing action couple photography that's dynamic and romantic, faces in sharp focus.
+```
+
+---
+
+## STYL 9: NATURAL LIGHT GOLDEN HOUR ☀️
+
+**Zastosowanie:** Sunset, sunrise, golden hour magic
+
+---
+
+### 9.1 Sunset Romance
+
+**Prompt 51:**
+```
+A photorealistic portrait of a couple silhouetted against vibrant sunset sky, holding each other close. Set on beach or hilltop with sunset horizon blurred behind. The scene is illuminated by golden sunset creating warm glowing rim light, producing a romantic dreamy atmosphere. Captured with an 85mm portrait lens with sun in frame, emphasizing golden hour couple photography that's magical and beautiful, faces in sharp focus with sunset glow.
+```
+
+**Prompt 52:**
+```
+A photorealistic close-up of a couple bathed in golden hour light, warm sun creating rim light around their faces. Set in natural environment with soft blur behind. The scene is illuminated by sideways golden sunlight creating ethereal glow, producing a warm romantic mood. Captured with an 85mm portrait lens with beautiful bokeh, emphasizing sunset couple portrait that's dreamy and intimate, faces in sharp focus.
+```
+
+**Prompt 53:**
+```
+A photorealistic bust shot of a couple walking together at sunset, golden light streaming between them. Set on beach or field with sunset colors blurred around. The scene is illuminated by warm golden hour creating peaceful atmosphere, producing a serene romantic vibe. Captured with an 85mm portrait lens from behind/side, emphasizing lifestyle golden hour couple that's natural and beautiful, faces in sharp focus from profile/three-quarter view.
+```
+
+---
+
+### 9.2 Sunrise Fresh
+
+**Prompt 54:**
+```
+A photorealistic portrait of a couple at sunrise, soft morning light creating fresh atmosphere. Set in outdoor location with morning mist and landscape blurred behind. The scene is illuminated by gentle sunrise creating crisp morning glow, producing a peaceful new beginning mood. Captured with an 85mm portrait lens, emphasizing sunrise couple photography that's fresh and hopeful, faces in sharp focus.
+```
+
+**Prompt 55:**
+```
+A photorealistic close-up of a couple with coffee at sunrise, morning light creating soft glow on faces. Set on balcony or porch with morning view blurred behind. The scene is illuminated by warm sunrise light filtering through, creating a quiet intimate morning atmosphere. Captured with an 85mm portrait lens, emphasizing morning lifestyle couple that's peaceful and genuine, faces in sharp focus.
+```
+
+---
+
+## STYL 10: CANDID DOCUMENTARY 📷
+
+**Zastosowanie:** Real moments, unposed, authentic emotion
+
+---
+
+### 10.1 Genuine Moments
+
+**Prompt 56:**
+```
+A photorealistic candid portrait of a couple laughing together naturally, caught in genuine moment of joy. Set in everyday environment with natural blur around. The scene is illuminated by available natural light creating authentic atmosphere, producing a real emotional mood. Captured with an 85mm portrait lens candidly without posing, emphasizing documentary couple photography that's honest and joyful, faces in sharp focus.
+```
+
+**Prompt 57:**
+```
+A photorealistic bust shot of a couple cooking or doing activity together, natural interaction captured. Set in home kitchen or workspace with authentic elements blurred around. The scene is illuminated by natural environmental lighting creating genuine atmosphere, producing a relatable everyday vibe. Captured with an 85mm portrait lens in documentary style, emphasizing lifestyle candid couple that's real and heartwarming, faces in sharp focus.
+```
+
+**Prompt 58:**
+```
+A photorealistic close-up of a couple sharing quiet tender moment, gentle touches and soft expressions. Set in natural intimate environment with soft blur. The scene is illuminated by soft natural light creating gentle atmosphere, producing an authentic emotional mood. Captured with an 85mm portrait lens unobtrusively, emphasizing intimate documentary couple style that's genuine and touching, faces in sharp focus.
+```
+
+---
+
+### 10.2 Lifestyle Stories
+
+**Prompt 59:**
+```
+A photorealistic portrait of a couple at farmer's market or shopping together, natural interaction while choosing items. Set among market stalls or shops with people and activity blurred around. The scene is illuminated by natural daylight creating vibrant atmosphere, producing an authentic lifestyle vibe. Captured with an 85mm portrait lens candidly, emphasizing everyday couple photography that's real and relatable, faces in sharp focus.
+```
+
+**Prompt 60:**
+```
+A photorealistic bust shot of a couple walking dog together in park, natural smiles while interacting with pet. Set in park or outdoor space with greenery and pathway blurred around. The scene is illuminated by soft natural outdoor light creating peaceful atmosphere, producing a genuine family moment. Captured with an 85mm portrait lens in lifestyle documentary style, emphasizing authentic couple life that's warm and real, faces in sharp focus.
+```
+
+---
+
+✅ **KATEGORIA PARY COMPLETE: 60 PROMPTS** ✅
